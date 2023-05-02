@@ -1,0 +1,12 @@
+EvolvedRecipeName_VN = {
+    EvolvedRecipeName_Base.CannedBologneseOpen = "Bologna đóng hộp",
+    EvolvedRecipeName_Base.CannedCarrotsOpen = "Cà rốt đóng hộp",
+    EvolvedRecipeName_Base.CannedChiliOpen = "Ớt đóng hộp",
+    EvolvedRecipeName_Base.CannedCornOpen = "Ngô đóng hộp",
+    EvolvedRecipeName_Base.CannedCornedBeefOpen = "Thịt bò bắp đóng hộp",
+    EvolvedRecipeName_Base.CannedPeasOpen = "Đậu đóng hộp",
+    EvolvedRecipeName_Base.CannedPotatoOpen = "Khoai tây đóng hộp",
+    EvolvedRecipeName_Base.CannedSardinesOpen = "Cá mòi đóng hộp",
+    EvolvedRecipeName_Base.CannedTomatoOpen = "Cà chua đóng hộp",
+    EvolvedRecipeName_Base.Teabag2 = "Trà",
+}

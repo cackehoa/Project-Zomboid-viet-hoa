@@ -1,0 +1,27 @@
+MultiStageBuild_VN = {
+    -- Wooden Wall
+    MultiStageBuild_CreateWoodenWall_1 = "Tạo tường gỗ cấp 1",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "Nâng cấp lên tường gỗ cấp 2",
+    MultiStageBuild_CreateWoodenWall_2 = "Tạo tường gỗ cấp 2",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "Nâng cấp lên tường gỗ cấp 3",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "Nâng cấp lên tường gỗ cấp 3",
+    MultiStageBuild_CreateWoodenWall_3 = "Tạo tường gỗ cấp 3",
+    -- Wooden Window
+    MultiStageBuild_CreateWoodenWindow_1 = "Tạo cửa sổ gỗ cấp 1",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "Nâng cấp lên cửa sổ gỗ cấp 2",
+    MultiStageBuild_CreateWoodenWindow_2 = "Tạo cửa sổ gỗ cấp 2",
+    MultiStageBuild_UpgradeWoodenWindow_1To3 = "Nâng cấp lên cửa sổ gỗ cấp 3",
+    MultiStageBuild_UpgradeWoodenWindow_2To3 = "Nâng cấp lên cửa sổ gỗ cấp 3",
+    MultiStageBuild_CreateWoodenWindow_3 = "Tạo cửa sổ gỗ cấp 3",
+    -- Metal Wall
+    MultiStageBuild_CreateMetalWall_1 = "Tạo tường sắt cấp 1",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "Nâng cấp lên tường sắt cấp 2",
+    MultiStageBuild_CreateMetalWall_2 = "Tạo tường sắt cấp 2",
+    -- Metal Window
+    MultiStageBuild_CreateMetalWindow_1 = "Tạo cửa sổ sắt cấp 1",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "Nâng cấp lên cửa sổ sắt cấp 2",
+    MultiStageBuild_CreateMetalWindow_2 = "Tạo cửa sổ sắt cấp 2",
+    -- wooden door frame
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Nâng cấp lên khung cửa gỗ cấp 2",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Nâng cấp lên khung cửa gỗ cấp 3",
+}
