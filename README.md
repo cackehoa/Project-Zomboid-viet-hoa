@@ -12,6 +12,9 @@ Cài đặt trò chơi Project Zomboid và chạy thử trước khi cài việt
 
 Đề nghị mua trò chơi để ủng hộ nhà sản xuất.
 
+## Phiên bản việt hóa
+Mình việt hóa phiên bản 41.78.16 nên có thể sẽ không chạy đúng với những phiên bản khác
+
 ## Cài đặt việt hóa
 
 Copy thư mục [media](media/) dán vào thư mục trò chơi Project Zomboid

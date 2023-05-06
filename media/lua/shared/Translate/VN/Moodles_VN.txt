@@ -109,6 +109,7 @@ Moodles_VN = {
     Moodles_windchill_lvl2 = "Gió lạnh khó chịu",
     Moodles_windchill_lvl3 = "Gió lạnh đóng băng",
     Moodles_windchill_lvl4 = "Gió lạnh khủng khiếp",
+    
     -- Description of moodle
     -- Endurance
     Moodles_endurance_desc_lvl1 = "Nghỉ ngơi một lát.",
