@@ -36,10 +36,10 @@ Moodles_VN = {
     Moodles_hungry_lvl3 = "Rất đói",
     Moodles_hungry_lvl4 = "Chết đói",
     -- Panic
-    Moodles_panic_lvl1 = "Hoảng sợ nhẹ",
-    Moodles_panic_lvl2 = "Hoảng sợ",
-    Moodles_panic_lvl3 = "Hoảng sợ mạnh",
-    Moodles_panic_lvl4 = "Hoảng sợ cực độ",
+    Moodles_panic_lvl1 = "Hoảng loạn nhẹ",
+    Moodles_panic_lvl2 = "Hoảng loạn",
+    Moodles_panic_lvl3 = "Hoảng loạn mạnh",
+    Moodles_panic_lvl4 = "Hoảng loạn cực độ",
     -- Sick
     Moodles_sick_lvl1 = "Khó chịu",
     Moodles_sick_lvl2 = "Buồn nôn",
@@ -197,13 +197,13 @@ Moodles_VN = {
     Moodles_drunk_desc_lvl3 = "Phối hợp suy giảm.",
     Moodles_drunk_desc_lvl4 = "'Iss bạn và 'tôi' chống lại thế giới. Anh Yêu Em. ANH YÊU EM.'",
     -- Dead
-    Moodles_dead_desc_lvl1 = "Nguy cơ cao trở thành thức ăn của chuột.",
+    Moodles_dead_desc_lvl1 = "Nguy cơ cao trở thành thực phẩm của chuột.",
     -- Zombified
     Moodles_zombified_desc_lvl1 = "Đột nhiên muốn ăn thịt người.",
     -- Food eaten
     Moodles_foodeaten_desc_lvl1 = "Cơn đói cồn cào hoàn toàn vắng mặt.",
     Moodles_foodeaten_desc_lvl2 = "Đầy bụng. Thật tốt khi nó đi qua hệ thống của bạn.",
-    Moodles_foodeaten_desc_lvl3 = "Bụng mãn nguyện. Sức khỏe và sức mạnh được hỗ trợ.",
+    Moodles_foodeaten_desc_lvl3 = "Dạ dày mãn nguyện. Sức khỏe và sức mạnh được hỗ trợ.",
     Moodles_foodeaten_desc_lvl4 = "Không thể quản lý một vết cắn đơn độc khác.",
     -- Hyperthermia
     Moodles_hyperthermia_desc_lvl1 = "Cân nhắc cởi quần áo. Khát nước tăng lên.",

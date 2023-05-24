@@ -45,7 +45,7 @@ Tooltip_VN = {
     Tooltip_item_TwoHandWeapon = "Tác động hạn chế khi sử dụng bằng một tay.",
     -- Crafting tooltip
     Tooltip_craft_barElementDesc = "Quầy gỗ, có lẽ được tìm thấy trong quán rượu ưa thích",
-    Tooltip_craft_woodenStakeDesc = "Sào vót nhọn để cắm xuống đất. Có thể được gắn vào dây thép gai",
+    Tooltip_craft_woodenStakeDesc = "Cột vót nhọn để cắm xuống đất. Có thể được gắn vào dây thép gai",
     Tooltip_craft_Needs = "Nhu cầu",
     Tooltip_craft_barbedFenceDesc = "Làm chậm chuyển động và có thể gây ra vết thương trên bề mặt",
     Tooltip_craft_woodenFenceDesc = "Cung cấp sự bảo vệ hạn chế khỏi đám đông",
