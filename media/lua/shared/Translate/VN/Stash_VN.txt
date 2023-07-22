@@ -38,7 +38,7 @@ Stash_VN = {
     Stash_LVMap9_Text2 = "đừng để bị lạc trong cây",
     Stash_LVMap9_Text3 = "những thứ đó cũng ở trong đó",
     
-    Stash_LVMap10_Text1 = "mẹ già với ngôi nhà đầy thức ăn",
+    Stash_LVMap10_Text1 = "mẹ già với nhà đầy thực phẩm",
     Stash_LVMap10_Text2 = "và không có súng",
     Stash_LVMap10_Text3 = "chỉ cần không mang lại tất cả chết tiệt",
     Stash_LVMap10_Text4 = "đám đông với bạn thời gian này!",
@@ -101,7 +101,7 @@ Stash_VN = {
     Stash_MulMap7_Text1 = "Kế hoạch B.",
     Stash_MulMap7_Text2 = "Store – VẪN ĐẦY ĐỦ",
     Stash_MulMap7_Text3 = "chết tiệt",
-    Stash_MulMap8_Text1 = "Lấy đồ của tôi. Hãy chôn tôi nếu có thể và an toàn. Chúa phù hộ bạn.",
+    Stash_MulMap8_Text1 = "Lấy đồ của tôi. Hãy chôn tôi nếu có thể và an toàn. Trời phù hộ bạn.",
     Stash_MulMap8_Text2 = "lấy đồ uống nếu bạn cần",
     Stash_MulMap8_Text3 = "đám đông lớn, đã không di chuyển trong nhiều ngày",
     Stash_MulMap10_Text1 = "nhà tử thần",
@@ -110,7 +110,7 @@ Stash_VN = {
     Stash_MulMap11_Text1 = "Súng trong Spiffo.",
     Stash_MulMap11_Text2 = "Thuốc đây.",
     Stash_MulMap11_Text3 = "rắc rối",
-    Stash_MulMap12_Text1 = "súng săn ở đây - thức ăn trong bếp?.",
+    Stash_MulMap12_Text1 = "súng săn ở đây - thực phẩm trong bếp?.",
     Stash_MulMap12_Text2 = "y tế chết tiệt",
     Stash_MulMap12_Text3 = "đám đông lớn",
     Stash_MulMap13_Text1 = "về được nửa đường mà phải bỏ hết ở đây - nặng quá",
@@ -132,7 +132,7 @@ Stash_VN = {
     Stash_MulMap17_Text2 = "kiểm tra tiệm bánh kế bên nữa",
     Stash_MulMap17_Text3 = "mẹ cẩn thận, bố vẫn lang thang đây đó",
     
-    Stash_MulMap18_Text1 = "Trailer của Crazy Willy",
+    Stash_MulMap18_Text1 = "Xe moóc của Crazy Willy",
     Stash_MulMap18_Text11 = "nghe nói anh ấy quay lại",
     Stash_MulMap18_Text12 = "hy vọng tất cả súng của anh ấy vẫn còn đó",
     
@@ -173,7 +173,7 @@ Stash_VN = {
     Stash_WpMap13_Text2 = "rìu giết: 20",
     Stash_WpMap13_Text3 = "ô tô giết: 11",
     
-    Stash_WpMap14_Text1 = "Gặp tôi ở đây Tonya! Có đủ thức ăn.",
+    Stash_WpMap14_Text1 = "Gặp tôi ở đây Tonya! Có đủ thực phẩm.",
     Stash_WpMap14_Text11 = "Bây giờ chúng ta chỉ cần đợi Colin với thuyền của anh ấy",
     
     Stash_WpMap15_Text1 = "Họ sẽ không bao giờ tìm thấy chúng ta ở đây, tin tôi đi",
@@ -186,7 +186,7 @@ Stash_VN = {
     Stash_WpMap16_Text3 = "cơ hội sinh tồn:",
     Stash_WpMap16_Text31 = "một tháng: 58%",
     Stash_WpMap16_Text32 = "qua mùa đông: 22%",
-    Stash_WpMap16_Text4 = "Cần thêm thức ăn và xe làm việc",
+    Stash_WpMap16_Text4 = "Cần thêm thực phẩm và xe làm việc",
     
     Stash_MarchRidgeMap1_Text1 = "Súng đây",
     Stash_MarchRidgeMap1_Text2 = "rìu và dụng cụ ở đây?",
@@ -215,7 +215,7 @@ Stash_VN = {
     Stash_MarchRidgeMap8_Text2 = "Sẽ không cần chúng nữa",
     
     Stash_MarchRidgeMap9_Text1 = "những người sống sót chào mừng bạn đến tham gia với chúng tôi",
-    Stash_MarchRidgeMap9_Text2 = "luôn cần thêm thức ăn, súng và các thứ khác",
+    Stash_MarchRidgeMap9_Text2 = "luôn cần thêm thực phẩm, súng và các thứ khác",
     Stash_MarchRidgeMap9_Text3 = "giết vài Z trên đường để có thêm danh tiếng!",
     
     Stash_MarchRidgeMap10_Text1 = "Phước lành cho tâm hồn tốt",

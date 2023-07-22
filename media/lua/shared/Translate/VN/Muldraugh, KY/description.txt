@@ -1,11 +1,9 @@
 Muldraugh
  <LINE> <LINE>
- Muldraugh is a small town in an area the locals know as "Knox Country" -
- the dead centre of the State of Kentucky. It grew as an Army town, but now welcomes
- folks from all walks of life - some commuters to the bigger towns
- nearby, some military families and some living below the poverty line.
+ Muldraugh là một thị trấn nhỏ trong khu vực mà người dân địa phương gọi là "Quốc gia Knox"
+ - trung tâm chết chóc của Bang Kentucky. Nó phát triển như một thị trấn Quân đội,
+ nhưng giờ đây chào đón mọi người từ mọi tầng lớp xã hội - vài người đi làm đến các thị trấn lớn hơn gần đó,
+ vài gia đình quân nhân và một số sống dưới mức nghèo khổ.
  <LINE> <LINE>
- It's a small place, filled with good people - not to mention Spiffo�s finest
- Chicken and Biscuits this side of Kentucky! Sure, not much happens here -
- but that doesn't mean Muldraugh life is dull...
-
+Đó là một nơi nhỏ, đầy những người tốt - chưa kể món Gà và Bánh quy ngon nhất của Spiffo ở phía bên này của Kentucky!
+Chắc chắn, không có nhiều điều xảy ra ở đây - nhưng điều đó không có nghĩa là cuộc sống của Muldraugh buồn tẻ...

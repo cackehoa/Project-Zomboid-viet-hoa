@@ -137,7 +137,7 @@ GameSound_VN = {
     GameSound_NewMusic_Surrounded = "Chính thức: Được bao quanh",
     GameSound_NewMusic_TakeStock = "Chính thức: Take Stock",
     GameSound_NewMusic_TheHorde = "Chính thức: Đám đông",
-    GameSound_NewMusic_Death = "Chính thức: Thần chết",
+    GameSound_NewMusic_Death = "Chính thức: Death",
     GameSound_NewMusic_TheInevitable = "Chính thức: Không thể tránh khỏi",
     GameSound_NewMusic_ThePlan = "Chính thức: The Plan",
     GameSound_NewMusic_TheZombieThreat = "Chính thức: Mối đe dọa zombie",
@@ -227,7 +227,7 @@ GameSound_VN = {
     GameSound_ToggleStove = "Toggle Stove",
     GameSound_StoveTimerExpired = "Stove Timer Expired",
     GameSound_LightSwitch = "Công tắc đèn",
-    GameSound_RadioButton = "Nút radio",
+    GameSound_RadioButton = "Phím radio",
     GameSound_RadioStatic = "Radio tĩnh",
     GameSound_RadioTalk = "Radio nói",
     GameSound_RadioZap = "Radio Zap",
@@ -390,3 +390,4 @@ GameSound_VN = {
     GameSound_TutorialZombie = "TutorialZombie",
     
 }
+

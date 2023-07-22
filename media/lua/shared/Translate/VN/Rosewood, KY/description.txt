@@ -1,10 +1,10 @@
 Rosewood
  <LINE> <LINE>
- A short stay in Rosewood is pleasant, but a long stay?
- Well the inmates of the famous Knox Penitentiary will tell you: that�s not so fun!
+ Ở lại Rosewood một thời gian ngắn thì dễ chịu, nhưng ở lại lâu dài thì sao?
+ Chà, các tù nhân của Nhà tù Knox nổi tiếng sẽ nói với bạn: điều đó không vui lắm!
  <LINE> <LINE>
- Ideally situated geographically for ease of access, Rosewood is a community hub for administration
- and community services as well as a leading incarceration center.
- The county courthouse, a recently refurbished fire department and a lively law enforcement facility
- make this one of the most important towns in the area! Come visit today!
+Có vị trí địa lý lý tưởng để dễ tiếp cận,
+Rosewood là một trung tâm cộng đồng dành cho các dịch vụ hành chính và cộng đồng cũng như một trung tâm giam giữ hàng đầu.
+Tòa án quận, sở cứu hỏa mới được tân trang lại gần đây và cơ sở thực thi pháp luật sôi động khiến nơi đây trở thành một trong những thị trấn quan trọng nhất trong khu vực!
+Hãy đến thăm ngày hôm nay!
 

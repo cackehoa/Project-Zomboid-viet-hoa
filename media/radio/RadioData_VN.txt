@@ -562,7 +562,7 @@
     member = 2da1dcf0-e33e-458f-89b4-e765be2f4a09
 [/Collection]
 [Collection]
-    text = Chúng tôi ở đây để hỗ trợ bạn.
+    text = Chúng tôi ở đây để ủng hộ bạn.
     // We're here for your support.
     member = e9b81ec2-c7cd-4e8e-9012-e47e5ff8906c
 [/Collection]
@@ -669,7 +669,7 @@
     member = b0545115-62f0-4576-8a50-c3cec2917ebc
 [/Collection]
 [Collection]
-    text = Tất cả những gì tôi phải làm là nhấn cái nút nhỏ này trên chân nó và...
+    text = Tất cả những gì tôi phải làm là nhấn phím nhỏ này trên chân nó và...
     // All I have to do is press this little button on his paw and...
     member = cda93c5a-d471-4b05-b093-c05e228e9c34
     member = fb798ae7-afae-43f2-9e14-a85f50c465c0
@@ -1071,7 +1071,7 @@
     member = c26f3053-fffe-4b98-a5c9-fbcbc8201f2b
 [/Collection]
 [Collection]
-    text = [img=music] Chúng tôi sẽ gặp bạn tại... Cross Roads! [img=music]
+    text = [img=music] Chúng tôi sẽ gặp bạn ở... Cross Roads! [img=music]
     // [img=music] We'll meet you at the... Cross Roads! [img=music]
     member = aa1c5d53-84e5-4a60-80b3-710b65cf64d0
     member = 93af546a-de25-4825-9ec6-ac0e42f9b25f
@@ -1938,7 +1938,7 @@
     member = bb5002b1-029c-49bf-a2cb-5befcf1fd678
 [/Collection]
 [Collection]
-    text = Chúng tôi phải đảm bảo rằng truyền nhiễm này không được phép lây lan.
+    text = Chúng tôi phải đảm bảo rằng truyền nhiễm này không được phép phát tán.
     // We must ensure that this infection is not allowed to spread.
     member = 5a647fd3-006b-4713-a4d9-9c54bb1cf973
     member = 7e7bc3cf-2f12-48b5-a927-83439b7669bc
@@ -2068,7 +2068,7 @@
     member = f768c8b8-6cca-4f70-951c-64379cbbc85e
 [/Collection]
 [Collection]
-    text = Ah, đợi đã, chúng tôi vừa nhận được cái này.
+    text = À, đợi đã, chúng tôi vừa nhận được cái này.
     // Ah, wait we've just got this in.
     member = e3f0c2a9-68de-418b-8f74-2e6fb98afa68
 [/Collection]
@@ -2452,7 +2452,7 @@
     member = e38d60d8-88a6-4e77-a4e9-aaaeec421241
 [/Collection]
 [Collection]
-    text = Chúng tôi nghĩ rằng sự lây lan đã chậm lại.
+    text = Chúng tôi nghĩ rằng sự phát tán đã chậm lại.
     // We think the spread has slowed now.
     member = 8562c856-7aa7-4853-8a1b-59adb2d410e1
 [/Collection]
@@ -2542,7 +2542,7 @@
     member = 67356bbf-0874-4c71-81d8-7ede2387d406
 [/Collection]
 [Collection]
-    text = Sự lây lan lan rộng khắp toàn bộ cộng đồng.
+    text = Sự lây lan phát tán khắp toàn bộ cộng đồng.
     // A contagion that spread throughout entire communities.
     member = 973812c2-d0d7-499c-9b08-1e336db493ff
 [/Collection]
@@ -2878,7 +2878,7 @@
     member = d450fb7e-a330-4158-b94a-e920501f1fca
 [/Collection]
 [Collection]
-    text = ... khi nó tìm cách ngăn chặn căn bệnh lan rộng ra quốc tế.
+    text = ... khi nó tìm cách ngăn chặn căn bệnh phát tán ra quốc tế.
     // ... as it seeks to prevent the malady spreading internationally.
     member = 1d53166f-c09a-45a8-8503-4710ba9a1749
 [/Collection]
@@ -4664,7 +4664,7 @@
     member = 26ce422f-41fd-41f9-934a-4ee4414b5964
 [/Collection]
 [Collection]
-    text = Chúng tôi có thể xác nhận truyền nhiễm hiện đang lây lan qua trao đổi chất lỏng.
+    text = Chúng tôi có thể xác nhận truyền nhiễm hiện phát tán lan qua trao đổi chất lỏng.
     // We can confirm the infection is now spread through fluid exchange.
     member = 4b3908ac-2804-400b-926d-d885c8ccc685
 [/Collection]
@@ -5385,7 +5385,7 @@
     member = 46cd95e2-828a-405c-a038-deaf79d8ca74
 [/Collection]
 [Collection]
-    text = Thứ này... nó lan nhanh như cháy rừng.
+    text = Thứ này... nó phát tán nhanh như cháy rừng.
     // This thing... it spreads like wildfire.
     member = e5c310d6-de20-43ed-a4f0-2200a61d2816
 [/Collection]
@@ -5420,7 +5420,7 @@
     member = 53c91752-3b77-4146-9176-c0da91adf46e
 [/Collection]
 [Collection]
-    text = <ho>
+    text = <tiếng ho>
     // <cough>
     member = 6c8347f7-8b15-4c4f-bc4c-7094488e2ffd
     member = 99e0c045-b132-4698-8749-55c6a37818c6
@@ -5517,7 +5517,7 @@
     member = 2b257cdb-0f87-48f1-a3d0-16fd7cee5ef9
 [/Collection]
 [Collection]
-    text = Jackie Jaye. <Ho>. LBMW.
+    text = Jackie Jaye. <Tiếng ho>. LBMW.
     // Jackie Jaye. <Cough>. LBMW.
     member = 20a2710d-7cb5-42f0-aa9b-8b63b0f21bee
 [/Collection]
@@ -5532,7 +5532,7 @@
     member = adbff604-a328-4527-adce-6907d8790b76
 [/Collection]
 [Collection]
-    text = Mạng lưới quốc gia đang báo cáo rằng nó lây lan.
+    text = Mạng lưới quốc gia đang báo cáo rằng nó phát tán.
     // National networks are reporting that it's spread.
     member = 051cafca-47c2-4bac-8623-ee07cb7adaf1
 [/Collection]
@@ -5610,7 +5610,7 @@
     member = bf2a9b82-54d2-4fe8-803d-3496a1fb83fe
 [/Collection]
 [Collection]
-    text = Nhiễm trùng chỉ... lây lan.
+    text = Nhiễm trùng chỉ... phát tán.
     // The infection just... spread.
     member = 88fb1f4c-4bb4-4729-82f3-e2b098f92e24
 [/Collection]
@@ -5764,7 +5764,7 @@
     member = 5ad65a54-bd79-4986-b17a-cef4f8e04147
 [/Collection]
 [Collection]
-    text = Bệnh tật sẽ không lây sang bạn như đã lây sang người khác...'
+    text = Bệnh tật sẽ không phát tán bạn như đã lây sang người khác...'
     // The disease will not spread to you as it has to others...'
     member = 0c1fbae7-ca62-464a-a7e1-eb900f57bc62
 [/Collection]
@@ -5857,7 +5857,7 @@
     member = 82275540-1194-4706-9735-ea8e7c72aac9
 [/Collection]
 [Collection]
-    text = Sự lây lan của lây nhiễm Sự kiện Knox hiện đã hoàn tất.
+    text = Sự phát tán của Sự kiện nhiễm trùng Knox hiện đã hoàn tất.
     // The spread of the Knox Event infection is now total.
     member = e5e4e0d6-a047-4ffc-a417-9b3f38b6842f
     member = 89c85909-05ee-4c1f-9602-8b32bd9f39e9
@@ -6406,7 +6406,7 @@
     member = d57ec553-5a2c-4a75-a086-eb87f6a58d17
 [/Collection]
 [Collection]
-    text = Sự lây nhiễm đang lan rộng trong Khu vực và không rõ nó lây lan như thế nào.
+    text = Sự truyền nhiễm đang lan rộng trong Khu vực và không rõ nó phát tán như thế nào.
     // The infection is widespread in the Zone, and how it spreads is unknown.
     member = d0051fff-d7cc-4df6-b578-e2df5b818481
 [/Collection]
@@ -6617,7 +6617,7 @@
     member = c70ce321-c955-475c-9779-651756916be5
 [/Collection]
 [Collection]
-    text = ...rằng sự lây lan ban đầu đã chậm lại.
+    text = ...rằng sự phát tán ban đầu đã chậm lại.
     // ...that the initial spread has slowed.
     member = 66d7c36d-f98a-471b-9d53-66628a08ab4e
 [/Collection]
@@ -6922,7 +6922,7 @@
     member = f0cd259c-fadd-4fe4-9a39-889fabfcc8e8
 [/Collection]
 [Collection]
-    text = Quân đội nhấn mạnh rằng sự lây lan của các triệu chứng giống như cúm...
+    text = Quân đội nhấn mạnh rằng sự phát tán của các triệu chứng giống như cúm...
     // The military insist that the spread of flu-like symptoms...
     member = 97519a6a-8775-4566-8dfa-e1ed9ce7e10b
 [/Collection]
@@ -7597,7 +7597,7 @@
     member = f3b80c5b-740d-471a-868b-a67b210ffb6d
 [/Collection]
 [Collection]
-    text = Good afternoon. Đây là NNR.
+    text = Chào buổi chiều. Đây là NNR.
     // Good afternoon. This is NNR.
     member = d03ce9a5-eb08-40ae-bb10-3a12fc283123
 [/Collection]
@@ -8114,12 +8114,12 @@
     member = 26298dbb-3f8b-4858-811b-5dd5ff5e6a14
 [/Collection]
 [Collection]
-    text = Truyền nhiễm Knox đang lây lan mà không cần tiếp xúc với chất lỏng!
+    text = The Knox Infection is spreading without fluid contact!
     // The Knox Infection is spreading without fluid contact!
     member = eb622ea6-3d01-486a-8743-18a3915fb0a3
 [/Collection]
 [Collection]
-    text = Chúng tôi xin nhắc lại: Truyền nhiễm Knox đang lây lan mà không cần tiếp xúc với chất lỏng!
+    text = Chúng tôi xin nhắc lại: Truyền nhiễm Knox đang phát tán mà không cần tiếp xúc với chất lỏng!
     // We repeat: the Knox Infection is spreading without fluid contact!
     member = 7cd2ed94-1ad5-4f88-9cdc-37b967cf85cb
 [/Collection]
@@ -8149,7 +8149,7 @@
     member = a4ee0a63-6188-4ad4-bacc-ef7300a0ca32
 [/Collection]
 [Collection]
-    text = ...lây lan mà không cần BẤT KỲ tiếp xúc nào với cơ thể bị nhiễm.
+    text = ...phát tán mà không cần BẤT KỲ tiếp xúc nào với cơ thể bị nhiễm.
     // ...spreading without ANY contact with an infected body.
     member = 07b6e25a-0126-4336-a229-28f3b517c9b5
 [/Collection]
@@ -8222,7 +8222,7 @@
     member = 267ef548-3525-4bf0-a297-395f2d25e619
 [/Collection]
 [Collection]
-    text = Lây nhiễm Sự kiện Knox đang lan rộng ở Kentucky.
+    text = Lây nhiễm Sự kiện Knox đang phát tán rộng ở Kentucky.
     // The Knox Event infection is spreading in Kentucky.
     member = 87862753-b3a5-4f6f-8943-78dd44a92dcc
 [/Collection]
@@ -8277,7 +8277,7 @@
     member = 34cbb4d1-346a-4298-be12-939dba274957
 [/Collection]
 [Collection]
-    text = Lây nhiễm Sự kiện Knox đang lan rộng và lây lan nhanh chóng.
+    text = Lây nhiễm Sự kiện Knox đang phát tán và phát tán nhanh chóng.
     // The Knox Event infection is spreading, and spreading fast.
     member = acf4d43e-9d99-4f95-a027-c84e5dc5542e
 [/Collection]
@@ -8413,7 +8413,7 @@
     member = 3316d954-1f13-4821-a3bf-2eec59d45d0e
 [/Collection]
 [Collection]
-    text = Lây nhiễm Sự kiện Knox được xác nhận ở các vị trí sau.
+    text = Lây nhiễm Knox Event được xác nhận ở các địa điểm sau.
     // The Knox Event infection is confirmed in the following locations.
     member = 18049ff0-3365-43cc-b86a-30c5da22598b
 [/Collection]
@@ -8454,7 +8454,7 @@
     member = 8724cea1-f6f7-46af-987d-e9a50d0c2942
 [/Collection]
 [Collection]
-    text = Nguyên nhân của sự lây lan đột ngột là không rõ.
+    text = Nguyên nhân của sự phát tán đột ngột là không rõ.
     // The cause of the sudden spread is unknown.
     member = 321ceced-bfcb-43df-979c-2ccd3f27ff14
 [/Collection]
@@ -8485,7 +8485,7 @@
     member = 2590bf6a-67a1-46f1-becd-b2525b306ba5
 [/Collection]
 [Collection]
-    text = Bệnh tật sẽ không lây sang bạn như đã lây sang người khác...
+    text = Bệnh tật sẽ không phát tán bạn như đã lây sang người khác...
     // The disease will not spread to you as it has to others...
     member = 3ae41721-4122-4624-bb1e-144c22798a16
     member = 7ee90773-e5c1-4246-9af9-6962f9d80816
@@ -8585,7 +8585,7 @@
     member = 5c60185d-cf7f-448a-a888-4d3f3f7fee98
 [/Collection]
 [Collection]
-    text = Lây nhiễm Knox Event được xác nhận ở các vị trí sau:
+    text = Lây nhiễm Knox Event được xác nhận ở các địa điểm sau:
     // The Knox Event infection is confirmed in the following locations:
     member = f8a2d329-52c4-49a7-b4d9-9f738e8d7bbd
 [/Collection]
@@ -8864,7 +8864,7 @@
     member = 92103426-1f1c-45cb-a8e5-0834e2d46fd3
 [/Collection]
 [Collection]
-    text = Họ're the US Army ma'am.
+    text = Họ're the US Army ma'Sáng.
     // They're the US Army ma'am.
     member = f4c4e0d7-bdea-492c-9337-d5e7482be36a
 [/Collection]
@@ -9233,7 +9233,7 @@
     member = b78a450a-8dea-4b62-99bc-c4fe304cfd5d
 [/Collection]
 [Collection]
-    text = Ah. Không tốt lắm.
+    text = À. Không tốt lắm.
     // Ah. Not so good.
     member = 9ffe1124-26fc-4103-af7c-b8e90a156df9
 [/Collection]
@@ -10101,7 +10101,7 @@
     member = 97ec2193-eaa4-4aab-aad7-828db736b621
 [/Collection]
 [Collection]
-    text = [quảng cáo rạp chiếu phim]
+    text = [cine plex advert]
     // [cine plex advert]
     member = ce660513-cf12-4dfe-8446-eca55ceff3be
 [/Collection]
@@ -10416,7 +10416,7 @@
     member = 118dac48-99b7-4dad-b153-970ae258cec7
 [/Collection]
 [Collection]
-    text = Vâng mọi người đang sợ hãi.
+    text = Chà mọi người đang sợ hãi.
     // Well people are scared.
     member = 3168f63d-b8c5-4f7e-a8ce-05e2bd89da60
 [/Collection]
@@ -10661,7 +10661,7 @@
     member = c3a53a5d-2caa-4190-9e24-3ba9df76e281
 [/Collection]
 [Collection]
-    text = Nó lây lan qua vết cắn. Có thể trầy xước, nhưng chắc chắn cắn.
+    text = Nó phát tán qua vết cắn. Có thể trầy xước, nhưng chắc chắn cắn.
     // It's spread through bites. Maybe scratches, but definitely bites.
     member = 319d8ce8-593f-4a04-b0ec-6df70589ed87
 [/Collection]
@@ -10671,7 +10671,7 @@
     member = 412e4a54-06dd-4006-b836-58d11a012427
 [/Collection]
 [Collection]
-    text = Đại loại thế. Chúng tôi sống trong trang trại gần sông. Tôi đã bơi nó.
+    text = Đại loại thế. Chúng tôi sống trong nông trại gần sông. Tôi đã bơi nó.
     // Kinda. We live on a farm near the river. I swam it.
     member = 458795a6-8531-46da-823a-4259c0a0069f
 [/Collection]
@@ -10842,7 +10842,7 @@
     member = 4b6db3b5-2807-4d81-923f-bf8d0fc02bf8
 [/Collection]
 [Collection]
-    text = <click> <bzzt> <fzzt>
+    text = <nhấp> <bzzt> <fzzt>
     // <click> <bzzt> <fzzt>
     member = 6df53ffe-6600-4fc5-87cb-3262c6fe44c7
 [/Collection]
@@ -11102,7 +11102,7 @@
     member = 582da8bb-a563-400e-96fd-d40c91418024
 [/Collection]
 [Collection]
-    text = <nức nở> <nức nở>
+    text = <sob> <sob>
     // <sob> <sob>
     member = dc90f933-e64a-49c3-8123-db09b8ab5855
 [/Collection]
@@ -11207,7 +11207,7 @@
     member = 69a11986-3888-4230-be18-d05dcc8ca0d4
 [/Collection]
 [Collection]
-    text = <ho> Tôi biết những gì mọi người sẽ nghĩ.
+    text = <tiếng ho> Tôi biết mọi người sẽ nghĩ gì.
     // <cough> I know what people will think.
     member = b3af859d-e0d4-4ede-a185-597b785489b4
 [/Collection]
@@ -11267,7 +11267,7 @@
     member = 9f16aa81-163a-41ed-80f3-feff0fb0c519
 [/Collection]
 [Collection]
-    text = <ho> Đối với tôi nó đã kết thúc. Dù bất cứ điều gì khác xảy ra với bạn...
+    text = <tiếng ho> Đối với tôi nó đã kết thúc. Bất cứ điều gì khác xảy ra với bạn...
     // <cough> For me it's over. Whatever else happens to you...
     member = d37f1120-58df-4e90-87a7-213c1279927d
 [/Collection]
@@ -11548,7 +11548,7 @@
     member = ebc506fa-e279-4010-af73-5a70d2b86435
 [/Collection]
 [Collection]
-    text = <click>
+    text = <nhấp>
     // <click>
     member = 23344bd5-c1ac-409e-94e7-adc4fb4e4da3
 [/Collection]
@@ -11833,7 +11833,7 @@
     member = d26ddf4e-66e6-4423-93d9-336cd8dd8577
 [/Collection]
 [Collection]
-    text = [img=music] Anh nhìn em như người xa lạ. [img=music]
+    text = [img=music] Anh nhìn em như người xa lạ [img=music]
     // [img=music] You looked at me like a stranger. [img=music]
     member = 70d9bc47-b484-49ca-a989-455ba7ab9753
     member = c609d369-ee99-4983-bacf-ab9efcece53a
@@ -11871,7 +11871,7 @@
     member = dafbef51-8058-4f7d-9eb1-8555edc21b23
 [/Collection]
 [Collection]
-    text = [img=music] Tôi trượt băng xuống phố, thấy những người yêu nhau vui vẻ. [img=music]
+    text = [img=music] Tôi trượt băng ở trung tâm thành phố, thấy những người yêu nhau vui vẻ. [img=music]
     // [img=music] I skated downtown, saw lovers having fun. [img=music]
     member = 2328db02-65d9-4e31-a795-9396a1935c09
     member = c3c8cee0-c76a-4f33-b4ef-2e33c5478fcd
@@ -11977,7 +11977,7 @@
     member = d4e04a85-cf70-4b94-b6f1-f07feac2de29
 [/Collection]
 [Collection]
-    text = [img=music] Bây giờ nó đến với tôi. Đã hết. [img=music]
+    text = [img=music] Bây giờ nó đến với tôi. Hết rồi. [img=music]
     // [img=music] Now it's come to me. It's over. [img=music]
     member = da7f5e77-6ef0-4b0c-953e-b1af3506ee70
     member = 1db39068-ea37-42c9-b33e-896bfbf68f41
@@ -12200,7 +12200,7 @@
     member = 752d18ce-aed2-4fb8-b166-806f2c91a96a
 [/Collection]
 [Collection]
-    text = [img=music] Bạn đi cùng, Tôi chỉ dang dở! [img=music]
+    text = [img=music] Bạn đi cùng, tôi chỉ dang dở! [img=music]
     // [img=music] You came along, I just unfurled! [img=music]
     member = 61391c12-5f17-469f-b672-1911b48166a6
     member = bfc61b6a-a65d-47b6-a183-2dd510f74219
@@ -12258,7 +12258,7 @@
     member = a749bd1d-d825-44a7-8121-bb85bf7060a1
 [/Collection]
 [Collection]
-    text = [img=music] Tôi không biết liệu cô ấy có yêu tôi. [img=music]
+    text = [img=music] Tôi không biết liệu cô ấy có yêu tôi không. [img=music]
     // [img=music] I don't know if she loves me. [img=music]
     member = ac75eaa9-9b5e-4d8e-82d6-5a64428352e1
     member = 379bd98b-2fa3-4295-8ba0-05272c90df8d
@@ -12314,7 +12314,7 @@
     member = 841efe69-41f3-4eef-a42b-dc266ed2117e
 [/Collection]
 [Collection]
-    text = [img=music] Để thấy cách đôi mắt bạn lấp lánh ánh vàng! [img=music]
+    text = [img=music] Để xem cách mắt bạn lấp lánh vàng! [img=music]
     // [img=music] To see the way your eyes glisten gold! [img=music]
     member = 6a1ffcee-48d6-492c-b1ab-323508574841
     member = e8d39dbc-c6ac-4dee-84ba-9c95e79907c2
@@ -12326,7 +12326,7 @@
     member = 356052c2-483d-419c-aa6a-573fdfa4aa06
 [/Collection]
 [Collection]
-    text = [img=music] Hãy đón nhận tôi như tôi vốn có. Đưa tôi toàn bộ! [img=music]
+    text = [img=music] Hãy đón nhận tôi như tôi vốn có. Mang tôi đi! [img=music]
     // [img=music] Take me like I am. Take me whole! [img=music]
     member = c80e07ff-90ea-4dca-8acc-718990990634
     member = b4a5853b-2150-40de-acb2-c6e10aa45fce
@@ -12342,7 +12342,7 @@
     member = 2e48d018-830e-49c4-a0ae-2c8f0ce05ad2
 [/Collection]
 [Collection]
-    text = [img=music] Laughin', đang mơ, đùa giỡn cho đến khi trời tối. [img=music]
+    text = [img=music] Đang cười, mơ, đùa cho đến khi trời tối. [img=music]
     // [img=music] Laughin', dreamin', jokin' till it's dark. [img=music]
     member = 51e7edf6-1785-4693-bcf9-00d2d2c9b1a4
     member = 020d664f-5e96-48e5-abd1-256c2b3cfe18
@@ -12438,7 +12438,7 @@
     member = 90b8d5d8-b4be-450c-8bf8-b2b83ab1ce24
 [/Collection]
 [Collection]
-    text = [img=music] Chào tôi là cậu bé đến từ Kentucky... [img=music]
+    text = [img=music] Chà tôi là cậu bé đến từ Kentucky... [img=music]
     // [img=music] Well I'm a boy from Kentucky... [img=music]
     member = bdc39921-cabf-4664-bb99-536b095acc38
 [/Collection]
@@ -12555,7 +12555,7 @@
     member = 7ed5e814-33c8-4f92-bdb4-ffd5b5cc53c6
 [/Collection]
 [Collection]
-    text = [img=music] Người yêu dấu, you... [img=music]
+    text = [img=music] Em yêu, em... [img=music]
     // [img=music] Sweetheart darling, you... [img=music]
     member = 34c71dca-2224-4f3b-9535-5ae616dd0ddd
     member = 658f73a3-8a93-4c10-8e4b-2a865576af14
@@ -12607,7 +12607,7 @@
     member = 24f9beb6-3c7c-4196-b94b-cfc2f18af690
 [/Collection]
 [Collection]
-    text = Trước khi tôi nhấn vào nút Ẩn, lần đấm mới từ Câu hỏi.
+    text = Trước khi tôi nhấn vào phím Ẩn, lần đấm mới từ Câu hỏi.
     // Before I hit the button on Hidden, the new hit from The Question.
     member = 70f4093a-adac-4bbf-9924-e65d1a7a8d5b
 [/Collection]
@@ -13356,7 +13356,7 @@
     member = 65e56077-22e1-4809-8008-4249cdc613a4
 [/Collection]
 [Collection]
-    text = <muffle> <muffle>
+    text = <giảm thanh> <giảm thanh>
     // <muffle> <muffle>
     member = bb77d071-94d1-41a8-9636-9ceceeb3282b
     member = 830c75c8-5ac3-4fcf-bfa0-a5b3295cb53a
@@ -13372,7 +13372,7 @@
     member = af49406c-d8f6-4e18-b624-de419dbc1186
 [/Collection]
 [Collection]
-    text = Nếu có bất cứ điều gì xảy ra, đó là do BẠN.
+    text = Nếu có bất cứ điều gì xảy ra, đó là ở BẠN.
     // If anything happens it's on YOU.
     member = 2228ed47-a306-47b6-b19e-de439af081c9
 [/Collection]
@@ -13573,7 +13573,7 @@
     member = aec247f4-7332-44a1-a55c-15f4f66aa005
 [/Collection]
 [Collection]
-    text = [img=music] Chào tôi là cảnh để xem! [img=music]
+    text = [img=music] Chà tôi là cảnh để xem! [img=music]
     // [img=music] Well I was a sight to see! [img=music]
     member = ef537dc1-de89-4d84-b2cf-05fd2288f823
 [/Collection]
@@ -13593,7 +13593,7 @@
     member = a176fe84-b854-4ac8-bf1a-efc9e71cba31
 [/Collection]
 [Collection]
-    text = [img=music] Vì vậy, bây giờ tôi cần cái khác, giặt quần áo chết tiệt của tôi. [img=music]
+    text = [img=music] Vì vậy, bây giờ tôi cần cái khác, để giặt quần áo chết tiệt của tôi. [img=music]
     // [img=music] So now I need another, to do my damn laundry. [img=music]
     member = 309bdd52-f4b0-4f6f-a2e0-ceaf9caab457
 [/Collection]
@@ -13668,7 +13668,7 @@
     member = 6de6e032-fde5-46a8-889e-6fccd0e58cc8
 [/Collection]
 [Collection]
-    text = [img=music] Để trở thành... a... đáng yêu... guy! [img=music]
+    text = [img=music] Để trở thành... một... chàng trai... đáng yêu! [img=music]
     // [img=music] To being such... a... lovely... guy! [img=music]
     member = fc1e80b0-be2c-4687-a7b7-041f975124c6
 [/Collection]
@@ -13733,13 +13733,13 @@
     member = 89936c89-a485-4ca7-91ea-20695646c4c7
 [/Collection]
 [Collection]
-    text = [img=music] Ôi, cậu bé Danny, các đường ống, các đường ống đang gọi. [img=music]
+    text = [img=music] Ôi, cậu bé Danny, đường ống, đường ống đang gọi. [img=music]
     // [img=music] Oh, Danny boy, the pipes, the pipes are calling. [img=music]
     member = c36f90db-5ef5-4fad-a83d-b399a0e58183
     member = 72ebd576-34bf-40ee-9ac6-b2f9b50ece63
 [/Collection]
 [Collection]
-    text = [img=music] Từ thung lũng này sang thung lũng khác, và đi xuống sườn núi. [img=music]
+    text = [img=music] Từ thung lũng này sang thung lũng khác, và xuống sườn núi. [img=music]
     // [img=music] From glen to glen, and down the mountain side. [img=music]
     member = 5ea16ad3-c181-4ed5-897a-d55a9e792540
     member = 04d57c1f-7abc-44c5-986e-04da9dada143
@@ -13751,7 +13751,7 @@
     member = e677bf9d-4bac-44a7-aa4e-f64d419977d5
 [/Collection]
 [Collection]
-    text = [img=music] Đó là bạn, đó là bạn phải đi và tôi phải đợi. [img=music]
+    text = [img=music] Đó là bạn, đó là bạn phải đi và tôi phải chờ đợi. [img=music]
     // [img=music] It's you, it's you must go and I must bide. [img=music]
     member = b47f2ad7-ad78-4dbb-97e6-fc85da1ceb55
     member = e0490a93-ef64-4967-9ad9-83ddac77237d
@@ -13775,7 +13775,7 @@
     member = 5c804ccb-90d1-4617-9ebc-5b0c43f6ede9
 [/Collection]
 [Collection]
-    text = [img=music] Ôi, cậu bé Danny, oh, cậu bé Danny, Tôi rất yêu bạn. [img=music]
+    text = [img=music] Ôi, cậu bé Danny, ôi, cậu bé Danny, tôi yêu cậu rất nhiều. [img=music]
     // [img=music] Oh, Danny boy, oh, Danny boy, I love you so. [img=music]
     member = 3fb694ec-8a12-436c-8a9f-ed23caaf20cc
     member = 6613da58-8210-4b3e-82f8-81313cca58f6
@@ -14153,7 +14153,7 @@
     member = 465c503a-bcea-4edc-b2c2-fc6b2e7d56ab
 [/Collection]
 [Collection]
-    text = Chắc chắn, điện và nước vẫn còn.
+    text = Chắc chắn, năng lượng và nước vẫn còn.
     // Sure, power and water are still on.
     member = 43fc15fe-cf4e-49cf-88a7-9d03c370faf7
 [/Collection]
@@ -14658,7 +14658,7 @@
     member = b06bb004-3f46-450e-87cd-c0d95de2195b
 [/Collection]
 [Collection]
-    text = Tuy nhiên, VẪN không có từ cụ thể nào về Sự kiện Knox là gì hoặc nó lan truyền như thế nào.
+    text = Tuy nhiên, VẪN không có từ cụ thể nào về Sự kiện Knox là gì hoặc nó phát tán như thế nào.
     // Yet STILL no concrete word on what the Knox Event is, or how it spreads.
     member = dac0a515-12bd-4a34-afc4-aa7232a837aa
 [/Collection]
@@ -14763,7 +14763,7 @@
     member = a29f8ec0-5165-4338-90fe-fa2737c24239
 [/Collection]
 [Collection]
-    text = Bạn có thể mô tả căn bệnh đang lây lan trong đó không?
+    text = Bạn có thể mô tả căn bệnh đang phát tán trong đó không?
     // Can you describe the illness that's spreading in there?
     member = 486bd77e-7960-4484-95d5-a09c7831bf31
 [/Collection]
@@ -14788,7 +14788,7 @@
     member = 6284c735-b829-4677-93c0-2259bdf715b2
 [/Collection]
 [Collection]
-    text = Chúng ta đã kiểm soát được sự lây lan của dịch bệnh...
+    text = Chúng ta đã kiểm soát được sự phát tán của dịch bệnh...
     // We've got the spread of the illness contained...
     member = 608fc334-0a99-4dbf-95f8-57c6d28a9602
 [/Collection]
@@ -14923,7 +14923,7 @@
     member = ab662549-8ab8-4dd6-a523-fbd6806dd105
 [/Collection]
 [Collection]
-    text = Dù đây là gì đi nữa thì nó cũng chẳng vui vẻ gì. Nó có thể đã lan rộng.
+    text = Dù đây là gì đi nữa thì nó cũng chẳng vui vẻ gì. Nó có thể đã phát tán.
     // Whatever this is, it isn't fun. It could've spread.
     member = bbd2eb2e-c400-4c51-ad6f-97ea36ecb5be
 [/Collection]
@@ -15189,7 +15189,7 @@
     member = 8f73b969-b3f2-4afe-8835-d9d3dc901eb7
 [/Collection]
 [Collection]
-    text = Do mối đe dọa lan rộng của Sự kiện Knox...
+    text = Do mối đe dọa phát tán của Sự kiện Knox...
     // Owing to the threat of the spread of the Knox Event...
     member = 184e6db0-da2b-4262-abac-cc0dc1680fe1
 [/Collection]
@@ -15897,12 +15897,12 @@
     member = cdf09802-5ec4-4ff0-ba4a-588ad06e7ef3
 [/Collection]
 [Collection]
-    text = Truyền nhiễm Sự kiện Knox lây lan qua tiếp xúc trực tiếp với những người nhiễm bệnh.
+    text = Truyền nhiễm Sự kiện Knox phát tán qua tiếp xúc trực tiếp với những người nhiễm bệnh.
     // The Knox Event infection is spread through direct contact with sufferers.
     member = 62984e31-c435-403b-afe0-dff4f8846449
 [/Collection]
 [Collection]
-    text = Tại một thời điểm, nó đã lan truyền dễ dàng hơn, chúng tôi không biết bằng cách nào.
+    text = Tại một thời điểm, nó đã phát tán dễ dàng hơn, chúng tôi không biết bằng cách nào.
     // At one point it was spread more easily, we don't know how.
     member = 670820eb-8ed6-45aa-9b9a-9c546a6f8d5b
 [/Collection]
@@ -16248,7 +16248,7 @@
     member = 1f918950-61f5-4e46-a4c3-9577c2f25b98
 [/Collection]
 [Collection]
-    text = Hôm nay tôi về muộn. Đây không phải là vị trí thông thường của tôi.
+    text = Hôm nay tôi về muộn. Đây không phải là chỗ thông thường của tôi.
     // I'm on late today. This isn't my usual slot.
     member = dc7068da-6ce6-4dbd-bd95-15fb83106a20
 [/Collection]
@@ -16431,13 +16431,13 @@
     member = 0f7ddc50-a3c7-4388-b101-32f01a549ad4
 [/Collection]
 [Collection]
-    text = Lây nhiễm Sự kiện Knox đang lan rộng.
+    text = Lây nhiễm Sự kiện Knox đang phát tán.
     // The Knox Event infection is spreading.
     member = 18230762-a44b-474c-8e87-e3af2e1c4d41
     member = 46d1b8ff-cc3d-4006-9428-cb9a892b8352
 [/Collection]
 [Collection]
-    text = Nó đang lan nhanh và nó lây lan mà không cần tiếp xúc với chất lỏng.
+    text = Nó đang phát tán nhanh và nó phát tán mà không cần tiếp xúc với chất lỏng.
     // It's spreading fast, and it's spreading without fluid contact.
     member = 29d60fff-d011-468c-90db-5e59f9cae45d
 [/Collection]
@@ -16534,7 +16534,7 @@
     member = 1183e0c3-e8c2-4eab-ac32-0ff1cd4dd114
 [/Collection]
 [Collection]
-    text = Nó đang lây lan mà không có vết cắn.
+    text = Nó đang phát tán mà không có vết cắn.
     // It's spreading without bites.
     member = 5a9245ea-d528-42c5-b05e-55e9a6b27551
     member = db5da22d-ac14-4526-b9df-cd636295042d
@@ -16643,7 +16643,7 @@
     member = 90f27b2f-dad4-43b0-87b7-b9d3a33a97c5
 [/Collection]
 [Collection]
-    text = Truyền nhiễm Knox đang lan rộng khắp Kentucky và xa hơn nữa về phía Bắc.
+    text = Truyền nhiễm Knox đang phát tán khắp Kentucky và xa hơn nữa về phía Bắc.
     // The Knox Infection is spreading throughout Kentucky, and further North.
     member = d1c3db5b-ae82-4083-8c79-ccf470bc71b2
     member = aa12deeb-7bd9-4332-ae5a-f63ec2e94436
@@ -16703,13 +16703,13 @@
     member = 1c1567e9-6661-42bb-b602-599343775e3b
 [/Collection]
 [Collection]
-    text = Khi truyền nhiễm Knox lây lan, những cảnh kinh dị cũng vậy.
+    text = Khi truyền nhiễm Knox phát tán, những cảnh kinh dị cũng vậy.
     // As the Knox Infection spreads, so do the scenes of horror.
     member = 2c707a9f-59e6-48b8-817e-2d0e46233d16
     member = 9797d12a-4ada-4c04-91d1-645fbbc51b7d
 [/Collection]
 [Collection]
-    text = Sau hai mươi bốn giờ, sự lây lan của các triệu chứng giống như bệnh cúm đã tăng tốc.
+    text = Sau hai mươi bốn giờ, sự phát tán của các triệu chứng giống như bệnh cúm đã tăng tốc.
     // After twenty four hours the spread of flu-like symptoms has accelerated.
     member = dcd1843a-6f87-4063-8595-f1284e389410
     member = bf522403-5419-4167-bdf8-9aaa2bbba42f
@@ -16843,7 +16843,7 @@
     member = d359b794-e861-42aa-91d6-320c96d3d536
 [/Collection]
 [Collection]
-    text = ...ở Norfolk, Anh và tại một địa điểm không xác định ở thủ đô Mogadishu của Somalia.
+    text = ...ở Norfolk, Anh và tại địa điểm không xác định ở thủ đô Mogadishu của Somalia.
     // ...in Norfolk, England and at an unknown location within the Somalian capital Mogadishu.
     member = 4a037667-2fc2-4b10-ae29-967716175601
     member = 110f7bf2-0c2e-4de4-b464-7655fdde1070
@@ -17537,7 +17537,7 @@
     member = 0312afd0-f9ac-4a09-bc5a-68e1ab351a76
 [/Collection]
 [Collection]
-    text = Anh ấy nói KHÔNG có nhiệm vụ... <click>
+    text = Anh ấy nói KHÔNG có nhiệm vụ... <nhấp>
     // He said NO quest... <click>
     member = 687a56bd-c4da-45b2-ac90-05e0d33f1454
 [/Collection]
@@ -17592,7 +17592,7 @@
     member = 70a2a0cd-a657-46d4-a491-a7dd44a8e89d
 [/Collection]
 [Collection]
-    text = ... the Center for Disease Control.
+    text = ... Trung tâm kiểm soát dịch bệnh.
     // ... the Center for Disease Control.
     member = 3ab51f26-5134-45e3-a062-0b7d51ba4206
 [/Collection]
@@ -18522,7 +18522,7 @@
     member = 58039aad-5de0-46ff-8b38-3aedc6376098
 [/Collection]
 [Collection]
-    text = Tôi chỉ có thể cho rằng mức độ lây lan đã chậm lại, đó là lý do tại sao họ tự tin. Nhưng...
+    text = Tôi chỉ có thể cho rằng mức độ phát tán đã chậm lại, đó là lý do tại sao họ tự tin. Nhưng...
     // I can only assume the spread has slowed, which is why they are confident. But...
     member = fe13d21e-9bf2-4f22-8514-ffbe8b9141ed
 [/Collection]
@@ -18983,7 +18983,7 @@
     member = b1c77527-d1bc-4cfb-9b37-8b88ff5bf3a3
 [/Collection]
 [Collection]
-    text = Tuy nhiên, sự lây lan của bệnh chỉ đến qua...
+    text = Tuy nhiên, sự phát tán của bệnh chỉ đến qua...
     // Yet the spread of the disease comes only through...
     member = 4b1dfe64-0133-4881-8e08-bbe7ee6bde01
 [/Collection]
@@ -19446,7 +19446,7 @@
     member = d7639c03-ae6d-4f93-a0ed-7ca59776c925
 [/Collection]
 [Collection]
-    text = Oh God! Có nhiều hơn nữa!
+    text = Ôi trời ơi! Có nhiều hơn nữa!
     // Oh God! There's more!
     member = 2b6bf68c-5c3c-4b94-9544-3ef34029a800
 [/Collection]
@@ -19652,7 +19652,7 @@
     member = cabe4245-d73e-445c-ba92-a3c6a206b2fb
 [/Collection]
 [Collection]
-    text = Có bằng chứng nào về sự lây lan của truyền nhiễm không?
+    text = Có bằng chứng nào về sự phát tán của truyền nhiễm không?
     // Is there any evidence of the infection spreading?
     member = 235d1cd8-6684-42f4-8b6a-37cf46ef8cc9
 [/Collection]
@@ -19787,7 +19787,7 @@
     member = 13cb8f3e-bff8-45be-a9fe-ec678b1991cb
 [/Collection]
 [Collection]
-    text = Rằng truyền nhiễm Knox hiện đang lây lan mà không có vết cắn.
+    text = Rằng truyền nhiễm Knox hiện đang phát tán mà không có vết cắn.
     // That the Knox Infection is now spreading without bites.
     member = c177c6de-bdb1-40c2-9394-32e0addf0aa4
 [/Collection]
@@ -19847,7 +19847,7 @@
     member = 33a55547-3d6e-41af-9f8c-9b7166713a19
 [/Collection]
 [Collection]
-    text = Trường hợp của... reanimation are not yet active within the city limits.
+    text = Trường hợp của... sự hồi sinh chưa hoạt động trong giới hạn thành phố.
     // Instances of... reanimation are not yet active within the city limits.
     member = 13459339-03eb-4bcb-a9bc-e20a5fe0cd29
 [/Collection]
@@ -20991,7 +20991,7 @@
     member = aff6f93b-c6f0-46bf-9307-074baa74871c
 [/Collection]
 [Collection]
-    text = Hey! Hãy chú ý! Hôm nay: đó là ghế dựa!
+    text = Này! Hãy chú ý! Hôm nay: đó là ghế dựa!
     // Hey! Pay attention! Today: it's chairs!
     member = f5aa61a4-98a5-41f7-9534-888179e2443b
 [/Collection]
@@ -21748,7 +21748,7 @@
     member = b5edf317-8dc9-42da-b5d4-23c2284bfa69
 [/Collection]
 [Collection]
-    text = Quý cố có thể giữ những vật có giá trị của mình trong đó.
+    text = Quý cô có thể giữ vật có giá trị của mình trong đó.
     // A lady could keep her valuables in it.
     member = 5132bbcf-64d0-422d-a26e-3c6ca11bc4eb
 [/Collection]
@@ -22180,7 +22180,7 @@
     member = de7c574d-48df-483d-9917-8585c8a58885
 [/Collection]
 [Collection]
-    text = Bạn sẽ nghĩ: 'Chà. Tôi sẽ không chết."
+    text = Bạn sẽ nghĩ: 'Ồ. Tôi sẽ không chết."
     // You'll think: 'Wow. I'm not going to die."
     member = 5d998990-8428-42bc-9220-a481f4918db8
 [/Collection]
@@ -22746,7 +22746,7 @@
     member = c6167fae-b87d-4cb8-924f-f713e37afe4f
 [/Collection]
 [Collection]
-    text = <tiếng thở hổn hển từ phòng xử>
+    text = <thở hổn hển từ phòng xử án>
     // <gasps from the courtroom>
     member = 2912692f-6ff2-4beb-b655-19a0ea440d0a
     member = ce0b8401-fc5b-43f4-b0e9-eb779e725250
@@ -22930,7 +22930,7 @@
     member = c60ca562-f5f7-43c7-8672-75c91d23af4d
 [/Collection]
 [Collection]
-    text = [img=music] Trên mặt trời... set... Lái xe! [img=music]
+    text = [img=music] Trên mặt trời... Đặt... Lái xe! [img=music]
     // [img=music] On Sun... set... Drive! [img=music]
     member = b2e693e1-0efd-441e-8e06-601dcbc2d052
     member = 33122403-bbe2-4487-98d5-34d2a6d0067c
@@ -22941,7 +22941,7 @@
     member = b4dac93f-567d-4c84-8e7e-14f80a9c7fe9
 [/Collection]
 [Collection]
-    text = Ồ thật sao Janine? Trông TÔI giống như chữ viết của cha tôi!
+    text = Ôi thật sao Janine? Trông TÔI giống như cha tôi viết!
     // Oh really Janine? Looks to ME like my father's writing!
     member = d61ac815-8805-4796-9e66-9f5f7bde62b5
 [/Collection]
@@ -22991,7 +22991,7 @@
     member = 74648638-c8f9-4750-8378-b22a06241583
 [/Collection]
 [Collection]
-    text = [img=music] Trên mặt trời... Bộ... Lái xe! [img=music]
+    text = [img=music] Trên mặt trời... Đặt... Lái xe! [img=music]
     // [img=music] On Sun... Set... Drive! [img=music]
     member = 86c8758f-502b-4149-aae9-f7f4b097871b
     member = 5f187b06-7396-41c0-8b03-456f8a69a0a1
@@ -23067,7 +23067,7 @@
     member = c2a827ed-51db-4095-a45c-dd9130fd9fe4
 [/Collection]
 [Collection]
-    text = Ah, vậy là ông đã từ chối tham gia cùng chúng tôi ông Wellen QC?
+    text = À, vậy là ông đã từ chối tham gia cùng chúng tôi ông Wellen QC?
     // Ah, so you deigned to join us Mr Wellen QC?
     member = 01cea554-0ffc-400a-b055-e9d57908a7ab
 [/Collection]
@@ -23082,7 +23082,7 @@
     member = aaff7d03-2ed2-49a5-a0bb-9cedcb789b7c
 [/Collection]
 [Collection]
-    text = Oh chỉ cần ngồi xuống chàng trai. Đừng chần chừ.
+    text = Ôi chỉ cần ngồi xuống chàng trai. Đừng chần chừ.
     // Oh just sit down boy. Don't dawdle.
     member = 399d87ae-4e4b-4a4e-a120-068306588b76
 [/Collection]
@@ -23262,7 +23262,7 @@
     member = 95a06b97-78f7-491d-ba85-df6b0e2ac006
 [/Collection]
 [Collection]
-    text = Hargrave... I'm feeling dizzy.
+    text = Hargrave... Tôi cảm thấy chóng mặt.
     // Hargrave... I'm feeling dizzy.
     member = da84fbed-fe8e-4026-b3fc-de040e5fe1b0
 [/Collection]
@@ -23506,7 +23506,7 @@
     member = e7859169-e151-4b27-9612-16f970854b7c
 [/Collection]
 [Collection]
-    text = Điều gì sẽ xảy ra nếu điều này lan rộng? Bệnh này họ mắc phải?
+    text = Điều gì sẽ xảy ra nếu điều này phát tán? Bệnh này họ mắc phải?
     // What if this spreads? This illness they have?
     member = 9413946d-4037-49f3-8eb7-ede479da3bc1
 [/Collection]
@@ -23786,7 +23786,7 @@
     member = dc268e31-c4bd-4709-ab45-780e8dbe119d
 [/Collection]
 [Collection]
-    text = <bzzt> có điều này tôi cần nói với bạn Mary-Beth <bzzt>
+    text = <bzzt> there's something I need to tell you Mary-Beth <bzzt>
     // <bzzt> there's something I need to tell you Mary-Beth <bzzt>
     member = 92de6851-623f-4648-a18a-2d2bb7521d34
 [/Collection]
@@ -23876,7 +23876,7 @@
     member = 08ca0476-69df-4eff-bd8f-1842fa60f102
 [/Collection]
 [Collection]
-    text = Đang lây lan nhanh và nó đang lây lan mà không cần tiếp xúc với chất lỏng.
+    text = Đang phát tán nhanh và nó đang phát tán mà không cần tiếp xúc với chất lỏng.
     // Is spreading fast, and it's spreading without fluid contact.
     member = b757ffed-1b27-497f-a7fa-4494ea812794
 [/Collection]
@@ -24929,7 +24929,7 @@
     member = 9e3b05e4-6410-4eff-9e89-a847dd8316c3
 [/Collection]
 [Collection]
-    text = Và Zachary, would you like to play on the see-saw?
+    text = Và Zachary, bạn có muốn chơi bập bênh không?
     // And Zachary, would you like to play on the see-saw?
     member = 9bfd3e27-abd6-4ac7-bc3b-36e99b021efe
     member = 35ce33ac-cb01-4951-a8fe-50bc9ebb4713
@@ -25196,7 +25196,7 @@
     member = 1617109d-802c-4a65-a9e8-caa5ae923da2
 [/Collection]
 [Collection]
-    text = Người trẻ! Người trẻ, no!
+    text = Người trẻ! Người trẻ, không!
     // Young one! Young one, no!
     member = 053fad79-2d5c-47fb-b614-ee42af682e15
     member = 5ac8e97a-b713-4e7d-b59d-9c290e400594
@@ -25816,7 +25816,7 @@
     member = 653cc063-72cd-4968-bff7-6ace03113817
 [/Collection]
 [Collection]
-    text = Fluffyfoot Thỏ bông? Bạn đã bao giờ nhìn thấy thỏ rất hảo hạng chưa?
+    text = Fluffyfoot Thỏ lông nhung? Bạn đã bao giờ nhìn thấy thỏ rất hảo hạng chưa?
     // Fluffyfoot the Fluffy Bunny? Have you ever seen a rabbit so fluffily scrumptious?
     member = ad6b0586-a322-4201-8d85-8a9d9e3b8c1e
     member = 754db65f-4922-4b0c-bcc4-758ea9417a92
@@ -26347,7 +26347,7 @@
     member = 3eb6de5a-a4f0-476d-8478-89f742395dc1
 [/Collection]
 [Collection]
-    text = Thiết bị vô tuyến của tôi cần nguồn điện.
+    text = Thiết bị vô tuyến của tôi cần nguồn năng lượng.
     // My radio gear needs power.
     member = 05e5acd4-46a0-496f-acd9-0f8bf438e6bc
 [/Collection]
@@ -26367,12 +26367,12 @@
     member = ffa75bcb-9696-4ef1-a2fc-01b89c634355
 [/Collection]
 [Collection]
-    text = Nó lây lan.
+    text = Nó phát tán.
     // It's spread.
     member = 81720893-b270-45c2-91cc-27dd5b343abb
 [/Collection]
 [Collection]
-    text = Có người tôi đã gặp, cô ấy nói với tôi rằng nó lây lan.
+    text = Có người tôi đã gặp, cô ấy nói với tôi rằng nó phát tán.
     // Someone I met, she told me it's spread.
     member = 7a015651-4599-4e2e-9498-bfb0ac0065eb
 [/Collection]
@@ -26759,7 +26759,7 @@
     member = db9858c7-1bd9-4694-acec-762595aaa334
 [/Collection]
 [Collection]
-    text = Chúng tôi đã xây dựng lại các công sự. Chúng tôi có súng.
+    text = Chúng ta đã xây dựng lại các công sự. Chúng tôi có súng.
     // We've rebuilt fortifications. We have guns.
     member = ebb087cf-c863-4aeb-948d-73f97bb43fd9
 [/Collection]
@@ -26819,7 +26819,7 @@
     member = f9c98180-62b2-4446-b5b1-4d97512915df
 [/Collection]
 [Collection]
-    text = Hello? XIN CHÀO?
+    text = Xin chào? XIN CHÀO?
     // Hello? HELLO?
     member = 4100cd8e-c60e-433e-9854-dca7aa892cd7
 [/Collection]

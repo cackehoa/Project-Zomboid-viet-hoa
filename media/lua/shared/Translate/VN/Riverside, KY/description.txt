@@ -1,11 +1,12 @@
 Riverside
  <LINE> <LINE>
- A colorful town tightly hugging the banks of the mighty Ohio: exploring Riverside is a rich and diverse experience!
- To the west you'll find the older parts of town,
- while out east is where our wealthier residents work, rest and play.
+ Thị trấn đầy màu sắc ôm sát bờ sông Ohio hùng vĩ:
+ khám phá Riverside là một trải nghiệm phong phú và đa dạng!
+ Ở phía tây, bạn sẽ tìm thấy những khu vực cũ của thị trấn,
+ trong khi phía đông là nơi cư dân giàu có của chúng tôi làm việc,
+ nghỉ ngơi và vui chơi.
  <LINE> <LINE>
- In fact, if you're considering a stay with us, 
- why not check out the nearby Knox Heights Country Club? 
- The ultimate in comfort and relaxation: members have access to an 18 hole golf
- course, tennis courts, swimming pool and spa. Come join today!
-
+Trên thực tế, nếu bạn đang cân nhắc việc ở lại với chúng tôi,
+tại sao không đến Câu lạc bộ Đồng quê Knox Heights gần đó?
+Thoải mái và thư giãn tối đa: các thành viên được sử dụng sân gôn 18 lỗ, sân tennis,
+hồ bơi và spa. Hãy tham gia ngay hôm nay!
