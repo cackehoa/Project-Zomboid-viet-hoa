@@ -14,12 +14,12 @@
 [Translations]
 
 [Collection]
-    text = Hôm nay chúng ta đang ở đâu trong Pizza Whirled?
+    text = Hôm nay chúng tôi đang ở đâu trong Pizza Whirled?
     // Where in the Pizza Whirled are we today?
     member = b0ee632b-789e-4e4f-a2b0-b09374856a62
 [/Collection]
 [Collection]
-    text = Xin chào ông già! Bíp bíp!
+    text = Chào ông già! Pip pip!
     // Hello there old boy! Pip pip!
     member = e026c08a-32a1-4548-8cd0-b4a22830bae8
 [/Collection]
@@ -207,7 +207,7 @@
     member = b3aed9a0-651d-46cc-9059-755291db682c
 [/Collection]
 [Collection]
-    text = "Tất cả chúng ta đều giống nhau!"
+    text = "Tất cả chúng tôi đều giống nhau!"
     // "We're all the same!"
     member = 6579e7b5-cc89-4dd3-b8a6-721187c316e8
 [/Collection]
@@ -279,7 +279,7 @@
     member = 06aef50f-7894-4189-a9e9-1567416b846d
 [/Collection]
 [Collection]
-    text = Gấu mèo với nhiệm vụ.
+    text = Gấu mèo với sứ mệnh.
     // A Raccoon with a mission.
     member = a8c1deda-6ba3-4917-8e00-e620b9aa9647
     member = 84183d55-4f0c-443d-9f89-54ae821582b7
@@ -323,7 +323,7 @@
     member = e6f1b691-1cf7-4070-9d5f-3b4801ccccb1
 [/Collection]
 [Collection]
-    text = Nó thật đẹp!
+    text = Nó XINH ĐẸP!
     // That is BEAUTIFUL!
     member = 74353cef-98ed-4aac-b450-eac04be503d8
 [/Collection]
@@ -472,7 +472,7 @@
     member = 27c9a086-afd7-4b1a-b4c6-f2e1a0bfaea9
 [/Collection]
 [Collection]
-    text = Các yếu tố chống lại chúng ta ngày hôm nay, huh?
+    text = Các yếu tố chống lại chúng tôi ngày hôm nay, huh?
     // The elements are against us today, huh?
     member = eb21cefd-76a0-41de-b2dd-6a45822fb21c
 [/Collection]
@@ -537,7 +537,7 @@
     member = 6ad58506-a49c-441e-a7b2-f63fa8ff43e6
 [/Collection]
 [Collection]
-    text = Tiến sĩ Oids, Xếp hạng Phổ thông.
+    text = Tiến sĩ Oids, Xếp hạng phổ biến.
     // Dr. Oids, Rated Universal.
     member = 75fa01e1-5c17-493a-b539-1d009ade45f2
 [/Collection]
@@ -557,7 +557,7 @@
     member = a80f063f-935b-4d1e-89e7-ec1f6ecff06d
 [/Collection]
 [Collection]
-    text = Chúng tôi ở đây để giúp đỡ.
+    text = Chúng tôi ở đây để giúp.
     // We're here to help.
     member = 2da1dcf0-e33e-458f-89b4-e765be2f4a09
 [/Collection]
@@ -958,14 +958,14 @@
     member = a6628683-7b23-4869-9a07-2535c5b5de42
 [/Collection]
 [Collection]
-    text = ... để bảo vệ đất nước của chúng ta...
+    text = ... để bảo vệ đất nước của chúng tôi...
     // ... to protect our country...
     member = 4612313a-b37d-4cc8-990f-dd88ff504734
     member = b32ab2c2-bb68-49bb-a549-3722bb2b484e
     member = 11493ccc-61b9-427e-bd5e-9c99a68f1d26
 [/Collection]
 [Collection]
-    text = ... vẫn an toàn như chúng ta vẫn nghĩ.
+    text = ... vẫn an toàn như chúng tôi vẫn nghĩ.
     // ... was as safe as we always thought it was.
     member = 12329694-5ad6-485d-9edd-638d73cdafe1
     member = 3b51a239-5375-453f-9c46-bf7e58d3ffad
@@ -1046,7 +1046,7 @@
     member = 77383a36-ae45-466d-9c4c-78c036d2862f
 [/Collection]
 [Collection]
-    text = Ngựa: những con vật tốt nhất mà quốc gia chúng ta có.
+    text = Ngựa: những con vật tốt nhất mà quốc gia chúng tôi có.
     // Horses: the finest animals our nation has to offer.
     member = c09412e4-f02c-4735-9397-5736fd0ac2e6
 [/Collection]
@@ -1476,7 +1476,7 @@
     member = 545e2718-5057-4aa9-b0a4-0be9c094f0ee
 [/Collection]
 [Collection]
-    text = Chúng ta nên nghe chi tiết cụ thể vào ngày mai.
+    text = Chúng tôi nên nghe chi tiết cụ thể vào ngày mai.
     // We should hear concrete details tomorrow.
     member = 3b7637a2-7878-4419-a52f-e8df56611773
 [/Collection]
@@ -1520,7 +1520,7 @@
     member = d4c855e9-12c7-4a89-ada8-c225ba4e360c
 [/Collection]
 [Collection]
-    text = Denise, bạn là một trong những người cuối cùng ra khỏi Khu vực. Tôi có đúng không?
+    text = Denise, bạn là một trong những người cuối cùng ra khỏi Khu. Tôi có đúng không?
     // Denise, you were one of the last out of the Zone. Am I right?
     member = 8a921753-4eaa-45c6-9fc7-c85d147c8a8b
 [/Collection]
@@ -1540,7 +1540,7 @@
     member = f7c026e2-b18c-4d7f-8277-050f3d20bf68
 [/Collection]
 [Collection]
-    text = Những gã này... tất cả đang đứng giữa chúng ta.
+    text = Những gã này... tất cả đang đứng giữa chúng tôi.
     // These guys... all standing in-between us.
     member = 96d80efe-f798-4901-9ebc-25080578ded4
 [/Collection]
@@ -1625,7 +1625,7 @@
     member = 1b1dccf0-f0ab-45f6-9ce5-c910b9a97261
 [/Collection]
 [Collection]
-    text = Chúng ta vẫn chưa biết Denise.
+    text = Chúng tôi vẫn chưa biết Denise.
     // We don't know just yet Denise.
     member = 3abff103-77ff-4e58-8dac-07f41bd64d5c
 [/Collection]
@@ -1670,7 +1670,7 @@
     member = 22ef3586-729e-44c2-997d-cd70e8de2c7b
 [/Collection]
 [Collection]
-    text = Vậy chúng ta biết gì?
+    text = Vậy chúng tôi biết gì?
     // So what do we know?
     member = 5ef69ba0-97a5-4fbc-bc57-205a2c879928
 [/Collection]
@@ -1715,7 +1715,7 @@
     member = eac76b0f-d596-411b-a84b-735f59d1dc65
 [/Collection]
 [Collection]
-    text = Chúng ta đã hứa sẽ có câu trả lời vào ngày mai từ một... Tướng John McGrew.
+    text = Chúng tôi đã hứa sẽ có câu trả lời vào ngày mai từ một... Tướng John McGrew.
     // We're promised answers tomorrow from one... General John McGrew.
     member = 60f0cb9b-e7ab-4846-8db8-816c1c37b3ad
 [/Collection]
@@ -1761,7 +1761,7 @@
     member = aacb2fcf-5b5f-4c4c-a2a3-468098fc3889
 [/Collection]
 [Collection]
-    text = Khu vực cấm vẫn được giữ nguyên.
+    text = Khu cấm vẫn được giữ nguyên.
     // The Exclusion Zone remains in place.
     member = bcc6a6ab-db3b-4ac3-9f56-1b59c8e0a8e7
 [/Collection]
@@ -2053,7 +2053,7 @@
     member = 0a5df8d9-474e-4606-bf90-a2e540ccae7a
 [/Collection]
 [Collection]
-    text = Tại sao chúng ta ở trong bóng tối?
+    text = Tại sao chúng tôi ở trong bóng tối?
     // Why are we in the dark?
     member = bbaace95-51a6-4313-8c5b-0ce49bc89c44
 [/Collection]
@@ -2078,7 +2078,7 @@
     member = 028bee7b-0c38-4163-bd05-424cd8d359ae
 [/Collection]
 [Collection]
-    text = Đây là thời gian khó khăn.
+    text = Đây là thời gian khẩn cấp.
     // This is a distressing time.
     member = 4296776d-6ee6-411c-b8f2-b887514a1a12
     member = cb66cd45-8295-4067-8fcd-4bd2ae2497f8
@@ -2148,7 +2148,7 @@
     member = 03cf6bf4-e6bb-45c0-b38c-e6c2a8a3d0d2
 [/Collection]
 [Collection]
-    text = Tôi có niềm tin vào các Quân nhân và Phụ nữ của chúng ta sẽ hoàn thành nhiệm vụ của họ...
+    text = Tôi có niềm tin vào các Quân nhân và Phụ nữ của chúng tôi sẽ hoàn thành nhiệm vụ của họ...
     // I have faith in our Servicemen and Women to fulfill their duties...
     member = 43cfd043-73ff-48d1-b713-fbba9a5ea483
     member = b555adf2-2def-405a-bb92-2be103e58ae7
@@ -2178,7 +2178,7 @@
     member = 6957c74d-a312-45f9-8213-36b54859f48e
 [/Collection]
 [Collection]
-    text = Đây là thời kỳ khó khăn của nước Mỹ, nhưng bạn đang ở trong tay an toàn.
+    text = Đây là thời kỳ khẩn cấp của nước Mỹ, nhưng bạn đang ở trong tay an toàn.
     // It is a distressing time America, but you are in safe hands.
     member = af49e92c-ff32-4f0b-a8a9-4d5bf2e5cdd9
     member = 4b2fe5f5-4a9d-4fdb-a12b-684cc246a343
@@ -2188,7 +2188,7 @@
     member = e949cc8e-79bf-46bb-9748-ea5e9331ca39
 [/Collection]
 [Collection]
-    text = Cảm ơn.
+    text = Cảm ơn bạn.
     // Thank you.
     member = 220498db-8d7c-49df-8557-f69e3cf403a9
     member = 9f8c24f9-b631-4a4d-b48e-97c2db6215eb
@@ -2221,7 +2221,7 @@
     member = 3add099a-199c-42e6-b2ff-eb56f5f1f888
 [/Collection]
 [Collection]
-    text = Bây giờ hãy quay lại Ranh giới Khu vực cấm, nơi tôi đang ở sáng nay.
+    text = Bây giờ hãy quay lại Ranh giới Khu cấm, nơi tôi đang ở sáng nay.
     // Now back to the Exclusion Zone Boundary, where I am this morning.
     member = 8ecf0af1-3f13-4ed8-8421-5735c1a1ebaa
 [/Collection]
@@ -2311,7 +2311,7 @@
     member = e8ac73dc-5abe-48f4-83f2-b80cab072aba
 [/Collection]
 [Collection]
-    text = Họ nói rằng chúng ta không nên lo lắng...
+    text = Họ nói rằng chúng tôi không nên lo lắng...
     // They say we shouldn't be worried...
     member = e5f66148-1765-43de-aaa3-5cf065f9ef3f
 [/Collection]
@@ -2336,7 +2336,7 @@
     member = 937592a6-28aa-44ef-ac11-d142756ae9e5
 [/Collection]
 [Collection]
-    text = Tại sao chúng ta không nói được?
+    text = Tại sao chúng tôi không nói được?
     // Why can't we speak?
     member = 847e00ce-5d89-4017-b74d-716df0d87014
 [/Collection]
@@ -2477,7 +2477,7 @@
     member = 4aa5f58d-f000-42ba-8c43-5c5b9aa2b217
 [/Collection]
 [Collection]
-    text = ... cho đến khi chúng ta biết chắc mình an toàn.
+    text = ... cho đến khi chúng tôi biết chắc mình an toàn.
     // ... until we know for sure we are safe.
     member = 3fae8e9c-2d12-40ad-8572-e87e3a58f22b
 [/Collection]
@@ -2557,7 +2557,7 @@
     member = 9753a697-b276-417b-9fa9-3b0704591b0c
 [/Collection]
 [Collection]
-    text = Những gì chúng ta không được nói?
+    text = Những gì chúng tôi không được nói?
     // What aren't we being told?
     member = 5fa705bd-14ea-4fde-a492-023f786e1eea
 [/Collection]
@@ -2567,7 +2567,7 @@
     member = ed55f0ac-b364-4fa5-b489-ad218fd59af8
 [/Collection]
 [Collection]
-    text = Người ta nói, tất cả những gì chúng ta cần là câu trả lời.
+    text = Người ta nói, tất cả những gì chúng tôi cần là câu trả lời.
     // All we need, the people say, are answers.
     member = 7c72c3db-9e8b-4117-a4fe-c2d36aa7c2c2
 [/Collection]
@@ -2617,7 +2617,7 @@
     member = 9fe638a4-fc1c-4796-9cec-9a248d8fe53e
 [/Collection]
 [Collection]
-    text = và 'Chúng ta không được nói gì?'
+    text = và 'Chúng tôi không được nói gì?'
     // and 'What aren't we being told?'
     member = 119ca91b-89a5-42ec-be56-a34ce4990c7b
 [/Collection]
@@ -2642,7 +2642,7 @@
     member = 6005c673-6527-425a-b78d-de8dc8db3c64
 [/Collection]
 [Collection]
-    text = Chúng ta còn năm ngày nữa để cấm Sự kiện. Đây là LBMW.
+    text = Chúng tôi còn năm ngày nữa để cấm Sự kiện. Đây là LBMW.
     // We're five days into the Event exclusion. This is LBMW.
     member = 752964df-ade2-4249-ab0d-2532efb28409
 [/Collection]
@@ -2657,7 +2657,7 @@
     member = a6161be8-3396-4270-afd5-6265ce95b6d3
 [/Collection]
 [Collection]
-    text = Khi sự phản đối kịch liệt của công chúng và sự hỗn loạn tràn ra đường phố của các thành phố của chúng ta.
+    text = Khi sự phản đối kịch liệt của công chúng và sự hỗn loạn tràn ra đường phố của các thành phố của chúng tôi.
     // As public outcry and disorder spills onto the streets of our cities.
     member = 16e932fa-52ed-43e8-be8e-bc972ac85911
 [/Collection]
@@ -2747,7 +2747,7 @@
     member = c46fbeac-b027-4eb9-9c85-22afd7b14caa
 [/Collection]
 [Collection]
-    text = Những hoạt động kinh hoàng mà chúng ta đã thấy trên đường phố trong 24 giờ qua?
+    text = Những hoạt động kinh hoàng mà chúng tôi đã thấy trên đường phố trong 24 giờ qua?
     // The horrifying activities we have seen on our streets over the last 24 hours?
     member = 535f3244-16a2-4d70-87ea-b83a42568ec0
     member = 66ce9875-2a7c-4fc7-8040-3f10523617e8
@@ -2817,7 +2817,7 @@
     member = f3d492fd-947d-4a01-a88c-4585f4345e17
 [/Collection]
 [Collection]
-    text = Trong khi đó, gần nhà hơn.
+    text = Trong khi đó, gần nhà.
     // Meanwhile, closer to home.
     member = 7a8af28f-be41-4aaa-9145-8cf1d0fb0094
 [/Collection]
@@ -2936,7 +2936,7 @@
     member = 4c0c6e94-7b6e-4af5-85b6-c9c57a5e408f
 [/Collection]
 [Collection]
-    text = Hiện chúng tôi đã thiết lập các phòng thí nghiệm bên trong Khu vực.
+    text = Hiện chúng tôi đã thiết lập các phòng thí nghiệm bên trong Khu.
     // We have labs set up inside the Zone now.
     member = e91e923b-e6cf-4ac3-81fc-57a6f9c0c8d5
     member = 770f89a0-d309-488f-b199-d7286392796c
@@ -3112,7 +3112,7 @@
     member = 258eaa89-ae44-46e3-90f5-f19a9370d04d
 [/Collection]
 [Collection]
-    text = Khu vực cấm Knox đã được mở rộng.
+    text = Khu cấm Knox đã được mở rộng.
     // The Knox Exclusion Zone has been widened.
     member = 891e662e-a81b-4d9d-b185-2b2df42925be
 [/Collection]
@@ -3295,7 +3295,7 @@
     member = 1f10de27-2237-4389-b991-c7bf7ba7d979
 [/Collection]
 [Collection]
-    text = Từ 6 giờ tối nay sẽ có lệnh giới nghiêm ở một số thành phố lớn nhất của chúng ta.
+    text = Từ 6 giờ tối nay sẽ có lệnh giới nghiêm ở một số thành phố lớn nhất của chúng tôi.
     // From 6pm tonight there will be curfews in some of our biggest cities.
     member = c2184a83-3c08-4c2f-80d0-8afd1bc112eb
     member = ad612520-59e0-4d3d-b676-3275be21f0b4
@@ -3334,7 +3334,7 @@
     member = 55fe8c88-6522-4762-b390-cfc2c84bd4e2
 [/Collection]
 [Collection]
-    text = Tôi yêu cầu cộng đồng báo chí của chúng ta đưa tin một cách có trách nhiệm.
+    text = Tôi yêu cầu cộng đồng báo chí của chúng tôi đưa tin một cách có trách nhiệm.
     // I ask our journalistic community to report responsibly.
     member = 5f03af59-8783-4c16-b939-5acc9e8dc577
     member = af1d8c66-b6c1-42c3-a52a-ccc17790334f
@@ -3402,12 +3402,12 @@
     member = 3fb56972-8f69-4657-b2c2-f11c96615ee9
 [/Collection]
 [Collection]
-    text = ...mà chúng ta có thể báo cáo.
+    text = ...mà chúng tôi có thể báo cáo.
     // ...that we can report on.
     member = 9e5d1013-5583-4fba-b7b4-7a72c8a6e613
 [/Collection]
 [Collection]
-    text = Chúng ta đã nhúng tay vào, cùng với quân của Tướng John McGrew.
+    text = Chúng tôi đã nhúng tay vào, cùng với quân của Tướng John McGrew.
     // Embedded as we are, with General John McGrew's troops.
     member = e52b6889-7207-4f6f-949a-93187cd47e4c
 [/Collection]
@@ -4504,12 +4504,12 @@
     member = 3613da55-bd37-4a48-8adb-4ed30272b23c
 [/Collection]
 [Collection]
-    text = Đây là Frank Hemingway, chúng ta có nhân chứng.
+    text = Đây là Frank Hemingway, chúng tôi có nhân chứng.
     // This is Frank Hemingway, we've got a witness.
     member = 936c69af-916b-4b98-acba-586d2cdf7cf3
 [/Collection]
 [Collection]
-    text = Ai đó từ bên trong, chúng ta có một người.
+    text = Ai đó từ bên trong, chúng tôi có một người.
     // Someone from the inside, we've got one.
     member = f72b74c0-a671-4a1e-844d-3b02acd3bce9
 [/Collection]
@@ -4569,7 +4569,7 @@
     member = cc0b162f-3701-4e42-8b63-8bef78f9d303
 [/Collection]
 [Collection]
-    text = Họ không muốn chúng ta biết điều gì hả Joe?
+    text = Họ không muốn chúng tôi biết điều gì hả Joe?
     // What don't they want us to know, Joe?
     member = a5994260-7bad-4933-9e80-d7078f2df59a
 [/Collection]
@@ -4742,7 +4742,7 @@
     member = 7020eee4-9b60-4da0-bf85-c379e59b7a7a
 [/Collection]
 [Collection]
-    text = Đầu tiên và quan trọng nhất: chúng ta an toàn.
+    text = Đầu tiên và quan trọng nhất: chúng tôi an toàn.
     // First and foremost: we are safe.
     member = 1f4dd9f0-ae56-4d86-9423-de4cb9eec84a
     member = fcd16f7e-c553-4fab-993d-f9db5a885c12
@@ -4777,7 +4777,7 @@
     member = 56ae81a5-3f71-45cf-9146-ee59c8f63227
 [/Collection]
 [Collection]
-    text = Hôm nay chúng ta có thể khẳng định rằng, vâng, bản chất của Sự kiện Knox là thoái hóa.
+    text = Hôm nay chúng tôi có thể khẳng định rằng, vâng, bản chất của Sự kiện Knox là thoái hóa.
     // Today we can confirm that, yes, the nature of the Knox Event is degenerative.
     member = 98d67239-f795-4ab5-97a7-57a7347aff68
     member = 0afc286d-edbd-4712-be30-fb76c5763c5b
@@ -4946,7 +4946,7 @@
     member = 8488cc94-ff2c-40ff-8dc7-4fa750dee79d
 [/Collection]
 [Collection]
-    text = Chúng ta an toàn.
+    text = Chúng tôi an toàn.
     // We are safe.
     member = 2ba876f2-4ebc-4a6d-b9a2-959624669f5f
     member = 3ef27c18-a74c-4b50-9fa0-13767e7b7808
@@ -5001,12 +5001,12 @@
     member = f58ec742-9e66-41d6-ac9c-5e620c3023d8
 [/Collection]
 [Collection]
-    text = Jackie! Chúng ta đang được chuyển về! Bạn có nghe tôi nói không?
+    text = Jackie! Chúng tôi đang được chuyển về! Bạn có nghe tôi nói không?
     // Jackie! We're being moved back! Can you hear me?
     member = 3a5594ca-7177-4217-aefd-ec5a6a4b03f1
 [/Collection]
 [Collection]
-    text = THƯA BÀ! ĐỨNG XUỐNG! THƯA BÀ! LÙI LẠI!
+    text = BÀ! ĐỨNG XUỐNG! BÀ! LÙI LẠI!
     // MA'AM! STAND DOWN! MA'AM! MOVE BACK!
     member = ae1c33e7-bd2e-4418-a69c-84e3b60cba6f
 [/Collection]
@@ -5065,7 +5065,7 @@
     member = 75705d28-6996-43ae-94d9-5b91469e708c
 [/Collection]
 [Collection]
-    text = Bạn có biết chúng ta đang đối phó với cái quái gì không?
+    text = Bạn có biết chúng tôi đang đối phó với cái quái gì không?
     // Do you know what in hell we're dealing with?
     member = f3ed2456-62b0-4b1e-be19-803b253852df
 [/Collection]
@@ -5594,7 +5594,7 @@
     member = 78d63e8c-fd90-4fc4-8538-73ff6ec39206
 [/Collection]
 [Collection]
-    text = Chúng tôi đã dọn sạch khu vực này và dựng trại.
+    text = Chúng tôi đã dọn sạch vùng này và dựng trại.
     // We've cleared this area and set up camp.
     member = 5eb4aeb5-20c7-4d68-a06e-4d66dfa85e3c
 [/Collection]
@@ -5704,7 +5704,7 @@
     member = 72cdd156-f31e-4e35-830f-3b38fa44628a
 [/Collection]
 [Collection]
-    text = Chúng ta an toàn ở đây, nhưng chúng ta đang bị bao vây.
+    text = Chúng tôi an toàn ở đây, nhưng chúng tôi đang bị bao vây.
     // We're safe here, but we're surrounded.
     member = b2161f60-2fab-4053-bad6-404b89dff4bc
 [/Collection]
@@ -5769,17 +5769,17 @@
     member = 0c1fbae7-ca62-464a-a7e1-eb900f57bc62
 [/Collection]
 [Collection]
-    text = ... nhưng thông qua tiếp xúc với chất lỏng, ý tôi là vết cắn...'
+    text = ...nhưng thông qua tiếp xúc với chất lỏng, ý tôi là vết cắn...'
     // ... but through fluid contact, by which I mean bites...'
     member = 8d42995f-e71e-48fa-8f79-cc9e3036b83f
 [/Collection]
 [Collection]
-    text = ... nó chắc chắn sẽ.'
+    text = ...nó chắc chắn sẽ.'
     // ... it surely will.'
     member = bb028c17-c5bf-4477-b85d-8c2dba3050ef
 [/Collection]
 [Collection]
-    text = Đây là những ngày đen tối, nhưng với tư cách là quốc gia, chúng ta có thể và sẽ chiến thắng.'
+    text = Đây là những ngày đen tối, nhưng với tư cách là quốc gia, chúng tôi có thể và sẽ chiến thắng.'
     // These are dark days, but as a nation we can and will prevail.'
     member = 2d983bff-597a-4fd6-be30-e094b9882a5b
 [/Collection]
@@ -5789,7 +5789,7 @@
     member = c253a343-4323-457d-97bd-cdcd48ab45c7
 [/Collection]
 [Collection]
-    text = Chúng tôi sẽ đến với bạn.'
+    text = chúng tôi sẽ đến vì bạn.'
     // We will come for you.'
     member = 6531bfba-42ed-4eee-98b9-a6bfd7eca2dc
 [/Collection]
@@ -5809,7 +5809,7 @@
     member = 23efb07a-456c-4de2-ac41-ecf9f18b22db
 [/Collection]
 [Collection]
-    text = Chúng ta có đủ người xung quanh để cầm cự.
+    text = Chúng tôi có đủ người xung quanh để cầm cự.
     // We've got enough people around us to hold out.
     member = 53cf2642-7ad2-42c9-b1ff-9189fbf121fd
 [/Collection]
@@ -5941,7 +5941,7 @@
     member = c1a38cac-43af-4e16-8fb0-313056e839d3
 [/Collection]
 [Collection]
-    text = Giả sử tất cả các khu vực đô thị lớn đã bị xâm phạm.
+    text = Giả sử tất cả các vùng đô thị lớn đã bị xâm phạm.
     // Assume all major urban areas have been compromised.
     member = 35ac7688-7455-488f-9917-da24dba34d07
     member = a7adfbcd-a1b7-47d7-af0d-a36548299a6f
@@ -5969,7 +5969,7 @@
     member = d9ca9fef-eb9c-40f0-86a8-ca92582ad3a5
 [/Collection]
 [Collection]
-    text = Chúng ta đang làm tất cả những gì có thể để giành lại đất Mỹ.
+    text = Chúng tôi đang làm tất cả những gì có thể để giành lại đất Mỹ.
     // We are doing all we can to reclaim American soil.
     member = b0ab86be-9aad-42e1-85e6-a629ac5bb713
     member = f0e10701-9140-4310-a054-4e7077e37f26
@@ -6206,7 +6206,7 @@
     member = f7c9df61-66d0-493a-95b3-d86eac8679d6
 [/Collection]
 [Collection]
-    text = Chúng ta sẽ thoát khỏi chương trình thông thường của mình để...
+    text = Chúng tôi sẽ thoát khỏi chương trình thông thường của mình để...
     // We're going to break from our regular programming to...
     member = 993a48c8-0be9-4670-b5b4-986f44bdab74
 [/Collection]
@@ -6511,7 +6511,7 @@
     member = c79dbf00-f3b0-450d-9e4c-980511cdac8b
 [/Collection]
 [Collection]
-    text = Câu hỏi vẫn là: tại sao chúng ta không thể nói chuyện với họ?
+    text = Câu hỏi vẫn là: tại sao chúng tôi không thể nói chuyện với họ?
     // The question remains: why can't we speak to them?
     member = 5fb9c42a-a1e6-47e8-8d3e-8529aa6d03cf
 [/Collection]
@@ -6547,7 +6547,7 @@
     member = 66263fb0-b080-4868-b30a-e43246a34553
 [/Collection]
 [Collection]
-    text = Tổng thống đã tuyên bố rằng ông 'đau khổ' vì Sự kiện Knox.
+    text = Tổng thống đã tuyên bố rằng ông 'khẩn cấp' vì Sự kiện Knox.
     // The President has claimed he is 'distressed' by the Knox Event.
     member = 177711e3-9c9c-4f1a-a179-06d479474aef
 [/Collection]
@@ -6638,13 +6638,13 @@
     member = c9e7862c-d614-415c-bd59-4407068884d1
 [/Collection]
 [Collection]
-    text = Chúng ta đã không sẵn sàng từ lâu.
+    text = Chúng tôi đã không sẵn sàng từ lâu.
     // We haven't been ready for a long time.
     member = 129f9a57-bded-4604-9ab5-fac5ebb59fa6
     member = 43104d97-bec9-4113-adcf-9ada7222b027
 [/Collection]
 [Collection]
-    text = Tất cả chúng ta đều biết chính quyền nào có lỗi.
+    text = Tất cả chúng tôi đều biết chính quyền nào có lỗi.
     // We all know which administration is to blame.
     member = 406014f6-e5b5-401d-9cfd-9b9c342b6b92
 [/Collection]
@@ -6654,7 +6654,7 @@
     member = 5c979aa2-17a4-428e-99c2-67ab970e98ca
 [/Collection]
 [Collection]
-    text = Chúng ta đang phụ thuộc vào những người đàn ông với những chiếc xe tăng lăn bánh và ngồi trên đường.
+    text = Chúng tôi đang phụ thuộc vào những người đàn ông với những chiếc xe tăng lăn bánh và ngồi trên đường.
     // We are reliant on men with tanks rolling out and sitting on roads.
     member = 76c9056e-24e2-4235-888f-25bcfd35c147
 [/Collection]
@@ -6669,7 +6669,7 @@
     member = abbbf0f6-91ce-417b-8824-ee21c7f62e1e
 [/Collection]
 [Collection]
-    text = Tôi chỉ biết có nhiều thứ hơn những gì chúng ta được kể.
+    text = Tôi chỉ biết có nhiều thứ hơn những gì chúng tôi được kể.
     // I only know there's more to it than what we are told.
     member = 0365c885-b0ed-4abf-9805-c657cee056b7
 [/Collection]
@@ -6816,7 +6816,7 @@
     member = 76149244-314f-43c8-8833-17646cc93ae6
 [/Collection]
 [Collection]
-    text = Tại sao chúng ta không thể nói chuyện với họ Jake?
+    text = Tại sao chúng tôi không thể nói chuyện với họ Jake?
     // Why can't we talk to them Jake?
     member = 606451bb-196d-4295-a4dd-398f8eba0f98
 [/Collection]
@@ -6826,7 +6826,7 @@
     member = 672d8596-7921-4517-ab04-37899f6f57aa
 [/Collection]
 [Collection]
-    text = Có rất nhiều sự hoang mang. Nó có thể đau khổ.
+    text = Có rất nhiều sự hoang mang. Nó có thể khẩn cấp.
     // There's a lot of confusion. It could distress.
     member = a8495533-7fee-4c14-8881-6322cf6d0e63
 [/Collection]
@@ -6861,7 +6861,7 @@
     member = 5450d4c7-433c-4cf9-8f0b-d9f1ec4bbd7b
 [/Collection]
 [Collection]
-    text = Chúng ta có người lo việc này, tôi sẽ giới thiệu...
+    text = Chúng tôi có người lo việc này, tôi sẽ giới thiệu...
     // We've got a guy who handles this stuff, I'll introduce...
     member = c782ae48-ebef-4994-96c6-202c04926920
 [/Collection]
@@ -7170,12 +7170,12 @@
     member = 4cb4c253-de7b-427e-88bf-674cbf9b68a1
 [/Collection]
 [Collection]
-    text = ...bên trong Khu vực.
+    text = ...bên trong Khu.
     // ...inside the Zone.
     member = 9303221f-8e93-46ac-974c-ddf3bf565ef4
 [/Collection]
 [Collection]
-    text = Để đảm bảo an toàn hơn nữa cho sự cố, Khu vực cấm đã được mở rộng.
+    text = Để đảm bảo an toàn hơn nữa cho sự cố, Khu cấm đã được mở rộng.
     // To further secure the incident, the Exclusion Zone has been widened.
     member = 041c230c-5b71-4be3-ba75-fb458c637e73
 [/Collection]
@@ -7220,7 +7220,7 @@
     member = 8ac4539a-71f5-4742-af53-8e9a971ab97b
 [/Collection]
 [Collection]
-    text = Họ muốn chúng ta rời khỏi đó.
+    text = Họ muốn chúng tôi rời khỏi đó.
     // They want us away from there.
     member = 77c1aebd-612a-4352-b91d-72f35ed13a6c
 [/Collection]
@@ -7592,7 +7592,7 @@
     member = 30b4edd0-4468-4d87-927c-39d9c11452fa
 [/Collection]
 [Collection]
-    text = Và hơn bao giờ hết chúng ta phải báo cáo:
+    text = Và hơn bao giờ hết chúng tôi phải báo cáo:
     // And as ever we must report:
     member = f3b80c5b-740d-471a-868b-a67b210ffb6d
 [/Collection]
@@ -7614,7 +7614,7 @@
     member = 956c6add-e838-4eb8-bac1-25903410dd4e
 [/Collection]
 [Collection]
-    text = Chúng ta phải có hòa bình.
+    text = Chúng tôi phải có hòa bình.
     // We must have peace.
     member = 164d72be-fff6-4aad-bfa3-a8b399d4e070
     member = b47cdea0-e260-4774-8412-0d1fa510c862
@@ -7642,14 +7642,14 @@
     member = 2f90a0cc-0fd8-4dfb-8fc5-d254fa5ec134
 [/Collection]
 [Collection]
-    text = Thế giới đang theo dõi chúng ta.
+    text = Thế giới đang theo dõi chúng tôi.
     // The world is watching us.
     member = 6bccf4d5-fd16-43a0-8300-28710838a03c
     member = 86f78ff5-3136-4bb9-b3c0-5e72670fac2a
     member = 9acca83c-6ffd-429a-a23f-e0e91a707a4d
 [/Collection]
 [Collection]
-    text = Chúng ta không cần phải hoảng loạn.
+    text = Chúng tôi không cần phải hoảng loạn.
     // We don't have to panic.
     member = 8e50391a-4269-4f7d-82a7-a255b60e3d81
     member = 508de18e-6a61-4683-9264-5466186e0bee
@@ -7725,7 +7725,7 @@
     member = 329efb37-332f-47ce-88d7-8b41eadd0230
 [/Collection]
 [Collection]
-    text = Hàng trăm người - được cho là bị nhiễm bệnh - đã vào khu vực này.
+    text = Hàng trăm người - được cho là bị nhiễm bệnh - đã vào vùng này.
     // Hundreds of people - thought to be infected - entered the area.
     member = e59574f2-bb5a-464c-a01a-0c9be0dc0679
 [/Collection]
@@ -7761,7 +7761,7 @@
     member = a9ab69cf-a4fd-427f-ae32-56dd98db6a86
 [/Collection]
 [Collection]
-    text = Bạn có biết nó có nghĩa là gì không?
+    text = Bạn có biết nó có nghĩa là gì?
     // Do you know what this means?
     member = 5934d291-778b-47d0-bf0a-99ebfa9c521a
 [/Collection]
@@ -7916,7 +7916,7 @@
     member = a7531c06-5a87-4597-988c-a2246b4c2709
 [/Collection]
 [Collection]
-    text = Lực lượng quân sự của Sự kiện hiện đã vắng mặt...
+    text = Lực lượng quân sự của Sự kiện hiện vắng mặt...
     // The Event's military force now absent...
     member = 1ce78316-86bc-4b07-8c1c-fd67c4d3a4b4
 [/Collection]
@@ -8024,7 +8024,7 @@
     member = 7b9d4cb3-1f7f-44d3-8595-a185f5f7eee1
 [/Collection]
 [Collection]
-    text = Tôi đã thấy... những người bị truyền nhiễm bên ngoài Khu vực.
+    text = Tôi đã thấy... những người bị truyền nhiễm bên ngoài Khu.
     // I've seen... infected people outside of the Zone.
     member = 78705ce9-e9a4-479a-9c12-4fe2385bb5a0
 [/Collection]
@@ -8114,7 +8114,7 @@
     member = 26298dbb-3f8b-4858-811b-5dd5ff5e6a14
 [/Collection]
 [Collection]
-    text = The Knox Infection is spreading without fluid contact!
+    text = Truyền nhiễm Knox đang phát tán mà không cần tiếp xúc với chất lỏng!
     // The Knox Infection is spreading without fluid contact!
     member = eb622ea6-3d01-486a-8743-18a3915fb0a3
 [/Collection]
@@ -8413,7 +8413,7 @@
     member = 3316d954-1f13-4821-a3bf-2eec59d45d0e
 [/Collection]
 [Collection]
-    text = Lây nhiễm Knox Event được xác nhận ở các địa điểm sau.
+    text = Sự kiện truyền nhiễm Knox được xác nhận ở các địa điểm sau.
     // The Knox Event infection is confirmed in the following locations.
     member = 18049ff0-3365-43cc-b86a-30c5da22598b
 [/Collection]
@@ -8527,7 +8527,7 @@
     member = de4a3626-9f98-44c3-a076-1a46416de1c2
 [/Collection]
 [Collection]
-    text = Đây là những ngày đen tối, nhưng với tư cách là quốc gia, chúng ta có thể và sẽ chiến thắng.
+    text = Đây là những ngày đen tối, nhưng với tư cách là quốc gia, chúng tôi có thể và sẽ chiến thắng.
     // These are dark days, but as a nation we can and will prevail.
     member = 5f1ca338-cc4d-456a-84d8-bd5a642ab4dd
     member = fd5ff696-c78b-46f4-b18d-29bd85ea0e43
@@ -8585,7 +8585,7 @@
     member = 5c60185d-cf7f-448a-a888-4d3f3f7fee98
 [/Collection]
 [Collection]
-    text = Lây nhiễm Knox Event được xác nhận ở các địa điểm sau:
+    text = Sự kiện truyền nhiễm Knox được xác nhận ở các địa điểm sau:
     // The Knox Event infection is confirmed in the following locations:
     member = f8a2d329-52c4-49a7-b4d9-9f738e8d7bbd
 [/Collection]
@@ -8615,7 +8615,7 @@
     member = 35e5cdd7-f0a4-4e1c-83a7-ed8f8603a183
 [/Collection]
 [Collection]
-    text = Trời cứu tất cả chúng ta.
+    text = Trời cứu tất cả chúng tôi.
     // God save us all.
     member = 1b794420-3346-4ddc-b9ce-7c75e889020a
     member = 0362c117-7d6d-4eac-ba07-212d1f559967
@@ -8636,7 +8636,7 @@
     member = ba4913b0-451c-4a72-89b3-3812e234ce00
 [/Collection]
 [Collection]
-    text = Một lăng mộ đi bộ.
+    text = Lăng mộ đi bộ.
     // A walking mausoleum.
     member = ff212321-0de6-4f00-a598-164600161cec
 [/Collection]
@@ -8646,12 +8646,12 @@
     member = 8e2823e6-807a-42d7-accc-8bbc5be43095
 [/Collection]
 [Collection]
-    text = Tôi đến đây, đến căn phòng này, để cùng cầu nguyện với bạn. Vì linh hồn của chúng ta.
+    text = Tôi đến đây, đến căn phòng này, để cùng cầu nguyện với bạn. Vì linh hồn của chúng tôi.
     // I came here, to this room, to pray with you. For our souls.
     member = 8b68412e-4e99-4677-abf0-18866807d814
 [/Collection]
 [Collection]
-    text = Cha của chúng ta, người nghệ thuật...
+    text = Cha của chúng tôi, người nghệ thuật...
     // Our Father, who art...
     member = 0672d86a-4690-4121-9100-7ec479875560
 [/Collection]
@@ -8829,7 +8829,7 @@
     member = 5c758c51-fc67-44a8-a521-172d660eb2ef
 [/Collection]
 [Collection]
-    text = Bây giờ chúng ta không thể nói chuyện! Không thể đi gặp cô ấy!
+    text = Bây giờ chúng tôi không thể nói chuyện! Không thể đi gặp cô ấy!
     // Now we can't talk! Can't go see her!
     member = 0158af5f-dbd1-4442-ae0a-8574bf5231a4
 [/Collection]
@@ -8864,7 +8864,7 @@
     member = 92103426-1f1c-45cb-a8e5-0834e2d46fd3
 [/Collection]
 [Collection]
-    text = Họ're the US Army ma'Sáng.
+    text = Họ là quân đội Hoa Kỳ thưa bà.
     // They're the US Army ma'am.
     member = f4c4e0d7-bdea-492c-9337-d5e7482be36a
 [/Collection]
@@ -8880,7 +8880,7 @@
     member = 861f6594-2da0-4e7e-958b-1fc0366c6105
 [/Collection]
 [Collection]
-    text = Hôm nay chúng ta đang nói chuyện với những người đã thoát khỏi Khu vực cấm.
+    text = Hôm nay chúng tôi đang nói chuyện với những người đã thoát khỏi Khu vực cấm.
     // Today we're talking to people who made it out of the Exclusion Zone.
     member = 5ab6e5e1-b69a-4669-8fe0-e82151b70e93
 [/Collection]
@@ -8960,7 +8960,7 @@
     member = 034f1a81-890b-44cd-b288-0e28f14caf0e
 [/Collection]
 [Collection]
-    text = Chúng ta có ai đó với một cái gì đó mới. Twiggy, bạn có ở đó không?
+    text = Chúng tôi có ai đó với một cái gì đó mới. Twiggy, bạn có ở đó không?
     // We've got someone with something new. Twiggy, you there?
     member = 2c719698-817d-47d0-ad4e-3a4b5b3ff054
 [/Collection]
@@ -9113,7 +9113,7 @@
     member = a6094026-2d86-4cac-b2fb-ddecb431f398
 [/Collection]
 [Collection]
-    text = Chúng tôi đánh giá cao các cuộc gọi của bạn, đặc biệt là những người trong khu vực...
+    text = Chúng tôi đánh giá cao các cuộc gọi của bạn, đặc biệt là những người trong khu...
     // We appreciate your calls, especially as people inside the zone...
     member = d1c32340-dab0-4b06-92cd-545fdb10602b
 [/Collection]
@@ -9238,7 +9238,7 @@
     member = 9ffe1124-26fc-4103-af7c-b8e90a156df9
 [/Collection]
 [Collection]
-    text = Chắc chúng ta không cần hỏi tại sao. Bạn có biết ai trong đó không?
+    text = Chắc chúng tôi không cần hỏi tại sao. Bạn có biết ai trong đó không?
     // Guess we don't need to ask why. You know anyone in there?
     member = c19d3d12-00ce-4157-ad9e-3d981e3d402c
 [/Collection]
@@ -9253,7 +9253,7 @@
     member = 078a05ad-11b1-42f4-8e9e-6773f46ea3c2
 [/Collection]
 [Collection]
-    text = Hệ thống điện thoại hỏng rồi James. Không có máy phát lớn mà tôi biết.
+    text = Hệ thống điện thoại hỏng rồi James. Không có máy phát lớn nào tôi biết.
     // Phone system's down James. No big transmitters I know of.
     member = eda36977-7e79-41a6-9f8a-7ec431781aca
 [/Collection]
@@ -9393,7 +9393,7 @@
     member = 4d7d4245-2716-4d28-8ff5-1c4d7685c2da
 [/Collection]
 [Collection]
-    text = Chúng ta có Đại tá về hưu trên đường dây. Đại tá Smythe rời Arkansas.
+    text = Chúng tôi có Đại tá về hưu trên đường dây. Đại tá Smythe rời Arkansas.
     // We got a retired Colonel on the line. Colonel Smythe out of Arkansas.
     member = e92b8fec-ff1d-4e7f-941f-4f8c2ce82f11
 [/Collection]
@@ -9656,7 +9656,7 @@
     member = ccb54f8d-dc17-4fe2-b1e5-c59d8dfb2b05
 [/Collection]
 [Collection]
-    text = Tất cả chúng ta cũng thế Todd.
+    text = Tất cả chúng tôi cũng thế Todd.
     // We all do Todd.
     member = 9cabbd45-b363-4df3-a58a-e3cfff72d0ac
 [/Collection]
@@ -9841,7 +9841,7 @@
     member = 8f8d842d-c2b1-4c72-931d-6c2390729163
 [/Collection]
 [Collection]
-    text = Chúng ta đang ở Nowheresville ngoài này...
+    text = Chúng tôi đang ở Nowheresville ngoài này...
     // We're in Nowheresville out here...
     member = bd62a3af-05e0-4bd6-9fa4-fd41198ea9e0
 [/Collection]
@@ -9906,7 +9906,7 @@
     member = 925b9df4-41eb-420e-ae64-cdad791e2342
 [/Collection]
 [Collection]
-    text = Nó ở trên bầu trời, và ở trong không khí chúng ta hít thở.
+    text = Nó ở trên bầu trời, và ở trong không khí chúng tôi hít thở.
     // It's in the skies, and it's in the air we breathe.
     member = b48bfe48-8a45-40b6-8ca1-38d29f2773e7
 [/Collection]
@@ -9951,7 +9951,7 @@
     member = 0203b2fc-1147-4509-8d7d-e0daba757e18
 [/Collection]
 [Collection]
-    text = Họ đang nói dối. Họ đang nói dối chúng ta.
+    text = Họ đang nói dối. Họ đang nói dối chúng tôi.
     // They're lying. They're lying to us.
     member = 1ac79d53-7c8e-47a3-9ba9-af5efb97eaa0
 [/Collection]
@@ -10566,7 +10566,7 @@
     member = e289c617-9571-469c-83e6-ff817defa47f
 [/Collection]
 [Collection]
-    text = Bếu bạn có mẹo. Nếu bạn có lời khuyên.
+    text = Nếu bạn có mẹo. Nếu bạn có lời khuyên.
     // If you have tips. If you have advice.
     member = 08c4f440-bbf0-4269-816f-083e615bc15d
 [/Collection]
@@ -11002,7 +11002,7 @@
     member = 26b9608b-a7d1-4c73-aefd-cdd0bcd47d83
 [/Collection]
 [Collection]
-    text = Họ chỉ muốn tiếp tục.
+    text = Họ chỉ muốn tiến lên.
     // They just want to move on.
     member = 867be425-08ef-4c51-ab43-47717edec083
 [/Collection]
@@ -11052,7 +11052,7 @@
     member = 72d58f1c-a427-453f-8825-dfceb6c81464
 [/Collection]
 [Collection]
-    text = Vì có trời mới biết lý do gì, sự thật đã bị giấu khỏi chúng ta.
+    text = Vì có trời mới biết lý do gì, sự thật đã bị giấu khỏi chúng tôi.
     // For God knows what reason, the truth has been kept from us.
     member = e508bd12-a67c-41bd-94e8-5fa08ff6b17c
 [/Collection]
@@ -11077,7 +11077,7 @@
     member = 163621ca-4945-41f0-a1e7-4467e884d53e
 [/Collection]
 [Collection]
-    text = Quân đội đang giết chúng ta! Cha tôi. Ông ta thậm chí không có một vết xước!
+    text = Quân đội đang giết chúng tôi! Cha tôi. Ông ta thậm chí không có một vết xước!
     // The Army are killing us! My Dad. He didn't even have a scratch!
     member = 58cc4e9d-5a16-4361-89b2-66b53e1acdff
 [/Collection]
@@ -11102,7 +11102,7 @@
     member = 582da8bb-a563-400e-96fd-d40c91418024
 [/Collection]
 [Collection]
-    text = <sob> <sob>
+    text = <tiếng nức nở> <tiếng nức nở>
     // <sob> <sob>
     member = dc90f933-e64a-49c3-8123-db09b8ab5855
 [/Collection]
@@ -11172,7 +11172,7 @@
     member = 50f8bba9-c2c1-4905-8246-cdd2b25127ea
 [/Collection]
 [Collection]
-    text = Trời ơi không.
+    text = Ôi trời không.
     // Oh God no.
     member = 51e4d985-4f3c-44fe-a636-ea44b49a3027
 [/Collection]
@@ -11187,7 +11187,7 @@
     member = 42de3805-5311-4ec0-afed-ad9efc03d1b0
 [/Collection]
 [Collection]
-    text = Sau khi.... những gì chúng ta gọi họ?
+    text = Sau khi.... những gì chúng tôi gọi họ?
     // After the.... what do we call them?
     member = a723f2c5-bd97-40fc-b8a0-db5c9c5a5526
 [/Collection]
@@ -11217,7 +11217,7 @@
     member = d6352f2f-7473-4806-b1b4-f41cb6db83c8
 [/Collection]
 [Collection]
-    text = Không có vết cắn.
+    text = Không vết cắn.
     // No bite marks.
     member = ab6679d2-3776-473a-9b00-a301845105f8
 [/Collection]
@@ -11272,7 +11272,7 @@
     member = d37f1120-58df-4e90-87a7-213c1279927d
 [/Collection]
 [Collection]
-    text = Tôi hiểu rồi.
+    text = Tôi đã hiểu.
     // I've got it.
     member = fdd9a20a-cfd7-4ffb-8653-84996d69b62f
 [/Collection]
@@ -11633,12 +11633,12 @@
     member = 8c8c1ac2-d2a1-4ddf-bc64-b3ab47b12e29
 [/Collection]
 [Collection]
-    text = Thứ gì đó ghét chúng ta và muốn chúng ta bị tiêu diệt.
+    text = Thứ gì đó ghét chúng tôi và muốn chúng tôi bị tiêu diệt.
     // Something that hates us, and wants us consumed.
     member = 96bebe05-e168-42c5-8465-2c573d27848d
 [/Collection]
 [Collection]
-    text = Giống như một cái lỗ đã mở ra dưới chân chúng ta và...
+    text = Giống như một cái lỗ đã mở ra dưới chân chúng tôi và...
     // Like a hole has opened up underneath our feet and...
     member = 448e59a6-3340-4b90-9ae7-1ce01a39fd8c
 [/Collection]
@@ -11653,7 +11653,7 @@
     member = 785c47b8-0785-4169-bcb9-870e017b0553
 [/Collection]
 [Collection]
-    text = Xin lỗi cho tất cả chúng ta.
+    text = Xin lỗi cho tất cả chúng tôi.
     // Sorry for us all.
     member = e4cb6fb7-43a6-46be-85d1-9c105c7a5674
 [/Collection]
@@ -11773,7 +11773,7 @@
     member = ee34092e-7287-43a7-87df-197d4ae880ea
 [/Collection]
 [Collection]
-    text = Có lẽ chúng ta có thể làm lại vào một ngày nào đó.
+    text = Có lẽ chúng tôi có thể làm lại vào một ngày nào đó.
     // Maybe we can do it again some day.
     member = 2098745e-5694-4630-b9c1-7232fa466da1
 [/Collection]
@@ -11843,7 +11843,7 @@
     member = 26234398-3633-479f-816d-d6295414794f
 [/Collection]
 [Collection]
-    text = [img=music] Làm sao chúng ta có thể kết thúc? [img=music]
+    text = [img=music] Làm sao chúng tôi có thể kết thúc? [img=music]
     // [img=music] How can we be over? [img=music]
     member = 93110038-2ca4-4474-8150-458be03e6947
     member = 88c0dd55-5890-47b9-a765-8208699e85d7
@@ -11997,7 +11997,7 @@
     member = 3c62e92b-f969-4975-9c66-9448a771fb2d
 [/Collection]
 [Collection]
-    text = Chúng ta kết thúc vì...
+    text = Chúng tôi kết thúc vì...
     // We're over because...
     member = 6b1fb9e9-3df0-442a-a6fd-e0aee09205fd
     member = 8eb221b7-b175-40f1-858c-0a79a787e597
@@ -12314,7 +12314,7 @@
     member = 841efe69-41f3-4eef-a42b-dc266ed2117e
 [/Collection]
 [Collection]
-    text = [img=music] Để xem cách mắt bạn lấp lánh vàng! [img=music]
+    text = [img=music] Để thấy cách đôi mắt bạn lấp lánh ánh vàng! [img=music]
     // [img=music] To see the way your eyes glisten gold! [img=music]
     member = 6a1ffcee-48d6-492c-b1ab-323508574841
     member = e8d39dbc-c6ac-4dee-84ba-9c95e79907c2
@@ -12478,7 +12478,7 @@
     member = 0e4175e1-4a64-40a0-8a59-32c7dfc1c795
 [/Collection]
 [Collection]
-    text = [img=music] ... Và đúng vậy, tôi không may mắn... [img=music]
+    text = [img=music] ... Và đúng vậy, Tôi không may mắn... [img=music]
     // [img=music] ... And yup, I'm unlucky... [img=music]
     member = 501420bd-9711-487c-9f9f-4dc1bdedbfd4
 [/Collection]
@@ -12602,12 +12602,12 @@
     member = 3e0f8f79-2475-4ad6-899d-edacf57149b5
 [/Collection]
 [Collection]
-    text = Những ngày đáng sợ nhưng chúng ta đang cố vượt qua cho đến trưa.
+    text = Những ngày đáng sợ nhưng chúng tôi đang cố vượt qua cho đến trưa.
     // Scary days but we're pushing through till noon.
     member = 24f9beb6-3c7c-4196-b94b-cfc2f18af690
 [/Collection]
 [Collection]
-    text = Trước khi tôi nhấn vào phím Ẩn, lần đấm mới từ Câu hỏi.
+    text = Trước khi tôi nhấp vào phím Ẩn, lần đấm mới từ Câu hỏi.
     // Before I hit the button on Hidden, the new hit from The Question.
     member = 70f4093a-adac-4bbf-9924-e65d1a7a8d5b
 [/Collection]
@@ -12703,7 +12703,7 @@
     member = c30dcfb2-5da2-42c9-af3f-840e44f33e07
 [/Collection]
 [Collection]
-    text = Không có nhiều việc phải làm ngoài việc ngồi yên cho đến khi các chàng trai của chúng ta thả những người tội nghiệp đó ra ngoài.
+    text = Không có nhiều việc phải làm ngoài việc ngồi yên cho đến khi các chàng trai của chúng tôi thả những người tội nghiệp đó ra ngoài.
     // Not much to do but sit tight till our boys let those poor folks out.
     member = b05d0048-e195-46a0-b77a-c5c30938598c
 [/Collection]
@@ -12788,7 +12788,7 @@
     member = 6e45c887-a6c0-40c5-9135-fb28e83e33d8
 [/Collection]
 [Collection]
-    text = Có vẻ như đó là tất cả những gì chúng ta còn lại, phải không?
+    text = Có vẻ như đó là tất cả những gì chúng tôi còn lại, phải không?
     // Seems like that's all we got left, huh?
     member = fac1eebe-c2a7-4199-b8c6-8d7e2081d400
 [/Collection]
@@ -12833,12 +12833,12 @@
     member = a0eba8b1-25c0-47dd-a45d-85ee132aa9c7
 [/Collection]
 [Collection]
-    text = [img=music] Chúng ta bên nhau: suốt đêm dài. [img=music]
+    text = [img=music] Chúng tôi bên nhau: suốt đêm dài. [img=music]
     // [img=music] Us together: all through the night. [img=music]
     member = a9e50cd5-69ef-40a6-84e0-ed68e3c38e45
 [/Collection]
 [Collection]
-    text = [img=music] Chúng ta có rượu sâm banh, ngọn lửa được thắp sáng. [img=music]
+    text = [img=music] Chúng tôi có rượu sâm banh, ngọn lửa được thắp sáng. [img=music]
     // [img=music] We got champagne, the fire is lit. [img=music]
     member = 387dc553-5017-432c-964a-c1f33f445973
 [/Collection]
@@ -12868,7 +12868,7 @@
     member = 701a4c1b-a94b-46c6-a853-a91cc4d265f9
 [/Collection]
 [Collection]
-    text = [img=music] Chúng ta sẽ gần nhau, thật chặt. [img=music]
+    text = [img=music] Chúng tôi sẽ gần nhau, thật chặt. [img=music]
     // [img=music] We'll be close, so tight. [img=music]
     member = 4ba5dc40-9950-46d7-b735-afd13dad9ad9
     member = 8bee12cb-0aef-4f1f-b25c-da43510fe742
@@ -12915,7 +12915,7 @@
     member = b8f927eb-bd0f-427b-83b9-4049fdf3d31e
 [/Collection]
 [Collection]
-    text = Rất nhiều con mắt đổ dồn về Kentucky của chúng ta.
+    text = Rất nhiều con mắt đổ dồn về Kentucky của chúng tôi.
     // Lots of eyes on our slice of Kentucky.
     member = 96e726c1-ad8f-417a-820b-9c46a7b79c2f
 [/Collection]
@@ -12925,7 +12925,7 @@
     member = 91a57e97-444a-4c5b-9052-2f535a0d1d14
 [/Collection]
 [Collection]
-    text = Chúng ta có thể vượt qua những người này.
+    text = Chúng tôi có thể vượt qua những người này.
     // We can get through this folks.
     member = 8319364b-6dd3-4f7d-adb2-17d20499fd25
 [/Collection]
@@ -12950,7 +12950,7 @@
     member = 7be4685f-98d2-450d-b68c-58222673acdc
 [/Collection]
 [Collection]
-    text = Có lẽ một lúc nào đó chúng ta sẽ thực sự được cho biết chuyện gì đang diễn ra.
+    text = Có lẽ một lúc nào đó chúng tôi sẽ thực sự được cho biết chuyện gì đang diễn ra.
     // Maybe sometime soon we'll actually get told what's going on.
     member = ca26592e-3107-4396-b6d1-f1c171fbad0b
 [/Collection]
@@ -13010,7 +13010,7 @@
     member = 4f310da9-375b-47cc-a9c6-c545a5a0c607
 [/Collection]
 [Collection]
-    text = [img=music] ... nhưng thế giới nói 'Không thể làm!' [img=music]
+    text = [img=music] ... nhưng the world said 'Không thể làm!' [img=music]
     // [img=music] ... but the world said 'No can do!' [img=music]
     member = dba3da33-f67b-4ba7-a30e-401d4584ac3a
 [/Collection]
@@ -13055,7 +13055,7 @@
     member = 70326d18-ea58-4928-a35d-a0d6e1c23807
 [/Collection]
 [Collection]
-    text = Nhưng tâm trí của anh ấy đang hướng về Diane - một nơi nào đó bên trong Khu vực cấm.
+    text = Nhưng tâm trí của anh ấy đang hướng về Diane - một nơi nào đó bên trong Khu cấm.
     // But his mind is on Diane - somewhere inside the Exclusion Zone.
     member = e63fc44d-efc5-49f5-a630-c578d2ac4c19
 [/Collection]
@@ -13150,7 +13150,7 @@
     member = 18f52b95-b2fc-4a7c-bd86-24ffad3a50ae
 [/Collection]
 [Collection]
-    text = [img=music] Cơ thể chúng ta... [img=music]
+    text = [img=music] Cơ thể chúng tôi... [img=music]
     // [img=music] Our bodies... [img=music]
     member = c4ab30f0-47f7-4b0a-9fc6-8e63ecc7fa89
 [/Collection]
@@ -13160,7 +13160,7 @@
     member = 276dbd2f-50e0-4e79-90c5-41f0aeb6e4be
 [/Collection]
 [Collection]
-    text = [img=music] Và cuộc sống của chúng ta vừa mới bắt đầu. [img=music]
+    text = [img=music] Và cuộc sống của chúng tôi vừa mới bắt đầu. [img=music]
     // [img=music] And our lives have just begun. [img=music]
     member = b26de1b8-a6e3-4b2c-9093-5359dfbb3671
 [/Collection]
@@ -13216,7 +13216,7 @@
     member = 377eec5c-07bf-4f6a-910e-9d63a5e5e583
 [/Collection]
 [Collection]
-    text = Tôi đang nói... hãy để Mọi lý do làm điều đó cho chúng ta.
+    text = Tôi đang nói... hãy để Mọi lý do làm điều đó cho chúng tôi.
     // I'm saying... let's have Every Reason do it for us.
     member = 4fd0fd34-d679-4e3b-b901-c534bb166662
 [/Collection]
@@ -13372,7 +13372,7 @@
     member = af49406c-d8f6-4e18-b624-de419dbc1186
 [/Collection]
 [Collection]
-    text = Nếu có bất cứ điều gì xảy ra, đó là ở BẠN.
+    text = Nếu bất cứ điều gì xảy ra, đó là do BẠN.
     // If anything happens it's on YOU.
     member = 2228ed47-a306-47b6-b19e-de439af081c9
 [/Collection]
@@ -13427,7 +13427,7 @@
     member = 5f0659fe-92da-4d4f-8cae-9c14f7eaf6ff
 [/Collection]
 [Collection]
-    text = Nhưng này, rõ ràng chúng ta vẫn đi từ danh sách phát.
+    text = Nhưng này, rõ ràng chúng tôi vẫn đi từ danh sách phát.
     // But hey, apparently we still go from the playlist.
     member = 7ee773b9-e454-4ec3-9d7a-6dd98d9f47fc
 [/Collection]
@@ -13608,7 +13608,7 @@
     member = 5b333a40-6a1a-4f1b-9ae7-2466b1d15db5
 [/Collection]
 [Collection]
-    text = Bây giờ đây là bài hát nhỏ chúng ta hát.
+    text = Bây giờ đây là bài hát nhỏ chúng tôi hát.
     // Now here's a little song we sing.
     member = d5a8f51a-d19e-4907-ab57-c1ad52795371
 [/Collection]
@@ -13648,12 +13648,12 @@
     member = 7ab6209a-64bd-4379-a0d1-42806a6c54ff
 [/Collection]
 [Collection]
-    text = [img=music] Làm sao một ngày chúng ta có thể giống như Brian? [img=music]
+    text = [img=music] Làm sao một ngày chúng tôi có thể giống như Brian? [img=music]
     // [img=music] How can we one day be like Brian? [img=music]
     member = a5014284-87b6-442e-88ac-7fa31add51d6
 [/Collection]
 [Collection]
-    text = [img=music] Làm thế nào chúng ta có thể mơ ước để đạt được rất cao? [img=music]
+    text = [img=music] Làm thế nào chúng tôi có thể mơ ước để đạt được rất cao? [img=music]
     // [img=music] How could we dream to reach so high? [img=music]
     member = 67d60c0e-ff26-4452-9fe0-bafb7b3a49a7
 [/Collection]
@@ -14057,7 +14057,7 @@
     member = f5a608d2-69d9-4929-b116-cf5503db66c4
 [/Collection]
 [Collection]
-    text = Vậy nên hãy cổ vũ cho các chàng trai của chúng ta nhé mọi người.
+    text = Vậy nên hãy cổ vũ cho các chàng trai của chúng tôi nhé mọi người.
     // So let's support our boys, people.
     member = 4c2bf107-c36d-48bf-95a9-06e605b69043
     member = daf1795b-5995-4bbe-bf76-bb1c37d16205
@@ -14104,7 +14104,7 @@
     member = aee3a81a-639d-4aa1-afb5-6f11cff48278
 [/Collection]
 [Collection]
-    text = ... Triple-N.
+    text = ... Ba-N.
     // ... Triple-N.
     member = dd316819-ea58-42af-a8a8-17cc7bc24222
     member = baa706c5-01e8-4be2-a74b-263b13b098da
@@ -14283,7 +14283,7 @@
     member = 31c66841-d3ab-467f-baf5-c7e9f8e25889
 [/Collection]
 [Collection]
-    text = Tại sao chúng ta không thể nói chuyện với họ?
+    text = Tại sao chúng tôi không thể nói chuyện với họ?
     // Why can't we talk to them?
     member = fc18f235-e3c3-45a2-988d-dbc0d7fc345a
     member = fe08e3bc-94e7-4bb7-9117-e9c046fe8d46
@@ -14300,7 +14300,7 @@
     member = 497fb06b-fe64-4e02-8bdc-7001b1af5e7a
 [/Collection]
 [Collection]
-    text = Họ muốn chúng ta hoảng loạn?
+    text = Họ muốn chúng tôi hoảng loạn?
     // Do they want us to panic?
     member = 347c3ad2-68de-4b39-aed0-f461c69f676d
     member = c4eab47e-20ac-43f4-9cca-ae32761e0448
@@ -14358,7 +14358,7 @@
     member = 3ee52a6f-29f9-4d6c-a1d2-9e625a0ca3c7
 [/Collection]
 [Collection]
-    text = ... trên Triple-N.
+    text = ...trên Triple-N.
     // ... on Triple-N.
     member = 605892a7-6a5b-4c5f-94d5-2eb0de53c2ec
     member = 8e9fc587-3b8c-4254-a35a-5e0207a0833e
@@ -14477,7 +14477,7 @@
     member = bec351a4-ccc4-41a1-906d-9544910cc583
 [/Collection]
 [Collection]
-    text = Khu vực cấm phòng ngừa này ở đó để bảo vệ chúng ta.
+    text = Khu vực cấm phòng ngừa này ở đó để bảo vệ chúng tôi.
     // This precautionary exclusion zone is there to protect us.
     member = 69b7c83e-56c4-48c4-a07f-740ebe71fbb5
 [/Collection]
@@ -14502,7 +14502,7 @@
     member = 2522e486-dd02-4088-a5a0-a9eae48cc17a
 [/Collection]
 [Collection]
-    text = Tôi đã nghe nhiều người hỏi - 'Tại sao chúng ta không thể biết?'
+    text = Tôi đã nghe nhiều người hỏi - 'Tại sao chúng tôi không thể biết?'
     // I've heard a lot of people asking - 'Why can't we know?'
     member = 2a7e2db6-c1d7-48a4-827f-bdbea124fdf2
 [/Collection]
@@ -14527,7 +14527,7 @@
     member = a3a057ab-5f2f-43f5-b47d-6411ff6e63b4
 [/Collection]
 [Collection]
-    text = Họ đang dựa vào chúng ta để giữ bình tĩnh và có niềm tin.
+    text = Họ đang dựa vào chúng tôi để giữ bình tĩnh và có niềm tin.
     // They're relying on us to keep calm and have faith.
     member = 9f5d0905-c082-4980-b5ec-c45bf427286a
 [/Collection]
@@ -14557,7 +14557,7 @@
     member = 15b338f5-e47e-4798-9e67-16041cde6e16
 [/Collection]
 [Collection]
-    text = Tổng thống đã tuyên bố rằng ông 'có thể hiểu được đau khổ' bởi Sự kiện Knox.
+    text = Tổng thống đã tuyên bố rằng ông 'có thể hiểu được khẩn cấp' bởi Sự kiện Knox.
     // The President has claimed he is 'understandably distressed' by the Knox Event.
     member = 5f6f8964-4880-421c-bdd5-80ca748188a4
 [/Collection]
@@ -14633,7 +14633,7 @@
     member = 97dc4e01-f4a1-4863-be93-a6af3af576bd
 [/Collection]
 [Collection]
-    text = Sau ngày hôm nay, chúng ta đã được hứa sẽ có cuộc nói chuyện đầy đủ và thẳng thắn...
+    text = Sau ngày hôm nay, chúng tôi đã được hứa sẽ có cuộc nói chuyện đầy đủ và thẳng thắn...
     // Later today we've been promised a full and frank conversation...
     member = 8ed28337-cbcd-484d-b0f6-28c986967fa1
 [/Collection]
@@ -14673,7 +14673,7 @@
     member = aa7aa9b6-a2c1-4f05-91b8-ec92e85c9c28
 [/Collection]
 [Collection]
-    text = 'Chúng ta đã không sẵn sàng từ lâu.'
+    text = 'Chúng tôi đã không sẵn sàng từ lâu.'
     // 'We haven't been ready for a long time.'
     member = b1102d69-761a-4f1d-a4e8-a7559fed85e6
 [/Collection]
@@ -14713,7 +14713,7 @@
     member = 4a9501ff-23c1-424e-9a73-d7e3d91b6c32
 [/Collection]
 [Collection]
-    text = Họ không nói gì với chúng ta cả!
+    text = Họ không nói gì với chúng tôi cả!
     // They're not tellin' us nothing!
     member = fec33769-7318-4c22-a704-6b255e391521
 [/Collection]
@@ -14788,7 +14788,7 @@
     member = 6284c735-b829-4677-93c0-2259bdf715b2
 [/Collection]
 [Collection]
-    text = Chúng ta đã kiểm soát được sự phát tán của dịch bệnh...
+    text = Chúng tôi đã kiểm soát được sự phát tán của dịch bệnh...
     // We've got the spread of the illness contained...
     member = 608fc334-0a99-4dbf-95f8-57c6d28a9602
 [/Collection]
@@ -14813,7 +14813,7 @@
     member = c1d020d2-1053-4733-a579-9809449fe241
 [/Collection]
 [Collection]
-    text = Trong chiến tranh Việt Nam đã có rất nhiều thử nghiệm hóa học được tiến hành ở khu vực này.
+    text = Trong chiến tranh Việt Nam đã có rất nhiều thử nghiệm hóa học được tiến hành ở vùng này.
     // During the Vietnam War there was a lot of chemical testing conducted in this area.
     member = 6cb5a2ec-1ccf-47ba-9cc8-982ea672692e
 [/Collection]
@@ -14913,12 +14913,12 @@
     member = cc4a46eb-bf75-4609-bb53-2421afbc5842
 [/Collection]
 [Collection]
-    text = Càng nghĩ, tôi càng nhận ra - chúng ta cần phải cảm ơn họ.
+    text = Càng nghĩ, tôi càng nhận ra - chúng tôi cần phải cảm ơn họ.
     // The more I think, the more I realise - we need to thank them.
     member = 14007dfa-c04c-4c09-8196-abff2b40b2d0
 [/Collection]
 [Collection]
-    text = Chúng ta cần phải cảm ơn Quân đội Hoa Kỳ.
+    text = Chúng tôi cần phải cảm ơn Quân đội Hoa Kỳ.
     // We need to thank the US Army.
     member = ab662549-8ab8-4dd6-a523-fbd6806dd105
 [/Collection]
@@ -14998,7 +14998,7 @@
     member = 89e7d3aa-706c-4362-938f-f04ca730cff6
 [/Collection]
 [Collection]
-    text = Quân đội đang chờ thời cơ. Đảm bảo chúng ta luôn an toàn.
+    text = Quân đội đang chờ thời cơ. Đảm bảo chúng tôi luôn an toàn.
     // The Army is biding its time. Making sure we stay safe.
     member = 3433cccb-5d67-467b-89f2-bcb69677b093
 [/Collection]
@@ -15008,7 +15008,7 @@
     member = 01ca6b0b-a5c5-41fb-a688-5f803c2ffc0a
 [/Collection]
 [Collection]
-    text = Niềm tin sẽ cho phép chúng ta phát triển.
+    text = Niềm tin sẽ cho phép chúng tôi phát triển.
     // Faith will let us grow.
     member = 5a9f555d-d684-4b95-a0f5-0cda4d1d76e2
 [/Collection]
@@ -15028,7 +15028,7 @@
     member = 6806da90-a54c-47f6-a34b-d36716383eb5
 [/Collection]
 [Collection]
-    text = Tôi tin vào khả năng của chúng ta để đối phó với Sự kiện Knox...
+    text = Tôi tin vào khả năng của chúng tôi để đối phó với Sự kiện Knox...
     // I believe in our ability to deal with the Knox Event...
     member = 8e4a59ad-04c0-46bd-af98-a8a8129dd81c
 [/Collection]
@@ -15063,7 +15063,7 @@
     member = 83c8af90-86c8-4cbd-a0db-e5dc64c292c3
 [/Collection]
 [Collection]
-    text = Chúng ta ở cùng với nhau.
+    text = Chúng tôi ở cùng với nhau.
     // We're in this together.
     member = 8319a97c-1e3c-4041-ab14-2571a08055c6
 [/Collection]
@@ -15088,7 +15088,7 @@
     member = f8594010-e993-42f6-804f-be411fab5b1a
 [/Collection]
 [Collection]
-    text = Hãy nhìn vào lực lượng cảnh sát của chúng ta, nhìn vào các bác sĩ và y tá của chúng ta.
+    text = Hãy nhìn vào lực lượng cảnh sát của chúng tôi, nhìn vào các bác sĩ và y tá của chúng tôi.
     // Look at our police force, look at our doctors and nurses.
     member = 3cfefeea-23c5-4e2a-84ab-a5188ccb5a5e
 [/Collection]
@@ -15113,7 +15113,7 @@
     member = 582a59f8-21ef-4b1e-9e03-08c4d9b7c485
 [/Collection]
 [Collection]
-    text = Một đêm hỗn loạn. Cái đêm mà các thành phố của chúng ta bùng nổ với sự tức giận.
+    text = Một đêm hỗn loạn. Cái đêm mà các thành phố của chúng tôi bùng nổ với sự tức giận.
     // A night of chaos. The night our cities exploded with anger.
     member = d77b7a00-5dcf-42b1-8bf2-a69fc8293a9e
 [/Collection]
@@ -15459,7 +15459,7 @@
     member = 36ea61ac-bd77-4cc6-a50f-877db48c04ef
 [/Collection]
 [Collection]
-    text = Bây giờ chúng ta chuyển sang chính Sự kiện Knox.
+    text = Bây giờ chúng tôi chuyển sang chính Sự kiện Knox.
     // Now we turn to the Knox Event itself.
     member = 7bada737-fea3-4ed9-a882-0c03147c789a
 [/Collection]
@@ -15495,7 +15495,7 @@
     member = 964b884b-75ec-45da-9116-534bdffd2343
 [/Collection]
 [Collection]
-    text = Các báo cáo đang đến về các đoàn xe quân sự di chuyển từ các căn cứ và vào trung tâm các thành phố lớn.
+    text = Các báo cáo đang đến về các đoàn hộ tống quân sự di chuyển từ các căn cứ và vào trung tâm các thành phố lớn.
     // Reports are coming in of military convoys moving from bases and into the heart of major cities.
     member = 7442994d-33ee-4d7e-9dd5-f2af6faeb4bc
     member = a2624ddd-a850-4870-af73-fbeedb8ed973
@@ -15529,7 +15529,7 @@
     member = 4afa783d-b04f-4294-98b4-f03d2c8251fb
 [/Collection]
 [Collection]
-    text = Những hình ảnh này cho thấy các lực lượng quân sự đang thiết lập cơ sở ở trung tâm các thành phố của chúng ta.
+    text = Những hình ảnh này cho thấy các lực lượng quân sự đang thiết lập cơ sở ở trung tâm các thành phố của chúng tôi.
     // These pictures show military forces setting up shop in the heart of our cities.
     member = 6c1fe212-f69a-4b63-b49a-25d8111fc3ae
 [/Collection]
@@ -15672,7 +15672,7 @@
     member = c99cd365-ac9d-463d-be67-2901750c1595
 [/Collection]
 [Collection]
-    text = Tại sao chúng ta không nói?
+    text = Tại sao chúng tôi không nói?
     // Why weren't we told?
     member = 9e1c1d3d-5f8a-4944-9931-2f1676ad94e2
 [/Collection]
@@ -15712,7 +15712,7 @@
     member = c6e669a1-b281-422f-b70c-1872fd89a799
 [/Collection]
 [Collection]
-    text = Chúng ta nên được thông báo điều này đang xảy ra.
+    text = Chúng tôi nên được thông báo điều này đang xảy ra.
     // We should have been told this was happening.
     member = 0e183722-e3d2-4ae7-9cc8-9b73fec5dd33
 [/Collection]
@@ -15842,7 +15842,7 @@
     member = c1f8128b-a7c5-4caa-b9ef-3040676f1749
 [/Collection]
 [Collection]
-    text = Tôi đoán họ đã nhận nó.
+    text = Tôi đoán họ đã hiểu.
     // I guess they got it.
     member = 57c7f1ab-ec67-4027-b3cf-b55d15101265
 [/Collection]
@@ -16006,7 +16006,7 @@
     member = ab3ff752-a452-49aa-8ca9-d70145876ac7
 [/Collection]
 [Collection]
-    text = Trong khi đó, đó là một đêm hỗn loạn trên đường phố của chúng ta khi...
+    text = Trong khi đó, đó là một đêm hỗn loạn trên đường phố của chúng tôi khi...
     // Meanwhile it's been a night of anarchy on our streets as...
     member = afee167e-1caf-4429-a26f-abe1d4d7d432
     member = 3a44c595-396f-463f-b7b0-df36e1463838
@@ -16037,7 +16037,7 @@
     member = bc12607c-4c10-4b12-8873-079503e43a7a
 [/Collection]
 [Collection]
-    text = Chúng ta đang đi qua dòng Sự kiện. Đây là độc quyền.
+    text = Chúng tôi đang đi qua dòng Sự kiện. Đây là độc quyền.
     // We're through the Event line. This is an exclusive.
     member = 6484dbdf-76db-487a-85a9-ad5060c88c9a
 [/Collection]
@@ -16127,7 +16127,7 @@
     member = 41287344-85ec-42ea-b811-beaf900778be
 [/Collection]
 [Collection]
-    text = ... và một đêm khác với những con đường trong thành phố của chúng ta bốc cháy.
+    text = ... và một đêm khác với những con đường trong thành phố của chúng tôi bốc cháy.
     // ... and another night with the streets of our cities ablaze.
     member = 797e111c-88df-49bc-aec5-9111e3f72245
 [/Collection]
@@ -16182,7 +16182,7 @@
     member = b1c5592d-4865-4d84-892e-a7fbf3853eef
 [/Collection]
 [Collection]
-    text = ...nơi khác trong Khu vực.
+    text = ...nơi khác trong Khu.
     // ...elsewhere in the Zone.
     member = 20bf9e4d-e144-4aa3-8daf-8638d371c7a3
 [/Collection]
@@ -16202,7 +16202,7 @@
     member = 055aac50-3099-408b-b231-cfd26a0fa99c
 [/Collection]
 [Collection]
-    text = Nếu you're just tuning in, prior to these...
+    text = Nếu bạn're just tuning in, prior to these...
     // If you're just tuning in, prior to these...
     member = 47bb38b5-310d-4f44-b775-0f7ee50f88ce
 [/Collection]
@@ -16340,7 +16340,7 @@
     member = ddd933b2-01cd-4d03-9bcc-206e46042f26
 [/Collection]
 [Collection]
-    text = Chúng ta sẽ đi thẳng đến Sự kiện Knox.
+    text = Chúng tôi sẽ đi thẳng đến Sự kiện Knox.
     // We're going straight to the Knox Event.
     member = 0478ec89-072e-49bd-8f86-342992f18f46
 [/Collection]
@@ -16593,7 +16593,7 @@
     member = e0eb702d-3126-46e9-aa2c-eff7f42d658a
 [/Collection]
 [Collection]
-    text = Những người sáng lập quốc gia xinh đẹp này đã cho chúng ta quyền mang vũ khí.
+    text = Những nhà sáng lập quốc gia xinh đẹp này đã cho chúng tôi quyền mang vũ khí.
     // The founders of this beautiful nation gave us a right to bear arms.
     member = 7c99249f-8dd9-4a90-9f6f-1f96f21e63ef
     member = 3c8d584f-84bc-4561-971d-69f9e808de3e
@@ -16617,7 +16617,7 @@
     member = 55daf0b5-5f61-478a-8f05-2a8aae841723
 [/Collection]
 [Collection]
-    text = Bảo vệ chính mình, và bạn bảo vệ tương lai của chúng ta.
+    text = Bảo vệ chính mình, và bạn bảo vệ tương lai của chúng tôi.
     // Protect yourself, and you protect our future.
     member = 41901975-da72-42f5-abae-d99a7b07ca39
     member = 66db1a15-4d61-4f7a-be8e-791d219a2914
@@ -16757,7 +16757,7 @@
     member = 3b803ee7-cbd0-4f5b-8221-d4e720f8daf5
 [/Collection]
 [Collection]
-    text = Có lẽ nó chỉ ngủ yên, có lẽ chúng ta đã có nó suốt...
+    text = Có lẽ nó chỉ ngủ yên, có lẽ chúng tôi đã có nó suốt...
     // Maybe it was just dormant, maybe we had it all along...
     member = feaf8647-b7f8-48b4-8b4e-76364f88b013
     member = fc73268e-377f-4b7e-ad93-85963a76f812
@@ -16813,7 +16813,7 @@
     member = a0d5d5bc-43fd-4cab-8f36-de6fb621831e
 [/Collection]
 [Collection]
-    text = Tôi e rằng chúng ta đến với tin xấu. Tin xấu hơn.
+    text = Tôi e rằng chúng tôi đến với tin xấu. Tin xấu hơn.
     // I'm afraid we come with bad news. Worse news.
     member = 33302690-c0da-465e-8fb9-66aeb6dd502d
     member = 4265aec1-b0a0-478d-a454-d604b66257dc
@@ -16885,7 +16885,7 @@
     member = fac2b6f9-a350-48a2-ae96-5c17e71ddb8d
 [/Collection]
 [Collection]
-    text = Chúng ta có thể làm điều này cùng nhau.
+    text = Chúng tôi có thể làm điều này cùng nhau.
     // We can do this together.
     member = dd700fc3-6b48-4f69-ad2c-afdcf1b86965
     member = 54681174-65e3-4296-b506-791045c37643
@@ -16970,7 +16970,7 @@
     member = 8d4d44a1-dc28-405d-aab9-f6cfa3c5bd78
 [/Collection]
 [Collection]
-    text = Bệnh dịch chưa biết được gọi là truyền nhiễm Knox đã xâm chiếm nước Mỹ.
+    text = Dịch bệnh chưa biết được gọi là truyền nhiễm Knox đã xâm chiếm nước Mỹ.
     // An unknown plague known as The Knox Infection has taken a hold on America.
     member = 066f9e8e-2fda-4f26-83fa-390e4783dc2f
     member = 704e2990-e3b4-466e-8123-22ac01449e68
@@ -17033,7 +17033,7 @@
     member = dbb126f5-cb8b-49d7-a2b5-02472fc3bb80
 [/Collection]
 [Collection]
-    text = Làm ơn.
+    text = Vui lòng.
     // Please.
     member = 30de7928-ad1f-4d46-bea4-331e7931331a
     member = 6d90d345-847b-4ae2-88d7-7767f02209c2
@@ -17182,7 +17182,7 @@
     member = 41f9fc00-c126-4306-b7f5-ee46c88fc493
 [/Collection]
 [Collection]
-    text = Richard, bạn đã nỗ lực vào Khu vực cấm?
+    text = Richard, bạn đã nỗ lực vào Khu cấm?
     // Richard, you've attempted to enter the Exclusion Zone?
     member = 0b49f8c1-d3eb-4f6e-8898-f22642477828
 [/Collection]
@@ -17217,7 +17217,7 @@
     member = 4c665102-1923-44f5-8a3a-0a08f51ed50d
 [/Collection]
 [Collection]
-    text = Chúng tôi được chọn ngay lập tức.
+    text = Chúng tôi đã được nhặt khá nhiều ngay lập tức.
     // We were picked up pretty much instantly.
     member = c2a15257-329f-470c-9de7-f7ea9c1c1abd
 [/Collection]
@@ -17227,12 +17227,12 @@
     member = 4ce405ca-fd99-48bf-a3b1-497373770ca2
 [/Collection]
 [Collection]
-    text = Có điều gì chúng ta chưa nói với Richard không?
+    text = Có điều gì chúng tôi chưa nói với Richard không?
     // Is there something we're not being told Richard?
     member = 559e16f6-3e04-43b8-af00-0d35e13ebdb4
 [/Collection]
 [Collection]
-    text = Nếu chúng ta nghe thấy nó, nó sẽ là ngày mai.
+    text = Nếu chúng tôi nghe nó, nó sẽ là ngày mai.
     // If we hear it, it will be tomorrow.
     member = f93cf20e-9897-4ec2-ba1c-43e515f64e08
 [/Collection]
@@ -17267,7 +17267,7 @@
     member = a2e6e25b-399a-4193-8332-a29c4747491c
 [/Collection]
 [Collection]
-    text = Chào mừng bạn đến với Nói chuyện trong đêm. With you until Dawn! Tôi là Dawn Stevenson.
+    text = Chào mừng bạn đến với Nói chuyện trong đêm. With you cho đến khi Bình minh! Tôi là Dawn Stevenson.
     // Welcome to Talk the Night. With you until Dawn! I'm Dawn Stevenson.
     member = 7e5c3cdc-52a6-415b-a54b-4ad1c781f893
 [/Collection]
@@ -17532,7 +17532,7 @@
     member = e0b0c049-4b96-4a6b-abf3-15bc0dc6ecfa
 [/Collection]
 [Collection]
-    text = Nhìn chung! Nhìn chung! Tại sao chúng ta không thể nói chuyện với họ?
+    text = Tổng quan! Tổng quan! Tại sao chúng tôi không thể nói chuyện với họ?
     // General! General! Why can't we speak to them?
     member = 0312afd0-f9ac-4a09-bc5a-68e1ab351a76
 [/Collection]
@@ -17592,7 +17592,7 @@
     member = 70a2a0cd-a657-46d4-a491-a7dd44a8e89d
 [/Collection]
 [Collection]
-    text = ... Trung tâm kiểm soát dịch bệnh.
+    text = ...Trung tâm kiểm soát dịch bệnh.
     // ... the Center for Disease Control.
     member = 3ab51f26-5134-45e3-a062-0b7d51ba4206
 [/Collection]
@@ -17645,7 +17645,7 @@
     member = d0bcaebf-7470-41df-ae1e-a65e9070068b
 [/Collection]
 [Collection]
-    text = ... về trận mưa thiên thạch mà chúng ta đã thấy đã bị hoãn lại.
+    text = ... về trận mưa thiên thạch mà chúng tôi đã thấy đã bị hoãn lại.
     // ... on the meteorite showers we've been seeing has been postponed.
     member = 0605be11-5baf-4ee8-ad01-4a392dde1647
 [/Collection]
@@ -17715,7 +17715,7 @@
     member = f429e631-9425-4601-bf5c-072bc2e63540
 [/Collection]
 [Collection]
-    text = Nhưng có lẽ nếu chúng ta có thêm thông tin, thì...
+    text = Nhưng có lẽ nếu chúng tôi có thêm thông tin, thì...
     // But maybe if we had some more information, then...
     member = 0ddd5434-44af-4533-af56-7f494898ecaf
 [/Collection]
@@ -17765,12 +17765,12 @@
     member = 72f99ffa-c22a-4c5b-8c02-89e40a6ef9cb
 [/Collection]
 [Collection]
-    text = Ai cũng biết rằng vào những năm 60, khu vực này được sử dụng để thử nghiệm hóa học.
+    text = Ai cũng biết rằng vào những năm 60, vùng này được sử dụng để thử nghiệm hóa học.
     // It's well known that in the sixties this area was used for chemical testing.
     member = 991e854d-aa7a-40b7-b15c-7ce91136a70d
 [/Collection]
 [Collection]
-    text = Có bất kỳ phòng thí nghiệm nào trong khu vực, hoặc...
+    text = Có bất kỳ phòng thí nghiệm nào trong vùng, hoặc...
     // Are there any laboratories in the area, or...
     member = 24930fcb-a3ba-401e-8590-5eb7f96741a2
 [/Collection]
@@ -17795,7 +17795,7 @@
     member = 968d5575-2538-4a43-a406-002e6e3ca5a1
 [/Collection]
 [Collection]
-    text = Họ yêu cầu TÔN TRỌNG, không nghi ngờ... ơ...
+    text = Họ nhu cầu TÔN TRỌNG, không nghi ngờ... ơ...
     // They demand RESPECT, not suspect... er...
     member = 26ba1771-ba5f-42cd-97c3-b70ad43cf8b0
 [/Collection]
@@ -17816,7 +17816,7 @@
     member = abafbd82-6f67-4c90-af13-31293976f3f3
 [/Collection]
 [Collection]
-    text = Đó là niềm vui của tôi.
+    text = Đó là vinh hạnh của tôi.
     // It's been my pleasure.
     member = f07652b1-7ec6-4d57-bffb-d101a0dcd374
 [/Collection]
@@ -17826,7 +17826,7 @@
     member = 3fef435c-24a6-4394-8c4e-ae5e37d28903
 [/Collection]
 [Collection]
-    text = Qua đêm đã có lời xin lỗi vì 'thiếu minh bạch', nhưng...
+    text = Qua đêm đã có lời tạ lỗi vì 'thiếu minh bạch', nhưng...
     // Overnight there has been an apology for a 'lack of clarity', but...
     member = ee5945b2-e539-4fec-9c26-8fe014aeff1d
 [/Collection]
@@ -17861,7 +17861,7 @@
     member = e1e5aeb5-0555-48d7-b72c-998e4d5a83e4
 [/Collection]
 [Collection]
-    text = Chúng ta có đang mong đợi bất kỳ tuyên bố nào nữa từ Tổng thống không?
+    text = Chúng tôi có đang mong đợi bất kỳ tuyên bố nào nữa từ Tổng thống không?
     // Are we expecting any further statements from the President?
     member = 64b42a4d-07b4-40e0-9f19-ba9844b81572
 [/Collection]
@@ -17891,7 +17891,7 @@
     member = 1c9e0592-d727-44b0-add2-b57d33b66d26
 [/Collection]
 [Collection]
-    text = Cuối ngày hôm nay, chúng ta sẽ gặp Giáo sư Jake Wilson, nhà khoa học làm việc...
+    text = Cuối ngày hôm nay, chúng tôi sẽ gặp Giáo sư Jake Wilson, nhà khoa học làm việc...
     // Later today we'll be meeting Professor Jake Wilson, a scientist working...
     member = 17ed6f41-b8de-4ad3-a996-a30ed7f816bb
 [/Collection]
@@ -17961,12 +17961,12 @@
     member = d47dddb2-7e44-4369-a251-907a9354332e
 [/Collection]
 [Collection]
-    text = Hôm nay chúng ta có rất nhiều máy bay bay thấp cất cánh...
+    text = Hôm nay chúng tôi có rất nhiều máy bay bay thấp cất cánh...
     // Now we've had a lot of low-flying aircraft taking off today...
     member = 00669c3a-ac36-4755-99ec-d6bbde354f44
 [/Collection]
 [Collection]
-    text = ... một số từ bên trong Khu vực cấm.
+    text = ... một số từ bên trong Khu cấm.
     // ... some from inside the Exclusion Zone.
     member = 5d1410cd-342f-4ddc-a60b-09c0b606086a
 [/Collection]
@@ -18081,12 +18081,12 @@
     member = 01d81f46-6c12-439d-9b7c-f92503da5a45
 [/Collection]
 [Collection]
-    text = Có bất cứ điều gì, bất cứ điều gì, bạn muốn nói với tôi rằng chúng ta chưa biết?
+    text = Có bất cứ điều gì, bất cứ điều gì, bạn muốn nói với tôi rằng chúng tôi chưa biết?
     // Is there anything, anything at all, you want to tell me that we don't already know?
     member = 089e9301-215b-4216-9b80-91052963612b
 [/Collection]
 [Collection]
-    text = Er, chỉ có điều chúng ta không có lý do gì để tin rằng họ sẽ không hồi phục.
+    text = Er, chỉ có điều chúng tôi không có lý do gì để tin rằng họ sẽ không hồi phục.
     // Er, only that we have no reason to believe they won't recover.
     member = 41c3da74-7a32-4757-9b7f-8c1d4cc2deff
 [/Collection]
@@ -18126,7 +18126,7 @@
     member = cd43c326-2ee7-4d64-89c1-7a4165d892de
 [/Collection]
 [Collection]
-    text = Mọi người đang hoang mang trong đó. Họ đang đau khổ.
+    text = Mọi người đang hoang mang trong đó. Họ đang khẩn cấp.
     // People are confused in there. They are distressed.
     member = 5a9105c8-62a2-48b5-a43f-eae135dcc474
 [/Collection]
@@ -18136,7 +18136,7 @@
     member = ae278535-c995-440f-8dcc-e59adadca5e5
 [/Collection]
 [Collection]
-    text = Chúng ta có nên sợ hãi?
+    text = Chúng tôi có nên sợ hãi?
     // Should we be afraid?
     member = 107e4ecb-57be-46e0-8daf-400f29e45d2c
 [/Collection]
@@ -18156,7 +18156,7 @@
     member = d63f6d27-c45e-4f27-b609-0ce758deedba
 [/Collection]
 [Collection]
-    text = Cuộc phỏng vấn này được ghi lại trước vụ bạo lực kinh hoàng mà chúng ta đã chứng kiến...
+    text = Cuộc phỏng vấn này được ghi lại trước vụ bạo lực kinh hoàng mà chúng tôi đã chứng kiến...
     // This interview was recorded before the shocking violence that we have seen...
     member = d3cdae7d-0269-4c21-9dc5-c60e7fe39835
 [/Collection]
@@ -18206,7 +18206,7 @@
     member = 80fa31f6-5af4-4396-934f-33fad2318765
 [/Collection]
 [Collection]
-    text = Tuy nhiên, có một ranh giới mà chúng ta đang nhìn thấy vượt qua.
+    text = Tuy nhiên, có một ranh giới mà chúng tôi đang nhìn thấy vượt qua.
     // There is however a line we're seeing crossed.
     member = 71d81b0f-33d0-4fbd-8d0f-5056b843cc08
 [/Collection]
@@ -18231,12 +18231,12 @@
     member = 71504778-d09c-4e77-99d1-f01e21a61e16
 [/Collection]
 [Collection]
-    text = Sự kiện Knox khiến tất cả chúng ta phải lên dây cót.
+    text = Sự kiện Knox khiến tất cả chúng tôi phải lên dây cót.
     // The Knox Event has us all wired up.
     member = 3ff35868-e90c-4982-87f2-ab2c2a4f95f8
 [/Collection]
 [Collection]
-    text = Nhưng hãy lắng nghe những gì chúng ta đang được nói.
+    text = Nhưng hãy lắng nghe những gì chúng tôi đang được nói.
     // But listen to what we're being told.
     member = 03ee6e23-5392-4e21-85f6-4ade1cfb1032
 [/Collection]
@@ -18251,7 +18251,7 @@
     member = 6034ab7c-ce69-404f-82c2-610998e2e0af
 [/Collection]
 [Collection]
-    text = Chúng ta đang nghe nhiều cuộc nói chuyện về lệnh giới nghiêm nếu trật tự công cộng tiếp tục xấu đi.
+    text = Chúng tôi đang nghe nhiều cuộc nói chuyện về lệnh giới nghiêm nếu trật tự công cộng tiếp tục xấu đi.
     // We're hearing a lot of talk about curfews if public order continues to deteriorate.
     member = b64b7cb3-7f0b-41b8-90cb-18b3a73c6c24
 [/Collection]
@@ -18316,7 +18316,7 @@
     member = 553ed5eb-2e55-4908-b537-b063ac9f4f74
 [/Collection]
 [Collection]
-    text = Bây giờ chúng ta chuyển sang hoạt động dọn dẹp đường phố ở Washington và Los Angeles.
+    text = Bây giờ chúng tôi chuyển sang hoạt động dọn dẹp đường phố ở Washington và Los Angeles.
     // Now we turn to the clean-up operation on the streets of Washington and Los Angeles.
     member = 3e87cbef-d2d4-43b3-ab48-627ca2ecb1bf
 [/Collection]
@@ -18392,7 +18392,7 @@
     member = e4907869-f718-4cf3-982d-bb3040e81fc3
 [/Collection]
 [Collection]
-    text = Trong khi đó tối nay chúng ta đang chứng kiến sự hỗ trợ quân sự trong các thành phố của mình...
+    text = Trong khi đó tối nay chúng tôi đang chứng kiến sự hỗ trợ quân sự trong các thành phố của mình...
     // Meanwhile tonight we're seeing military support in our cities...
     member = 863e3b45-f8a4-40c2-b836-e4061095d33f
 [/Collection]
@@ -18422,7 +18422,7 @@
     member = 16886b89-b029-4909-8ca6-9049b38225b3
 [/Collection]
 [Collection]
-    text = Quân đội đang mở rộng khu vực cấm.
+    text = Quân đội đang mở rộng khu cấm.
     // The Army are widening the exclusion zone.
     member = e111f7f2-5e21-4005-9fe1-55822313aca4
 [/Collection]
@@ -18527,12 +18527,12 @@
     member = fe13d21e-9bf2-4f22-8514-ffbe8b9141ed
 [/Collection]
 [Collection]
-    text = Chúng ta rõ ràng đang bị bỏ lại trong bóng tối.
+    text = Chúng tôi rõ ràng đang bị bỏ lại trong bóng tối.
     // We're very clearly being left in the dark.
     member = d7c72377-cb85-4f44-a453-97982c4aac27
 [/Collection]
 [Collection]
-    text = Chúng ta có thể mua sự im lặng trong vài ngày. Nhưng bây giờ?
+    text = Chúng tôi có thể mua sự im lặng trong vài ngày. Nhưng bây giờ?
     // We could buy the silence for a few days. But now?
     member = f4474200-02cd-445b-96b9-e179712092d2
 [/Collection]
@@ -18607,7 +18607,7 @@
     member = 31b2be4b-dfdb-4064-b4f8-8a48c69fe83f
 [/Collection]
 [Collection]
-    text = Vẫn chưa: lệnh giới nghiêm. Công bố cho tối nay tại nhiều thành phố lớn.
+    text = Vẫn chưa: giờ giới nghiêm. Công bố cho tối nay tại nhiều thành phố lớn.
     // Yet still: a curfew. Announced for tonight in many major cities.
     member = ab837919-a69a-4621-9018-3460fee6a354
 [/Collection]
@@ -18683,7 +18683,7 @@
     member = d0756d1d-31be-4cd2-8039-05887db01fad
 [/Collection]
 [Collection]
-    text = Điều này sẽ làm im lặng sự hoảng loạn trên đường phố của chúng ta?
+    text = Điều này sẽ làm im lặng sự hoảng loạn trên đường phố của chúng tôi?
     // Will this silence the panic on our streets?
     member = 805c9a1d-fdbd-484a-b731-80d3370a0a0a
 [/Collection]
@@ -18718,7 +18718,7 @@
     member = b4360448-8119-4753-899c-ce89de53b947
 [/Collection]
 [Collection]
-    text = Hôm nay chúng ta thấy hình ảnh này: người không có tay.
+    text = Hôm nay chúng tôi thấy hình ảnh này: người không có tay.
     // Today we see this image: a man without an arm.
     member = 3a69b0f7-5a86-4db1-8062-91c2ed568059
 [/Collection]
@@ -18843,7 +18843,7 @@
     member = 65b70208-fd7e-48b7-8bf4-837fd52682fc
 [/Collection]
 [Collection]
-    text = Bức tranh được vẽ cho chúng ta không đẹp, Diane.
+    text = Bức tranh được vẽ cho chúng tôi không đẹp, Diane.
     // The picture that's being painted for us isn't pretty, Diane.
     member = c5798037-67c2-4758-b919-687d5563af22
 [/Collection]
@@ -18968,12 +18968,12 @@
     member = 5472625e-24a5-40fb-93e2-1d38c285b698
 [/Collection]
 [Collection]
-    text = Không phải tất cả đều ở bên chúng ta lúc này.
+    text = Không phải tất cả đều ở bên chúng tôi lúc này.
     // Not all are with us now.
     member = abede077-0176-4a28-872b-69cf73c91707
 [/Collection]
 [Collection]
-    text = Mọi người bên trong Khu vực hiện đã bị truyền nhiễm, nó được khẳng định.
+    text = Mọi người bên trong Khu hiện đã bị truyền nhiễm, nó được khẳng định.
     // Everyone inside the Zone is now infected, it is claimed.
     member = af5d1f28-1e16-4baa-b72d-431581715fba
 [/Collection]
@@ -19023,7 +19023,7 @@
     member = 20326bb5-a11c-4d10-acf9-2612b1595a8b
 [/Collection]
 [Collection]
-    text = "Tại sao chúng ta không nói?"
+    text = "Tại sao chúng tôi không nói?"
     // "Why weren't we told?"
     member = 18fc3b77-7c6e-49b6-a193-4a49a1c1b16d
 [/Collection]
@@ -19053,7 +19053,7 @@
     member = 3ca24d1f-240d-49e2-b35e-597dbe6328a8
 [/Collection]
 [Collection]
-    text = Nhìn chung! Nhìn chung!
+    text = Tổng quan! Tổng quan!
     // General! General!
     member = f9e10857-2306-4a04-b56f-0f747e88e7be
 [/Collection]
@@ -19068,7 +19068,7 @@
     member = a073173d-d56b-4ddf-886f-a096dc3219a9
 [/Collection]
 [Collection]
-    text = "Làm sao?", "Tại sao?"
+    text = "Làm thế nào?", "Tại sao?"
     // "How?", "Why?"
     member = ec8b5d09-ec0b-4763-a30c-1c72f7ee6b9d
 [/Collection]
@@ -19123,7 +19123,7 @@
     member = e1fb5f47-ce6c-4bc1-ac0e-0f1be39356b5
 [/Collection]
 [Collection]
-    text = Tất cả chúng ta đã ăn nó trong nhiều năm.
+    text = Tất cả chúng tôi đã ăn nó trong nhiều năm.
     // We've all been ingesting it for years.
     member = fffcbe71-dccf-40a3-a776-e79b3dcfb8d2
 [/Collection]
@@ -19153,7 +19153,7 @@
     member = 4a3badd3-adc1-4aa3-887d-647548b1e2bb
 [/Collection]
 [Collection]
-    text = Một sự mơ hồ vô tận đối với những gì quốc gia chúng ta ăn!
+    text = Một sự mơ hồ vô tận đối với những gì quốc gia chúng tôi ăn!
     // An endless ambivalence to what our nation eats!
     member = 313b69b8-8363-4efa-adae-2aca3c304300
 [/Collection]
@@ -19183,7 +19183,7 @@
     member = 5092f1f3-29fb-4529-8b28-a22ddbbdce75
 [/Collection]
 [Collection]
-    text = Chúng ta đã đề cập đến cuốn sách của tôi?
+    text = Chúng tôi đã đề cập đến cuốn sách của tôi?
     // Have we mentioned my book?
     member = 72a3fbe6-19ea-4bea-83bc-02709360c329
 [/Collection]
@@ -19224,7 +19224,7 @@
     member = e41f30fa-3fe4-4c77-ba13-efcc6086c9d8
 [/Collection]
 [Collection]
-    text = Bây giờ chúng ta đang nhận được hình ảnh Richard.
+    text = Bây giờ chúng tôi đang nhận được hình ảnh Richard.
     // We're getting pictures now Richard.
     member = fa8af977-2f86-4a0d-8f51-3dc718b4de4d
 [/Collection]
@@ -19356,12 +19356,12 @@
     member = 2cce27a9-25be-4742-be79-37c194fd8714
 [/Collection]
 [Collection]
-    text = Ôi chúng ta làm?
+    text = Ôi chúng tôi làm?
     // Oh we do?
     member = 8d9f0c4f-f8b1-494a-a40d-dddeb09c961a
 [/Collection]
 [Collection]
-    text = Thưa các bạn, chúng ta sẽ đi thẳng tới chỗ Richard Gerswin.
+    text = Thưa các bạn, chúng tôi sẽ đi thẳng tới chỗ Richard Gerswin.
     // Folks we're going straight over to Richard Gerswin.
     member = 68864e7b-853e-47ad-adc5-c672c9482df5
 [/Collection]
@@ -19431,7 +19431,7 @@
     member = ae561cb5-01cb-43b5-bf03-9d6a9cdc13bd
 [/Collection]
 [Collection]
-    text = Đó là khu vực chiến tranh.
+    text = Đó là khu chiến tranh.
     // It's a war zone.
     member = dbd4fc4b-2bfe-4f3e-abf6-6ac4aadbe2da
 [/Collection]
@@ -19497,12 +19497,12 @@
     member = 3747da69-da6a-4a4e-a167-18a48eae491b
 [/Collection]
 [Collection]
-    text = Đó là tất cả niềm vui của tôi.
+    text = Đó là tất cả vinh hạnh của tôi.
     // It's all my pleasure.
     member = e0f23cb1-ce2d-479c-8522-f64a8372b1b9
 [/Collection]
 [Collection]
-    text = Hôm nay chúng ta thấy gì?
+    text = Hôm nay chúng tôi thấy gì?
     // What are we seeing today?
     member = b52360e9-d81f-4bc5-909f-bb843a4c5ab3
 [/Collection]
@@ -19532,7 +19532,7 @@
     member = 5b731d32-e5e4-4015-a375-4e9c2c7b44d0
 [/Collection]
 [Collection]
-    text = Vì vậy, bạn nghĩ đây là một hành động của Chúa?
+    text = Vậy bạn nghĩ đây là hành động của trời?
     // So you think this an act of God?
     member = af53deab-0b99-4af0-acd0-cee9e93aabb9
 [/Collection]
@@ -19542,12 +19542,12 @@
     member = 9109c68c-326d-4b8d-b11c-8d6edcecbf4b
 [/Collection]
 [Collection]
-    text = Được rồi... bạn có thể mang lại hy vọng gì cho người xem của chúng ta?
+    text = Được rồi... bạn có thể mang lại hy vọng gì cho người xem của chúng tôi?
     // Okay... what hope can you give our viewers?
     member = 7c58d066-7b14-4dec-a001-878e193cd5c7
 [/Collection]
 [Collection]
-    text = Người xem của chúng ta về đức tin?
+    text = Người xem của chúng tôi về đức tin?
     // Our viewers of faith?
     member = d706a2c7-2088-4fd8-903c-db96b4fdffe1
 [/Collection]
@@ -19667,7 +19667,7 @@
     member = 6af9a428-1709-41f4-9722-5b9b84a0f8c8
 [/Collection]
 [Collection]
-    text = Tôi nghĩ chúng ta có thể mong đợi sự phát triển trong khu vực đó.
+    text = Tôi nghĩ chúng tôi có thể mong đợi sự phát triển trong khu vực đó.
     // I think we can expect developments in that area.
     member = 25a2dc92-a0f9-4151-83eb-af396d703870
 [/Collection]
@@ -19732,7 +19732,7 @@
     member = 179981f4-4c48-4b15-a98f-4ce2c1be1115
 [/Collection]
 [Collection]
-    text = Nhưng trong cuộc di tản này có bệnh dịch.
+    text = Nhưng trong cuộc di cư này có dịch bệnh.
     // But within this exodus there is a plague.
     member = 6415bff5-d361-4779-a5a4-81334351ef47
 [/Collection]
@@ -19817,7 +19817,7 @@
     member = 7374eed6-cf5f-4058-8da5-11a75133796e
 [/Collection]
 [Collection]
-    text = Nó chưa được xác nhận, nhưng chúng ta đang nhìn thấy những bức ảnh đó...
+    text = Nó chưa được xác nhận, nhưng chúng tôi đang nhìn thấy những bức ảnh đó...
     // It's not confirmed, but we're seeing pictures that...
     member = 42ad4b2a-c772-4557-b3dc-0a1ac98bb655
 [/Collection]
@@ -19877,7 +19877,7 @@
     member = 819edc14-1f16-4786-a8e9-d24d8e6da6e2
 [/Collection]
 [Collection]
-    text = Một số người trong chúng ta sẽ rời đi để được ở bên gia đình của chúng ta.
+    text = Một số người trong chúng tôi sẽ rời đi để được ở bên gia đình của chúng tôi.
     // Some of us are leaving to be with our families.
     member = b6664ecf-adfd-492a-a8d2-3e0337d09dee
 [/Collection]
@@ -19987,7 +19987,7 @@
     member = 8899aea1-6410-40f7-8b41-02144519f1f9
 [/Collection]
 [Collection]
-    text = Chúng ta đều sẽ được tha thứ.
+    text = Chúng tôi đều sẽ được tha thứ.
     // We will all be forgiven.
     member = cc4e1c82-813b-47ad-8944-6051800e5253
 [/Collection]
@@ -20005,7 +20005,7 @@
     member = 8a392cd5-cf02-4aac-a218-1e463bca430d
 [/Collection]
 [Collection]
-    text = Chúng ta hãy ngừng lừa dối!
+    text = Hãy thôi đùa giỡn đi!
     // Let's quit fooling around!
     member = 50f68741-dfdb-4c53-96f1-720b66080a17
     member = 65a42099-95c3-483a-842d-0ff27d83702e
@@ -20104,7 +20104,7 @@
     member = 4f6e7a99-33a0-46a3-afbd-146387bc1e1d
 [/Collection]
 [Collection]
-    text = Hôm nay chúng ta đang xây dựng một...
+    text = Hôm nay chúng tôi đang xây dựng một...
     // Today we're building a...
     member = 013188e0-3d64-43aa-863c-d481f4da6fd2
     member = ea1fb79e-ecf6-4600-8d3d-487de224a556
@@ -20151,7 +20151,7 @@
     member = 81e9b239-0e3a-4ad3-a3ec-1b0768cf5692
 [/Collection]
 [Collection]
-    text = Được rồi, vì vậy chúng ta đang nói chuyện với người ngày hôm nay, rõ ràng.
+    text = Được rồi, vì vậy chúng tôi đang nói chuyện với người ngày hôm nay, rõ ràng.
     // Okay so we're talking to men today, apparently.
     member = 797d7ddd-c394-4c5f-b68a-c1c77b406d68
     member = 16148d00-7b8d-404e-b9e0-124dd2b3327c
@@ -20327,7 +20327,7 @@
     member = 2e702d2a-3048-4b65-af95-d7d2bb3097a9
 [/Collection]
 [Collection]
-    text = "Này Dean, kẹp giấy ở đâu ra vậy?"
+    text = "Này Dean, kẹp giấy từ đâu ra?"
     // "Hey Dean, where'd the paperclip come from?"
     member = a23769e9-1aa8-4afd-8a13-01401eca0917
     member = d184cf4c-16a3-49e9-9eec-57d16c0091af
@@ -20473,7 +20473,7 @@
     member = fccf356e-3258-4dc8-8487-13e67f47b017
 [/Collection]
 [Collection]
-    text = Chúng ta đang bắt đầu với những thứ cơ bản.
+    text = Chúng tôi đang bắt đầu với những thứ cơ bản.
     // We're startin' with the basics.
     member = 255e366a-1954-44ce-bed3-c43b4501c1cf
 [/Collection]
@@ -20513,7 +20513,7 @@
     member = b5f4b0a1-dd7e-4cd6-8e26-3597a36c6776
 [/Collection]
 [Collection]
-    text = Hunk tại nơi làm việc, có thể?
+    text = Hunk tại nơi làm việc, Có lẽ?
     // Hunk at work, maybe?
     member = 99923b85-f0f5-4f51-be33-6286b53492f2
 [/Collection]
@@ -20523,12 +20523,12 @@
     member = 9e26c82c-df8b-488f-985f-038acf75f50d
 [/Collection]
 [Collection]
-    text = Ngày mai chúng ta sẽ rời khỏi bánh xe huấn luyện.
+    text = Ngày mai chúng tôi sẽ rời khỏi bánh xe huấn luyện.
     // Tomorrow we're takin' off the training wheels.
     member = ca76da05-81b3-4f8b-af61-17be8dc204db
 [/Collection]
 [Collection]
-    text = Khung cửa ở đây chúng ta đến!
+    text = Khung cửa ở đây chúng tôi đến!
     // Door frames here we come!
     member = 396b76b9-9cc4-45b2-b44e-477d7368ba22
 [/Collection]
@@ -20543,7 +20543,7 @@
     member = 1ea4d154-be9d-4ccf-ac8c-804ce251de42
 [/Collection]
 [Collection]
-    text = Nhưng trước khi chúng ta sống sót - hãy nắm bắt những điều cơ bản.
+    text = Nhưng trước khi chúng tôi sống sót - hãy nắm bắt những điều cơ bản.
     // But before we get to survival - lets nail the basics.
     member = 47678484-cd61-4e31-b818-fad7262e80cb
 [/Collection]
@@ -20812,7 +20812,7 @@
     member = 54467c55-8b17-4861-9560-6fa3b6802f7d
 [/Collection]
 [Collection]
-    text = Tôi là Dean và chúng ta sẽ trở lại với tự nhiên.
+    text = Tôi là Dean và chúng tôi sẽ trở lại với tự nhiên.
     // I'm Dean and we're goin' back to nature.
     member = aca869a0-bb3e-4895-be1e-c075720a85d0
 [/Collection]
@@ -20935,7 +20935,7 @@
     member = 97f3d925-0d4c-48f0-b2f4-0e95f4909601
 [/Collection]
 [Collection]
-    text = Sau đó, chúng ta thêm phô mai, giăm bông - và chúng ta gần như ở Bam!
+    text = Sau đó, chúng tôi thêm phô mai, giăm bông - và chúng tôi gần như ở Bam!
     // Then we add cheese, ham - and we're almost at Bam!
     member = 56536c44-e816-4d22-bbc7-8fe3a89475e0
 [/Collection]
@@ -20971,7 +20971,7 @@
     member = ed67dc7a-5b21-4d6f-aea9-5c211fe3db1a
 [/Collection]
 [Collection]
-    text = Chúng ta vẫn đang ở mức trung gian và...
+    text = Chúng tôi vẫn đang ở mức trung gian và...
     // We're at intermediary level still and...
     member = 2485b2e7-e0c6-4e47-9f5c-e1d542df2ce6
 [/Collection]
@@ -20996,7 +20996,7 @@
     member = f5aa61a4-98a5-41f7-9534-888179e2443b
 [/Collection]
 [Collection]
-    text = Chúng ta cần gì?
+    text = Chúng tôi cần gì?
     // What do we need?
     member = c05dbebd-9cdd-45fa-accb-46fba79f8f24
 [/Collection]
@@ -21121,7 +21121,7 @@
     member = d6b66326-3d9f-4b04-89f5-dcbaf6a1c733
 [/Collection]
 [Collection]
-    text = Hôm nay, chúng ta sẽ thưởng thức hương vị châu Á - với chảo rán.
+    text = Hôm nay, chúng tôi sẽ thưởng thức hương vị châu Á - với chảo rán.
     // Today, we're gettin' a taste of Asia - with a frying pan.
     member = 6b9bdb5c-7a64-4010-88f9-28ac8f39a8cc
 [/Collection]
@@ -21382,7 +21382,7 @@
     member = d0f96fca-8dac-4b8c-9fbd-ee5f2ec51449
 [/Collection]
 [Collection]
-    text = Vì vậy, chúng ta hãy cùng nhau làm một cái!
+    text = Vì vậy, chúng tôi hãy cùng nhau làm một cái!
     // So let's make one together!
     member = 47c60ee5-afa9-4819-897d-eaccb2ed8959
 [/Collection]
@@ -21718,7 +21718,7 @@
     member = 3735f9c6-7588-4492-a061-8a3383c2c0bf
 [/Collection]
 [Collection]
-    text = Yeehah! Vậy chúng ta cần gì?
+    text = Yeehah! Vậy chúng tôi cần gì?
     // Yeehah! So what do we need?
     member = 30d58dce-0ab8-442a-a3f5-b74b6d100c1d
 [/Collection]
@@ -21823,7 +21823,7 @@
     member = 85687551-21a6-471b-89b0-45e5693fa47c
 [/Collection]
 [Collection]
-    text = Bây giờ chúng ta hãy đi đâu đó yên tĩnh.
+    text = Bây giờ chúng tôi hãy đi đâu đó yên tĩnh.
     // Now let's go somewhere quiet.
     member = f9c62c4c-c7b9-430c-8361-1725f3bb0443
 [/Collection]
@@ -22195,7 +22195,7 @@
     member = 85b904e0-14e3-4daf-b354-33a7eb31df83
 [/Collection]
 [Collection]
-    text = Hôm nay chúng ta sẽ giải quyết một cái gì đó!
+    text = Hôm nay chúng tôi sẽ giải quyết một cái gì đó!
     // Today we're going to settle something!
     member = c1683575-201b-4450-a96d-6f11c257d642
 [/Collection]
@@ -22611,7 +22611,7 @@
     member = 964464bf-81b2-40da-9690-b39139819235
 [/Collection]
 [Collection]
-    text = Joshie, có chuyện gì vậy?
+    text = Joshie, có gì sai?
     // Joshie, what's wrong?
     member = c89de8d8-ffcf-4369-ad62-b893ef6953d2
 [/Collection]
@@ -22691,7 +22691,7 @@
     member = 7da0c766-9515-4a79-b06b-ac5dde1393ce
 [/Collection]
 [Collection]
-    text = Ông bố hai con Mantell!
+    text = Cha hai con Mantell!
     // A father of two Mantell!
     member = 97a0ec81-e7ef-4548-b883-c8dbc62fc34a
 [/Collection]
@@ -22817,7 +22817,7 @@
     member = 28fe6e83-37c3-407b-8280-098deaefd5ff
 [/Collection]
 [Collection]
-    text = Và CHÚNG TÔI đã có quyền tiếp cận ĐỘC QUYỀN.
+    text = Và CHÚNG TA đã có quyền tiếp cận ĐỘC QUYỀN.
     // And WE had EXCLUSIVE access.
     member = 3968aadc-6fbb-47d6-b6f1-27bb56dd2c53
 [/Collection]
@@ -22872,7 +22872,7 @@
     member = edd9953e-7ea3-4098-85db-98749dde509a
 [/Collection]
 [Collection]
-    text = Có thật không?
+    text = Thật sự?
     // Really?
     member = 79e8f3ca-cec6-4b02-a7cf-6f1b24400df6
 [/Collection]
@@ -22986,7 +22986,7 @@
     member = 42d897aa-94df-4991-bebd-1ddf504f0f6e
 [/Collection]
 [Collection]
-    text = Bạn cá là chúng ta...
+    text = Bạn cá là chúng tôi...
     // You bet we are...
     member = 74648638-c8f9-4750-8378-b22a06241583
 [/Collection]
@@ -23062,7 +23062,7 @@
     member = 2d78166a-f4cc-49d3-9691-8ea45ad11cff
 [/Collection]
 [Collection]
-    text = Vì vậy, tất nhiên, nếu chúng ta xem đây là một ... phương trình bậc hai.
+    text = Vì vậy, tất nhiên, nếu chúng tôi xem đây là một ... phương trình bậc hai.
     // So, of course, if we look at this as a ... quadratic equation.
     member = c2a827ed-51db-4095-a45c-dd9130fd9fe4
 [/Collection]
@@ -23092,7 +23092,7 @@
     member = da160b1e-038e-4f02-a7c2-705cfab1f7e5
 [/Collection]
 [Collection]
-    text = Xin chào Elisa.
+    text = Chào Elisa.
     // Hello Eliza.
     member = f7baea70-b11a-4c9b-853f-66c1d68b558d
 [/Collection]
@@ -23332,7 +23332,7 @@
     member = 97fdec46-0bc6-4d0a-b8b2-2e3b6540506b
 [/Collection]
 [Collection]
-    text = Chúng ta đang tiến gần hơn.
+    text = Chúng tôi đang tiến gần hơn.
     // We're getting closer.
     member = d69df4e0-e725-48eb-bdd4-53b72af1a9a2
 [/Collection]
@@ -23465,7 +23465,7 @@
     member = 83f99de4-3876-4c40-b42d-58ec425e7d9c
 [/Collection]
 [Collection]
-    text = Chúng ta sẽ xem câu trả lời tiếp theo của Pauls, sau những thông điệp này!
+    text = Chúng tôi sẽ xem câu trả lời tiếp theo của Pauls, sau những thông điệp này!
     // We'll see Pauls' next answer, after these messages!
     member = 18939b5d-b3bf-4596-8ce9-fdddd9590941
 [/Collection]
@@ -23476,7 +23476,7 @@
     member = e596a7cd-bf46-4e34-b94d-1e9dd39ccccd
 [/Collection]
 [Collection]
-    text = Tuần này chúng ta đã chứng kiến chuyện khủng khiếp diễn ra...
+    text = Tuần này chúng tôi đã chứng kiến chuyện khủng khiếp diễn ra...
     // This week we've seen a terrible story play out...
     member = 15aee4d7-2b86-469e-a0db-e0a8a173df7f
 [/Collection]
@@ -23526,12 +23526,12 @@
     member = da0f6e33-aa07-4768-8498-8f19858a30a5
 [/Collection]
 [Collection]
-    text = Có thật không? Tốt đấy! Vẫn: ghét cái này!
+    text = Thật sự? Tốt đấy! Vẫn còn: ghét cái này!
     // Really? That's good! Still: hating this!
     member = 2db4653f-b21d-4a8d-8f01-134fcb3f7555
 [/Collection]
 [Collection]
-    text = Không phải tất cả chúng ta Cindy.
+    text = Không phải tất cả chúng tôi Cindy.
     // Aren't we all Cindy.
     member = f75e386f-5b36-4156-b76b-a82fecd8cd00
 [/Collection]
@@ -23551,7 +23551,7 @@
     member = c685e182-92ee-48bb-9f82-8c2886afe7c6
 [/Collection]
 [Collection]
-    text = Chào mừng đến với.... Triple-N. <fzzt>
+    text = Chào mừng đến với.... Ba-N. <fzzt>
     // Welcome to.... Triple-N. <fzzt>
     member = ae393b79-fd58-4bd5-8f11-eaa223438281
 [/Collection]
@@ -23601,7 +23601,7 @@
     member = ab88a320-1026-4249-8794-a1dd52f6e4d9
 [/Collection]
 [Collection]
-    text = 'Bánh nướng nào dở... ở Pháp?'
+    text = 'Cái bánh nướng nào dở... ở Pháp?'
     // 'What pie is bad... in France?'
     member = 7a5bc40d-57db-4f7b-96ed-b9870ba63279
 [/Collection]
@@ -23616,7 +23616,7 @@
     member = c8c8e756-2a38-4212-90c4-0305113dfc79
 [/Collection]
 [Collection]
-    text = 'Bánh nướng nào có... cá trong đó, và tôi nghĩ nó rất, rất tệ?'
+    text = 'Bánh nướng gì có... cá trong đó, và Tôi nghĩ là thực sự, thực sự tệ?'
     // 'What pie has... fish in it, and I think is really, really bad?'
     member = 18871cb8-43de-4cc1-a713-c7c3ba22d74b
 [/Collection]
@@ -23706,12 +23706,12 @@
     member = e14a9535-b1ae-4d8b-841a-14affb6fb289
 [/Collection]
 [Collection]
-    text = Trước tiên, tôi muốn chào mừng Giám đốc FBI Anderson đến... cuộc họp của chúng ta.
+    text = Trước tiên, tôi muốn chào mừng Giám đốc FBI Anderson đến... cuộc họp của chúng tôi.
     // First of all I'd like to welcome FBI Director Anderson to our... meeting.
     member = 2dbf2206-6cf2-4c41-8b20-91cc612c2f8f
 [/Collection]
 [Collection]
-    text = Các quý ông, thật vinh hạnh.
+    text = Các quý ông, thật là vinh hạnh.
     // Gentlemen, it's a pleasure.
     member = 1fa5dbf8-eb6f-4398-a2dd-974702b09de0
 [/Collection]
@@ -23786,7 +23786,7 @@
     member = dc268e31-c4bd-4709-ab45-780e8dbe119d
 [/Collection]
 [Collection]
-    text = <bzzt> there's something I need to tell you Mary-Beth <bzzt>
+    text = <bzzt> có điều này tôi cần nói với bạn Mary-Beth <bzzt>
     // <bzzt> there's something I need to tell you Mary-Beth <bzzt>
     member = 92de6851-623f-4648-a18a-2d2bb7521d34
 [/Collection]
@@ -23826,7 +23826,7 @@
     member = 604b3ef6-e16e-4eec-9e69-12e279ae6698
 [/Collection]
 [Collection]
-    text = Chúng ta sẽ cố gắng vào Tiger Tiger?
+    text = Chúng tôi sẽ cố gắng vào Tiger Tiger?
     // Shall we try to get into Tiger Tiger?
     member = 02967046-d275-404f-b27b-ead40c2ded01
 [/Collection]
@@ -23922,7 +23922,7 @@
     member = 5d7caa8f-a14c-49b9-b2e4-a07c72f4e12c
 [/Collection]
 [Collection]
-    text = "Janine Wachowski. Tình yêu đích thực của tôi, và là mẹ của người thừa kế thực sự của tôi."
+    text = "Janine Wachowski. Tình yêu đích thực của tôi, và mẹ của người thừa kế thực sự của tôi."
     // "Janine Wachowski. My true love, and mother to my true heir."
     member = 2c69e384-39bd-4101-a946-4218629b225d
 [/Collection]
@@ -24076,28 +24076,28 @@
     member = e9a5af00-91d0-4b55-bfd6-51ee56965cf2
 [/Collection]
 [Collection]
-    text = Làm thế nào chúng ta có thể chiến đấu với lực lượng thấm nhuần sức mạnh của chính chúng ta?
+    text = Làm thế nào chúng tôi có thể chiến đấu với lực lượng thấm nhuần sức mạnh của chính chúng tôi?
     // How can we fight a force imbued with our own power?
     member = 83b5a758-ab73-4534-ba33-7a3405b9d713
     member = 5f84fdd4-29d4-41c4-bd44-1894c6310124
     member = b50a205e-e502-4c1b-8d5b-a912a0f4c68e
 [/Collection]
 [Collection]
-    text = Tôi thấy kẻ ngốc đã ném Thế giới cổ ArchDuke vào Vực thẳm hỗn loạn có ở trong số chúng ta không?
+    text = Tôi thấy kẻ ngốc đã ném Thế giới cổ ArchDuke vào Vực thẳm hỗn loạn có ở trong số chúng tôi không?
     // I see the fool that hurled ArchDuke OldWorld into the Chaos Abyss is among us?
     member = c7604bc4-c689-4bd6-8fd2-8797fc1de922
     member = e78f7b30-0db9-4151-8d22-793e86fca413
     member = 87453fce-5df3-4305-ae52-b7e34cb40647
 [/Collection]
 [Collection]
-    text = Tôi ném con quái vật xuống hố để CỨU tất cả những gì chúng ta biết!
+    text = Tôi ném con quái vật xuống hố để CỨU tất cả những gì chúng tôi biết!
     // I cast the fiend into the pit to SAVE all we know!
     member = 96e9b75d-5360-4606-935c-55b0066e88c9
     member = 85b23255-faf5-4a36-842d-aed605f7f31d
     member = 88c4e40f-037b-4c33-a6ec-f8492a32f8e7
 [/Collection]
 [Collection]
-    text = Tuy nhiên, bây giờ ArchDuke đang hoành hành khắp đàn của chúng ta!
+    text = Tuy nhiên, bây giờ ArchDuke đang hoành hành khắp đàn của chúng tôi!
     // Yet now the ArchDuke runs rampant through our flock!
     member = 99bef947-fd40-4b0e-a364-0222ad1feca5
     member = 9bf2be8b-4b34-4f20-933e-4e5476e6111e
@@ -24146,7 +24146,7 @@
     member = b8b21988-255d-4a74-abde-8a0960732b70
 [/Collection]
 [Collection]
-    text = Làm dịu anh ấy! Trước khi Thiên cung băng của tôi tràn ngập vùng đất của chúng ta!
+    text = Làm dịu anh ấy! Trước khi Thiên cung băng của tôi tràn ngập vùng đất của chúng tôi!
     // Becalm him! Before my Celestial Ice Palace floods our land!
     member = 7c43bf8d-247f-403d-b976-73ff825e44b5
     member = e68d40e4-e784-4c51-be05-e1137dda5575
@@ -24550,7 +24550,7 @@
     member = 5ace0402-21eb-4813-b570-b93e76edf18c
 [/Collection]
 [Collection]
-    text = Thỏ Zachary - quanh đây chúng ta có một quy tắc.
+    text = Thỏ Zachary - quanh đây chúng tôi có một quy tắc.
     // Zachary Bunny - round here we have one rule.
     member = 7090d052-9908-4102-91d5-3538ac82054e
     member = c8570b44-4d70-4fc2-a102-dc8c5e5d4d5d
@@ -24591,7 +24591,7 @@
     member = 0f90f4c3-8084-4a3f-952c-01d8fa774bc9
 [/Collection]
 [Collection]
-    text = Giờ thì, chúng ta ôm nhau nhé?
+    text = Giờ thì, chúng tôi ôm nhau nhé?
     // Now then, shall we hug?
     member = 81c92753-77b0-4360-b853-080d2cdc298f
     member = 343a3e83-008f-4714-84d1-c05907060ad7
@@ -24651,7 +24651,7 @@
     member = 55402a7a-11c3-492c-83da-881e1ceb47e3
 [/Collection]
 [Collection]
-    text = Xin chào các Người điều hành đồng nghiệp.
+    text = Chào mừng, Người điều hành đồng nghiệp.
     // Greetings, fellow Moderators.
     member = 08d9e170-e771-4b1d-8476-75d7c7f051aa
     member = 6e96bbc8-d3ba-4916-b54a-3bf888111b3e
@@ -24687,7 +24687,7 @@
     member = 6acd44c0-f436-4d0f-98fb-9725db796123
 [/Collection]
 [Collection]
-    text = Mọi người đang bồn chồn. Chúng ta phải hành động.
+    text = Mọi người đang bồn chồn. Chúng tôi phải hành động.
     // The people are restless. We must act.
     member = e943c359-995b-49c5-b762-d95521474ff1
     member = 010e023f-5978-4e49-aa5d-e019cb36949f
@@ -24785,7 +24785,7 @@
     member = a95a6d36-dc01-4d90-8acc-51b3d4ba544a
 [/Collection]
 [Collection]
-    text = Chúng ta có gì ở đây Joel?
+    text = Chúng tôi có gì ở đây Joel?
     // What do we have here Joel?
     member = 3031b7a5-e42c-4ebe-bd39-0651d1136801
 [/Collection]
@@ -24887,7 +24887,7 @@
     member = f7166dba-f2e0-45ad-960c-2f4dd1fe8ea1
 [/Collection]
 [Collection]
-    text = Nhưng Thỏ bảo mẫu nói rằng chúng ta phải chia sẻ!
+    text = Nhưng Thỏ bảo mẫu nói rằng chúng tôi phải chia sẻ!
     // But Nanny Bunny says that we must share!
     member = 030d3dae-c15c-44e7-a813-75b2b9220dac
     member = a4c87ae8-6da1-4028-9f3d-d31190a5ed92
@@ -24911,7 +24911,7 @@
     member = 52d1f286-0c8c-4c6d-8070-706d3e6cd86a
 [/Collection]
 [Collection]
-    text = Thỏ Jemima - quanh đây chúng ta có một quy tắc.
+    text = Thỏ Jemima - quanh đây chúng tôi có một quy tắc.
     // Jemima Bunny - round here we have one rule.
     member = 69669556-f395-4e07-9097-d932a2ef75df
     member = eb8ed9ba-7803-4508-b9bb-18f805e00c79
@@ -25356,13 +25356,13 @@
     member = ebab8b16-3bad-40af-b77b-556d59e49e99
 [/Collection]
 [Collection]
-    text = Bạn đang làm gì đấy?
+    text = Bạn đang làm gì?
     // What are you doing?
     member = 803f0a0b-b68e-4a56-bb1f-80cf086d7821
     member = 087d234a-6948-4184-ac0e-62fed395197c
 [/Collection]
 [Collection]
-    text = Ở vòng này chúng ta có một quy tắc!
+    text = Ở vòng này chúng tôi có một quy tắc!
     // Round here we have one rule!
     member = 57fa1818-066e-4601-85fb-cba0fba1f061
     member = 06bdf77a-e565-4af1-a576-a583bbbecbd0
@@ -25429,7 +25429,7 @@
     member = f47d77b2-1e9d-4f2c-aca1-85d3c608a745
 [/Collection]
 [Collection]
-    text = Đối với tất cả chúng ta, bạn bè.
+    text = Đối với tất cả chúng tôi, bạn bè.
     // To us all, friend.
     member = 4d6aaebb-a280-45bb-9f7d-276ef4b13234
 [/Collection]
@@ -25454,12 +25454,12 @@
     member = 5bd39430-4b7f-4da3-a6e3-69eadc73ec44
 [/Collection]
 [Collection]
-    text = Chúng tôi đã cùng nhau chiến đấu với hắn. Chúng ta đã cùng nhau đánh bại hắn.
+    text = Chúng tôi đã cùng nhau chiến đấu với hắn. Chúng tôi đã cùng nhau đánh bại hắn.
     // Together we fought him. Together we defeated him.
     member = 615d8001-1823-4328-a7ca-4e10a9d62abd
 [/Collection]
 [Collection]
-    text = Chỉ thông qua sự đoàn kết và tình bạn, chúng ta mới có thể hy vọng đẩy lùi những gì xảy ra sau đó.
+    text = Chỉ thông qua sự đoàn kết và tình bạn, chúng tôi mới có thể hy vọng đẩy lùi những gì xảy ra sau đó.
     // Only through unity and friendship, can we hope to repel that which follows.
     member = 801dc74e-da54-4bc8-b891-592b01ea61a8
 [/Collection]
@@ -25661,7 +25661,7 @@
     member = 608466fd-acbd-4ea2-98cd-0ded71a9d000
 [/Collection]
 [Collection]
-    text = Và sau đó chúng ta có thể thay phiên nhau!
+    text = Và sau đó chúng tôi có thể thay phiên nhau!
     // And then we can take turns!
     member = d99f2bfc-49f8-48a8-a5f2-1d14e1d54b4c
 [/Collection]
@@ -25741,7 +25741,7 @@
     member = adbe859a-c558-428a-ac85-a32d78741d69
 [/Collection]
 [Collection]
-    text = Không! Thế giới cổ ArchDuke! Tôi cảm thấy nó sau đó, và tôi cảm thấy nó bây giờ!
+    text = Không! Thế giới cổ ArchDuke! Tôi cảm thấy nó sau đó, và Tôi cảm thấy nó bây giờ!
     // No! ArchDuke OldWorld! I felt it then, and I feel it now!
     member = 799be616-289c-480b-9f28-923c3b19a302
 [/Collection]
@@ -25751,7 +25751,7 @@
     member = e18ce0cd-61c5-4096-84e7-10f3bb5a85fd
 [/Collection]
 [Collection]
-    text = Hãy từ bỏ sức mạnh của bạn, trước khi vương quốc của chúng ta bị ràng buộc!
+    text = Hãy từ bỏ sức mạnh của bạn, trước khi vương quốc của chúng tôi bị ràng buộc!
     // Lay down your power, before our realm unbinds!
     member = 3a9a948b-14c8-4a1a-81db-938be4784476
 [/Collection]
@@ -25786,7 +25786,7 @@
     member = 4f019495-c989-495d-8c31-ed833ef9c7e7
 [/Collection]
 [Collection]
-    text = Chúng ta sẽ tìm ra cách, Thế giới cổ ArchDuke.
+    text = Chúng tôi sẽ tìm ra cách, Thế giới cổ ArchDuke.
     // We will find a way, ArchDuke OldWorld.
     member = eb6eeb3f-0f5c-4387-9ad9-b7a088f70e04
 [/Collection]
@@ -25801,7 +25801,7 @@
     member = 070aeaa5-bc0c-4f28-91ef-6dcb2bfae7b4
 [/Collection]
 [Collection]
-    text = Chúng tôi đi theo nhiều tên. Nhưng mãi mãi và một ngày nào đó, chúng ta sẽ...
+    text = Chúng tôi đi theo nhiều tên. Nhưng mãi mãi và một ngày nào đó, chúng tôi sẽ...
     // We go by many names. But forever and a day, we shall be...
     member = 5e2feef8-1f07-4283-ada5-e3afb3d8830a
 [/Collection]
@@ -25857,7 +25857,7 @@
     member = 761fa7de-d25f-45b7-86a8-54722b24bfbd
 [/Collection]
 [Collection]
-    text = Tung tóe! Tung tóe!
+    text = Văng tung tóe! Văng tung tóe!
     // Splash! Splash!
     member = 7ce3d189-9001-4864-bb95-30d2c95bbd4b
 [/Collection]
@@ -25867,7 +25867,7 @@
     member = 61c45913-01e3-491d-8a10-4487aabc3dee
 [/Collection]
 [Collection]
-    text = Tung tóe! Tung tóe! Hee hee!
+    text = Văng tung tóe! Văng tung tóe! Hee hee!
     // Splash! Splash! Hee hee!
     member = 9aa4f5af-dbb6-4878-8610-e82eb08782b4
 [/Collection]
@@ -25927,7 +25927,7 @@
     member = 6eb3f2f1-688d-4c94-b5d1-4026c4ca33b2
 [/Collection]
 [Collection]
-    text = Vui như vậy! Phồng và thở hổn hển, chạy nước rút và chạy bộ.
+    text = Vui như vậy! Puff và pant, chạy nước rút và chạy bộ.
     // Such fun! Puff and pant, sprint and jog.
     member = 714d2f2e-51e8-44e8-a526-f09761a2a4f1
 [/Collection]
@@ -25957,7 +25957,7 @@
     member = 936437d7-73ae-4051-b419-4eb7f0e76e7f
 [/Collection]
 [Collection]
-    text = Anh ấy đang ở trong Khu vực cấm.
+    text = Anh ấy đang ở trong Khu cấm.
     // He's inside the Exclusion Zone.
     member = 61b1d42c-56d4-41a1-b9f8-1424e54c18bc
 [/Collection]
@@ -25992,7 +25992,7 @@
     member = 9d044719-977a-4103-bfba-ded967693d2a
 [/Collection]
 [Collection]
-    text = Con đường quá lớn để chúng ta chỉ... tin...
+    text = Con đường quá lớn để chúng tôi chỉ... tin...
     // Way too big for us to just... believe...
     member = 54ee3763-ded3-465e-abd4-93770265475a
 [/Collection]
@@ -26062,12 +26062,12 @@
     member = d0602169-e031-4c5c-a4a4-1c8e3cef3747
 [/Collection]
 [Collection]
-    text = Họ nói rằng họ đang bảo vệ chúng ta.
+    text = Họ nói rằng họ đang bảo vệ chúng tôi.
     // They say they're protecting us.
     member = e63dcb6d-3ff7-4440-adfa-cd260546ffc9
 [/Collection]
 [Collection]
-    text = Họ đang chết dần chết mòn trong đó, chúng ta biết điều đó phải không?
+    text = Họ đang chết dần chết mòn trong đó, chúng tôi biết điều đó phải không?
     // They're dying in there, we know that right?
     member = a975df1c-b4ae-49bb-b10a-a1978f287562
 [/Collection]
@@ -26122,7 +26122,7 @@
     member = d48a0d7a-598d-4175-ba23-22bbbf2393c4
 [/Collection]
 [Collection]
-    text = Chúng tôi có đoàn xe lớn tiến về phía biên giới cấm.
+    text = Chúng tôi có đoàn hộ tống lớn tiến về phía biên giới cấm.
     // We had a major convoy headed through towards the Exclusion border.
     member = d027f502-97bc-4798-93a0-8918fecbe87a
 [/Collection]
@@ -26207,7 +26207,7 @@
     member = 3cbdc6d5-23ff-4ab3-8ad8-ecc07c929bf9
 [/Collection]
 [Collection]
-    text = Bây giờ chúng ta biết sự thật.
+    text = Bây giờ chúng tôi biết sự thật.
     // We know the truth now.
     member = 31663750-2b15-4fdc-88f3-b50d1bdc035d
 [/Collection]
@@ -26237,7 +26237,7 @@
     member = 3025db04-a199-401d-9af1-dc0cdd4a2eeb
 [/Collection]
 [Collection]
-    text = Là vì chúng ta nghèo.
+    text = Là vì chúng tôi nghèo.
     // It's because we're poor.
     member = f886f7f9-ffef-4bb0-9a5c-ba0cc6d46fbe
 [/Collection]
@@ -26337,7 +26337,7 @@
     member = d9b69c95-6760-4e8b-8f03-797ae1080074
 [/Collection]
 [Collection]
-    text = Chúng tôi hy vọng Muldraugh hoặc West Point sẽ có hàng tiếp tế.
+    text = Chúng tôi hy vọng Muldraugh hoặc West Point sẽ có vật tư.
     // We're hoping Muldraugh or West Point will have supplies.
     member = 33e5e56e-7dc6-4eb5-bad1-4fc744daf304
 [/Collection]
@@ -26352,7 +26352,7 @@
     member = 05e5acd4-46a0-496f-acd9-0f8bf438e6bc
 [/Collection]
 [Collection]
-    text = Vì vậy, trừ khi chúng ta tìm thấy một nơi nào đó...
+    text = Vì vậy, trừ khi chúng tôi tìm thấy một nơi nào đó...
     // So, unless we find someplace...
     member = 26e22d16-680a-4156-8f61-e6a88afd3f1a
 [/Collection]
@@ -26422,7 +26422,7 @@
     member = 87c1bc58-5fb5-421f-ac51-f71cde5be285
 [/Collection]
 [Collection]
-    text = Chết tiệt, tôi thậm chí không biết chúng ta đang ở đâu.
+    text = Chết tiệt, tôi thậm chí không biết chúng tôi đang ở đâu.
     // Shit, I don't even know where we are.
     member = 469d90a3-d41f-4b1c-91a0-ac03f814c913
 [/Collection]
@@ -26459,7 +26459,7 @@
     member = dbeadce8-5505-4f9e-ad24-64ed7fb635da
 [/Collection]
 [Collection]
-    text = Có rất nhiều người chết bên ngoài nhưng chúng ta vẫn an toàn.
+    text = Có rất nhiều người chết bên ngoài nhưng chúng tôi vẫn an toàn.
     // There's a hell of a lot of dead people outside but we're safe.
     member = 90ea5ce7-9dc3-46c1-a238-5064ab3ec109
 [/Collection]
@@ -26522,12 +26522,12 @@
     member = 0dbd22d5-9bcf-466a-8d52-60462e5fb638
 [/Collection]
 [Collection]
-    text = Nhưng chúng ta còn sống.
+    text = Nhưng chúng tôi còn sống.
     // But we're alive.
     member = 6c8389ea-2d80-4cc1-9bf1-f2604affb456
 [/Collection]
 [Collection]
-    text = Chúng tôi có đồ dùng để chia sẻ.
+    text = Chúng tôi có vật tư để chia sẻ.
     // We have supplies to share.
     member = afc44223-90d0-47dd-8093-254dca162e7d
     member = ac6472a6-08a8-4939-a738-f3608e654a3f
@@ -26625,7 +26625,7 @@
     member = 6a156e0d-832e-4c6d-b7c6-e53dd1317ee8
 [/Collection]
 [Collection]
-    text = Chúng ta có quyền lực và chúng ta đang ngồi trên núi lương thực.
+    text = Chúng tôi có quyền lực và chúng tôi đang ngồi trên núi lương thực.
     // We have power and we're sitting on a ration mountain.
     member = 68f2bb82-af1d-46dd-a9ef-184eaefeb957
 [/Collection]
@@ -26759,7 +26759,7 @@
     member = db9858c7-1bd9-4694-acec-762595aaa334
 [/Collection]
 [Collection]
-    text = Chúng ta đã xây dựng lại các công sự. Chúng tôi có súng.
+    text = Chúng tôi đã xây dựng lại các công sự. Chúng tôi có súng.
     // We've rebuilt fortifications. We have guns.
     member = ebb087cf-c863-4aeb-948d-73f97bb43fd9
 [/Collection]
@@ -26779,7 +26779,7 @@
     member = b5e7a6a9-1f12-4663-a7b9-85cca9dfdc74
 [/Collection]
 [Collection]
-    text = Không có súng.
+    text = Không súng.
     // No guns.
     member = d65e0d41-cf4d-45f2-87f5-174e718ec996
 [/Collection]
@@ -26814,7 +26814,7 @@
     member = dca45a47-a8f4-4a4a-990d-f4b00976e8d0
 [/Collection]
 [Collection]
-    text = Chúng tôi cần bạn: chúng tôi có nguồn cung cấp, chúng tôi chỉ cần con người.
+    text = Chúng tôi cần bạn: chúng tôi có vật tư, chúng tôi chỉ cần con người.
     // We need you: we've got the supplies, we just need the people.
     member = f9c98180-62b2-4446-b5b1-4d97512915df
 [/Collection]
@@ -26824,7 +26824,7 @@
     member = 4100cd8e-c60e-433e-9854-dca7aa892cd7
 [/Collection]
 [Collection]
-    text = Tôi đang ở trong Khu vực cấm. Bạn đang bị LỪA.
+    text = Tôi đang ở trong Khu cấm. Bạn đang bị LỪA.
     // I'm in the Exclusion Zone. You're being LIED to.
     member = 88726f0a-eb69-4b64-ad61-cd1d684d222b
 [/Collection]
@@ -26859,7 +26859,7 @@
     member = 256909f6-2de6-462a-a64f-99954bc4e23f
 [/Collection]
 [Collection]
-    text = Và chúng ta không thể ra ngoài.
+    text = Và chúng tôi không thể ra ngoài.
     // And we can't get out.
     member = baae6b38-ca2a-44be-90a5-05205b2acffb
 [/Collection]

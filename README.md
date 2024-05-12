@@ -26,7 +26,7 @@ Mình hy vọng trong thời gian rãnh rỗi ngồi nghe radio hay TV bạn s�
 Tuy nhiên mình không có nhiều thời gian để việt hóa nên bạn nào cùng chí hướng đóng góp chung với mình nhé
 
 # Liên lạc và ủng hộ
-Ủng hộ tại: [Playerduo](https://playerduo.com/cackehoa)
+Ủng hộ tại: [Playerduo](https://playerduo.net/cackehoa)
 
 Fanpage: [fb](https://www.facebook.com/cackehoa)
 
