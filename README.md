@@ -25,6 +25,10 @@ Mình phát hiện có nguyên một tập lớn thông tin khá thú vị trong
 Mình hy vọng trong thời gian rãnh rỗi ngồi nghe radio hay TV bạn sẽ đọc được gì đó thú vị vì trò chơi này không có cốt truyện.
 Tuy nhiên mình không có nhiều thời gian để việt hóa nên bạn nào cùng chí hướng đóng góp chung với mình nhé
 
+# Xem thêm hướng dẫn sử dụng github
+
+Nếu chưa biết cách sử dụng [github](https://github.com) thì bạn có thể xem thêm [ở đây](https://github.com/cackehoa/cackehoa/blob/main/huongdan/HUONG-DAN.md)
+
 # Liên lạc và ủng hộ
 Ủng hộ tại: [Playerduo](https://playerduo.net/cackehoa)
 
